@@ -1,0 +1,5 @@
+token_symbol,fallback_provider_unavailable,true_data_gap,expected_post_delisting_missing,low_liquidity_fallback,suspicious_fallback_spike,fallback_exchange,fallback_pair,fallback_rows_count,fallback_quote_volume,reason,notes
+COS,yes,yes,yes,no,no,ccxt_gateio,COS/USDT,902,51206288.392697185,benchmark_gap;expected_post_delisting_missing;fallback_provider_unavailable;true_data_gap,
+D,yes,yes,yes,no,no,ccxt_kucoin,D/USDT,25,2893965.584372,benchmark_gap;expected_post_delisting_missing;fallback_provider_unavailable;true_data_gap,
+HIGH,yes,yes,yes,no,no,ccxt_gateio,HIGH/USDT,965,648428644.7164989,benchmark_gap;expected_post_delisting_missing;fallback_provider_unavailable;true_data_gap,
+MBOX,yes,yes,yes,no,no,ccxt_gateio,MBOX/USDT,986,190231540.57949725,benchmark_gap;expected_post_delisting_missing;fallback_provider_unavailable;true_data_gap,

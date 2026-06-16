@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 260596,
+            "code": "7372ff010d914e84b9fd994f849478cd",
+            "title": "Binance Options Upgrade: ETH Options Writing and New Advanced Features Now Live",
+            "type": 1,
+            "releaseDate": 1768543201004
+          },
+          {
+            "id": 262764,
+            "code": "96ac152ced224d7a92a10a11335f5212",
+            "title": "Binance Futures Will Convert USDⓈ-Margined LITUSDT Perpetual Contract Pre-Market Trading to Standard Perpetual Futures Contract (2026-01-15)",
+            "type": 1,
+            "releaseDate": 1768489310442
+          },
+          {
+            "id": 262722,
+            "code": "ca427b60efed45ccaa0e225ff4fdf7e8",
+            "title": "Join the Discord AMA & Win Red Packets: Binancian YIR & The Road Ahead",
+            "type": 1,
+            "releaseDate": 1768478428369
+          },
+          {
+            "id": 262661,
+            "code": "9f7aea8a78cc46c585f00bc5e15c68e3",
+            "title": "Binance P2P Buy & Earn: Buy Crypto via P2P and Instantly Earn Rewards with Binance Earn and HODLer Airdrops",
+            "type": 1,
+            "releaseDate": 1768471203114
+          },
+          {
+            "id": 262631,
+            "code": "4856a6d4e4014d4e8a5a29ec5fb44857",
+            "title": "Binance Updates the Zero Trading Fee Promotion for All Users (2026-01-29)",
+            "type": 1,
+            "releaseDate": 1768460403370
+          },
+          {
+            "id": 262579,
+            "code": "1ceccd57d31548ff8e62f0cd6b2aa3f5",
+            "title": "Binance Wallet (Web) Introduces Perpetual Futures Trading, Provided by Aster",
+            "type": 1,
+            "releaseDate": 1768381201043
+          },
+          {
+            "id": 262500,
+            "code": "aafe129f07df4b478355f9a89d7c003e",
+            "title": "Binance Earn Yield Arena: Earn Up to 29% APR With This Week’s New Limited-Time Offers! (2026-01-14)",
+            "type": 1,
+            "releaseDate": 1768377618724
+          },
+          {
+            "id": 262497,
+            "code": "7d6352b03c4d49c98f39998118208c44",
+            "title": "Spot & Margin Pending Orders Placed Before 2024-01-01 to Be Automatically Cancelled on 2026-01-21",
+            "type": 1,
+            "releaseDate": 1768374006633
+          },
+          {
+            "id": 262255,
+            "code": "5b49d23d70a84bd9ae1e5948fbabf535",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-01-12)",
+            "type": 1,
+            "releaseDate": 1768208404280
+          },
+          {
+            "id": 262021,
+            "code": "82d9aeb7cd4743b08a3f3ecf5a99e39f",
+            "title": "State of the Blockchain 2025: Binance’s Year-in-Review Highlights",
+            "type": 1,
+            "releaseDate": 1767880801334
+          },
+          {
+            "id": 261968,
+            "code": "ecf7318c0d434c339e80878588e700d0",
+            "title": "Binance Futures Launches TradFi Perpetual Contracts",
+            "type": 1,
+            "releaseDate": 1767859201624
+          },
+          {
+            "id": 261916,
+            "code": "a5d2161fbf3d457481b7d23d26dcc2da",
+            "title": "Binance Adds SKY and PLUME on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1767852170614
+          },
+          {
+            "id": 261913,
+            "code": "816ca72327de490a86f57341bdf07cfe",
+            "title": "Binance Margin Will Update the Collateral Ratio of Multiple Cross Margin Assets (2026-01-12)",
+            "type": 1,
+            "releaseDate": 1767848401580
+          },
+          {
+            "id": 261791,
+            "code": "85ec95595fac49e4817b527f06fc565c",
+            "title": "Important Update to Proof of Reserves (POR)",
+            "type": 1,
+            "releaseDate": 1767780001084
+          },
+          {
+            "id": 261746,
+            "code": "d954afe895d043f880717e207209c2a6",
+            "title": "Binance Earn Yield Arena: Earn Up to 29% APR With This Week’s New Limited-Time Offers! (2026-01-07)",
+            "type": 1,
+            "releaseDate": 1767776405180
+          },
+          {
+            "id": 261557,
+            "code": "a4a7d00e88224224b55293be07724334",
+            "title": "Binance’s ADGM Launch Update",
+            "type": 1,
+            "releaseDate": 1767600004206
+          },
+          {
+            "id": 261359,
+            "code": "b15c2beb81b94e7a846f905b267ce546",
+            "title": "Binance Will Extend the Monitoring Tag to Include ACA, D, DATA & FLOW on 2026-01-02",
+            "type": 1,
+            "releaseDate": 1767351597739
+          },
+          {
+            "id": 261330,
+            "code": "1054fc321c82419599d579f88d7d681c",
+            "title": "Update on Zero Fee Promotion for BFUSD Trading Pairs",
+            "type": 1,
+            "releaseDate": 1767344401953
+          },
+          {
+            "id": 261313,
+            "code": "e4445d0389ce4defa6009021fcf6ee46",
+            "title": "Important Updates on Funding Rate Settlement Frequency of USDⓈ-M Perpetual Contracts (2026-01-02)",
+            "type": 1,
+            "releaseDate": 1767339193416
+          },
+          {
+            "id": 261164,
+            "code": "b3162d06bb47427da952cf78c6df21bf",
+            "title": "Binance Earn Yield Arena: Earn Up to 29% APR With This Week’s New Limited-Time Offers! (2025-12-31)",
+            "type": 1,
+            "releaseDate": 1767168003831
+          },
+          {
+            "id": 260845,
+            "code": "897fe2feff8f4110b18a8487e1613f9c",
+            "title": "Binance Earn Yield Arena: Earn Up to 29% APR With This Week’s New Limited-Time Offers! (2025-12-24)",
+            "type": 1,
+            "releaseDate": 1766563203611
+          },
+          {
+            "id": 260595,
+            "code": "0ba94497bb264bcb89eccd8c2fc0d470",
+            "title": "Important Notice on System Migration Affecting Binance Convert Recurring Plans",
+            "type": 1,
+            "releaseDate": 1766469671269
+          },
+          {
+            "id": 260482,
+            "code": "b7a09ab510734796a5a35ea6e631a837",
+            "title": "Introducing Recurring Send for Binance Pay and Crypto Withdrawals: Automate Your Transfers",
+            "type": 1,
+            "releaseDate": 1766134802049
+          },
+          {
+            "id": 260302,
+            "code": "b6fbc833fa1148e7bdfa45adc4836bc1",
+            "title": "Binance Updates Zero Fee Promotion on USDC Trading Pairs for VIP 2 - 9 Users and Spot Liquidity Providers (2025-12-22)",
+            "type": 1,
+            "releaseDate": 1766044801753
+          },
+          {
+            "id": 260259,
+            "code": "1cd08ee9bafd40a2a94e8dfc58408f82",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2025-12-22)",
+            "type": 1,
+            "releaseDate": 1766026830384
+          },
+          {
+            "id": 260130,
+            "code": "89d3d6e8ed2045cf901adbfadbfaf935",
+            "title": "Binance Wallet Introduces New Web3 Loan Feature for On-Chain Borrowing",
+            "type": 1,
+            "releaseDate": 1765969202103
+          },
+          {
+            "id": 260061,
+            "code": "66b50fe722764d5ba795b8f691941a0b",
+            "title": "Binance Earn Yield Arena: Earn Up to 29% APR With This Week’s New Limited-Time Offers! (2025-12-17)",
+            "type": 1,
+            "releaseDate": 1765958410285
+          },
+          {
+            "id": 259976,
+            "code": "9e19a073ccc44b34938af9806c9821b8",
+            "title": "Binance Earn: Adjusting Multiple Dual Investment Trading Pairs",
+            "type": 1,
+            "releaseDate": 1765951203717
+          },
+          {
+            "id": 259979,
+            "code": "305c55a531004eb094b838ba7740c98a",
+            "title": "Enhancing Transparency: How Binance Listings Work and Community Alerts on Fraudulent Third Parties Impersonations",
+            "type": 1,
+            "releaseDate": 1765948832365
+          },
+          {
+            "id": 259723,
+            "code": "f2acaf5f4c0d463aad9ccdd2db27d0d6",
+            "title": "Important Update Regarding Fiat Services and Bifinity UAB",
+            "type": 1,
+            "releaseDate": 1765782003550
+          },
+          {
+            "id": 259584,
+            "code": "fd9eb672307e435885fef732901250ed",
+            "title": "Update on Binance and Pakistan Collaborate to Foster Digital Asset Growth and Regulatory Development",
+            "type": 1,
+            "releaseDate": 1765539591060
+          },
+          {
+            "id": 259566,
+            "code": "baee5eb8aa8447c0810512b9da108f0a",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2025-12-15)",
+            "type": 1,
+            "releaseDate": 1765508407951
+          },
+          {
+            "id": 259417,
+            "code": "fff36e1db27a41de94952b02a0dcc3d9",
+            "title": "Binance Launches Indication of Interest",
+            "type": 1,
+            "releaseDate": 1765462511350
+          },
+          {
+            "id": 259384,
+            "code": "1b5fb5d5dab8435eb1a168544c370099",
+            "title": "Binance Earn Will Cease VTHO Distribution for VET Simple Earn Flexible Products (2026-01-01)",
+            "type": 1,
+            "releaseDate": 1765440003389
+          },
+          {
+            "id": 259322,
+            "code": "6ad93c9028d54983a39d73d114faf99b",
+            "title": "Updates on Tick Size for Spot Trading Pairs (2025-12-18)",
+            "type": 1,
+            "releaseDate": 1765422014136
+          },
+          {
+            "id": 259290,
+            "code": "ff9048db58ec4218aa008cf8a06ab4f2",
+            "title": "New Introduction to Aptos Course on Binance Academy: Complete and Share 3,500 APT in Rewards!",
+            "type": 1,
+            "releaseDate": 1765371604147
+          },
+          {
+            "id": 259053,
+            "code": "5c241300332a49ba81bface0374761db",
+            "title": "Binance Convert Introduces Take Profit and Stop Loss Orders for Instant Trades",
+            "type": 1,
+            "releaseDate": 1765368001212
+          },
+          {
+            "id": 259226,
+            "code": "2642081775d040d9ac275d70bc0ff14c",
+            "title": "Binance Futures Will Support USD1 in Multi-Assets Mode (2025-12-11)",
+            "type": 1,
+            "releaseDate": 1765355415708
+          },
+          {
+            "id": 259161,
+            "code": "95f0d5ff5e364de0b15d5575eb43927b",
+            "title": "Binance Upgrades Options Trading Platform (2025-12-14)",
+            "type": 1,
+            "releaseDate": 1765348205780
+          },
+          {
+            "id": 259114,
+            "code": "4cfc92b4cdcd4c2abf2c39ba0f4c2e3a",
+            "title": "Binance Earn Yield Arena: Earn Up to 29% APR With This Week’s New Limited-Time Offers! (2025-12-10)",
+            "type": 1,
+            "releaseDate": 1765346409861
+          },
+          {
+            "id": 259050,
+            "code": "03180947641b414ebcb9a6c407fe80e2",
+            "title": "Binance Updates Limited-Time Trading Fee Discount for USDC-Margined Perpetual Contracts (2025-12-10)",
+            "type": 1,
+            "releaseDate": 1765263611773
+          },
+          {
+            "id": 259030,
+            "code": "47071723d8fe4302ab15dafbd9a2edc8",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2025-12-12)",
+            "type": 1,
+            "releaseDate": 1765252801961
+          },
+          {
+            "id": 259012,
+            "code": "4ca290b2b21042a380c29f3db480205a",
+            "title": "Binance Futures Will Convert USDⓈ-Margined STABLEUSDT Perpetual Contract Pre-Market Trading to Standard Perpetual Futures Contract (2025-12-08)",
+            "type": 1,
+            "releaseDate": 1765197901245
+          },
+          {
+            "id": 258854,
+            "code": "f4f57a010f074dae9d34718635aba926",
+            "title": "Update on Binance’s Transition to ADGM",
+            "type": 1,
+            "releaseDate": 1765166400000
+          },
+          {
+            "id": 258757,
+            "code": "d9d73edb19864da1b1b25393f8263513",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2025-12-08)",
+            "type": 1,
+            "releaseDate": 1764910804057
+          },
+          {
+            "id": 258702,
+            "code": "c5256c18ecdf47759eacc60b124760d5",
+            "title": "Binance Updates Fiat Liquidity Provider Program (2025-12-04)",
+            "type": 1,
+            "releaseDate": 1764835206068
+          },
+          {
+            "id": 258657,
+            "code": "812a04fb68614da89d8243ba873a59a8",
+            "title": "Binance Margin Will Update the Collateral Ratio of Multiple Cross Margin Assets (2025-12-04)",
+            "type": 1,
+            "releaseDate": 1764828001999
+          },
+          {
+            "id": 258635,
+            "code": "4affff5c0b67492d8a9167df634b7e98",
+            "title": "Introducing Binance Junior: Crypto App for Families",
+            "type": 1,
+            "releaseDate": 1764756008750
+          },
+          {
+            "id": 258609,
+            "code": "4b8a736abf7c4bdba7fc39bf3bd02813",
+            "title": "Binance Earn Yield Arena: Earn Up to 29% APR With This Week’s New Limited-Time Offers! (2025-12-03)",
+            "type": 1,
+            "releaseDate": 1764745201427
+          },
+          {
+            "id": 258400,
+            "code": "f2e4b044cfdf43798cd6184fb6bb1a96",
+            "title": "Updates on the Leverage & Margin Tiers of USDⓈ-M Perpetual Contract (2025-12-05)",
+            "type": 1,
+            "releaseDate": 1764651601596
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4294,
+        "articles": [
+          {
+            "id": 276408,
+            "code": "1cfffee40a0d49c182e0b4366ea3f374",
+            "title": "Binance Wallet Launches Prediction Markets API",
+            "type": 1,
+            "releaseDate": 1780907402932
+          },
+          {
+            "id": 276315,
+            "code": "d38329a5dd4843c584ed2cc0784166f9",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-06)",
+            "type": 1,
+            "releaseDate": 1780644607299
+          },
+          {
+            "id": 276268,
+            "code": "4bd0c5b16c8a442c84dbbe7dd3acb814",
+            "title": "Binance Margin: Important Updates on Cross Margin Classic",
+            "type": 1,
+            "releaseDate": 1780641012463
+          },
+          {
+            "id": 276246,
+            "code": "2d70d8d34f474c6692a110388c32eff8",
+            "title": "Binance Futures Will Convert QNTXUSDT Pre-IPO Perp to Standard USDⓈ-Margined TradFi Perp (2026-06-04)",
+            "type": 1,
+            "releaseDate": 1780594750211
+          },
+          {
+            "id": 276217,
+            "code": "c551fe705be942888cb7b27493482dd8",
+            "title": "Binance Execution Services Launches Upgraded OTC Dashboard & Limited-Time Campaigns",
+            "type": 1,
+            "releaseDate": 1780574401267
+          },
+          {
+            "id": 276044,
+            "code": "c44afeb363734e6c9c733c4b798fe9f8",
+            "title": "Binance Updates Fiat Liquidity Provider Program (2026-06-04)",
+            "type": 1,
+            "releaseDate": 1780475403469
+          },
+          {
+            "id": 275979,
+            "code": "74b2a407f07d43138466cd2aa0e5f5d6",
+            "title": "Binance Earn Yield Arena: Earn Up to 200% APR With This Week’s New Limited-Time Offers! (2026-06-03)",
+            "type": 1,
+            "releaseDate": 1780470008577
+          },
+          {
+            "id": 275922,
+            "code": "45800a2dd0b7490d85e9173a51d2bd81",
+            "title": "Important Update: Compliance and Eligibility Requirements of Binance Referral Program",
+            "type": 1,
+            "releaseDate": 1780459222571
+          },
+          {
+            "id": 275886,
+            "code": "fcf3698a42104ba2b52e5c475d155321",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-04 & 2026-06-08)",
+            "type": 1,
+            "releaseDate": 1780453830480
+          },
+          {
+            "id": 275867,
+            "code": "0b6eb93d6c934fa48dadd49b1bdf452f",
+            "title": "Binance NFT Upgrade to Binance Wallet and Limited Time Withdrawal Fee Reimbursement",
+            "type": 1,
+            "releaseDate": 1780444800000
+          },
+          {
+            "id": 275866,
+            "code": "87903e71b9d9451db6f7ee4fade3fb66",
+            "title": "Binance Wallet Prediction Markets Integrates Predict Points (PP)",
+            "type": 1,
+            "releaseDate": 1780401602616
+          },
+          {
+            "id": 275821,
+            "code": "c5e9263fcf734a148e5d525ed287dedc",
+            "title": "Notice on Position Mode Upgrade for Binance COIN-M Futures (2026-06-15)",
+            "type": 1,
+            "releaseDate": 1780395304694
+          },
+          {
+            "id": 275811,
+            "code": "e84a50267c8b4fd0a37fdba9414ca84d",
+            "title": "Binance Ai Pro: Major Update — Your AI Trading Assistant Just Got Smarter",
+            "type": 1,
+            "releaseDate": 1780387201285
+          },
+          {
+            "id": 275808,
+            "code": "b3e8f4877a454461b235bc534495962a",
+            "title": "Binance Dubai Launches Direct AED Deposits & Withdrawals — Earn Up to 450 AED in Rewards",
+            "type": 1,
+            "releaseDate": 1780380008055
+          },
+          {
+            "id": 275708,
+            "code": "8c8fb6809d9c46789306905327e7567a",
+            "title": "Trade Stocks on Binance: Buy and Sell U.S. Stocks and ETFs from Your Binance Account",
+            "type": 1,
+            "releaseDate": 1780308001313
+          },
+          {
+            "id": 275610,
+            "code": "8ca0bf0ca6b04a439c529f0b503b38f7",
+            "title": "Binance Alpha Trading Competition: Trade Solstice (SLX) and Share $200K Worth of Rewards (2026-06-01)",
+            "type": 1,
+            "releaseDate": 1780286402049
+          },
+          {
+            "id": 275375,
+            "code": "a73498467e4b4434a85eab8f6d0cdd29",
+            "title": "Important Updates for the Binance P2P Block Zone in LATAM",
+            "type": 1,
+            "releaseDate": 1779962402084
+          },
+          {
+            "id": 275301,
+            "code": "ad910aedcaba43448626ff0884eecf9b",
+            "title": "Updates on Tick Size for Spot Trading Pairs (2026-06-04)",
+            "type": 1,
+            "releaseDate": 1779937207755
+          },
+          {
+            "id": 275259,
+            "code": "0648212bb40640b2a1dceac50c309edd",
+            "title": "Introducing Binance Wallet DeFi: 40+ Protocols, 1,000+ Pools, and Native Position Management",
+            "type": 1,
+            "releaseDate": 1779879603393
+          },
+          {
+            "id": 275223,
+            "code": "51eee8b9d9ba45e996f637c0e4d7f9c8",
+            "title": "Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-05-27)",
+            "type": 1,
+            "releaseDate": 1779865200965
+          },
+          {
+            "id": 275088,
+            "code": "6a7aff2596ed4593af4fb924ad687286",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-29)",
+            "type": 1,
+            "releaseDate": 1779775209537
+          },
+          {
+            "id": 275036,
+            "code": "bb5001e852e94ce39f0e8856f26d9be3",
+            "title": "Binance Wallet Introduces Event Rush — Trade Real-World Events Like Tokens",
+            "type": 1,
+            "releaseDate": 1779710403553
+          },
+          {
+            "id": 274989,
+            "code": "8b51be4480714986bd51b22c4a7c9763",
+            "title": "Binance OMS Toolkit: The First Institutional Exchange Solution for Trading Technology Providers",
+            "type": 1,
+            "releaseDate": 1779704105957
+          },
+          {
+            "id": 274992,
+            "code": "f0c49008c37f4f438177a624a7df8667",
+            "title": "Introducing DYOR: Your Research Hub for Binance Alpha Tokens",
+            "type": 1,
+            "releaseDate": 1779703210001
+          },
+          {
+            "id": 274891,
+            "code": "8ae1dd80262c49448ed114e499159f20",
+            "title": "Genius Terminal (GENIUS) and OpenGradient (OPG) Listing Will Be Postponed",
+            "type": 1,
+            "releaseDate": 1779446299224
+          },
+          {
+            "id": 274815,
+            "code": "ca0f3a3ff83243b79102b4561c8ccdc2",
+            "title": "Binance Will Extend the Monitoring Tag to Include ALCX, COOKIE, DODO, EPIC, HEI, HFT, STORJ, SYN & TLM on 2026-05-22",
+            "type": 1,
+            "releaseDate": 1779436804004
+          },
+          {
+            "id": 274640,
+            "code": "a8dca6743118408caef5a02310de096d",
+            "title": "Important Updates on the Funding Rate of SPCXUSDT USDⓈ-M Futures Pre-IPO Perp (2026-05-21)",
+            "type": 1,
+            "releaseDate": 1779347749004
+          },
+          {
+            "id": 274432,
+            "code": "0626daaf33cf433bb922e48e04049d7c",
+            "title": "Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-05-20)",
+            "type": 1,
+            "releaseDate": 1779260400000
+          },
+          {
+            "id": 274276,
+            "code": "7a9deab7bcad40a69dd61734a577387e",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-22)",
+            "type": 1,
+            "releaseDate": 1779163200000
+          },
+          {
+            "id": 274077,
+            "code": "5adac817d3a44e0e991701cf02153ed1",
+            "title": "Gensyn (AIGENSYN) Listing Will Be Further Postponed",
+            "type": 1,
+            "releaseDate": 1778769794066
+          },
+          {
+            "id": 274047,
+            "code": "44c4a778b9904d75ba241dab1dd60109",
+            "title": "Gensyn (AIGENSYN) Listing Will Be Postponed",
+            "type": 1,
+            "releaseDate": 1778759561557
+          },
+          {
+            "id": 273977,
+            "code": "11c97125d6344da4b2e9716df82a9386",
+            "title": "Binance Trading Bot Will Support TradFi Perps For Futures Grid, Futures DCA and Position Snowball (2026-05-14)",
+            "type": 1,
+            "releaseDate": 1778744702202
+          },
+          {
+            "id": 273909,
+            "code": "53bfc17634f54f2f90666dbc396f5cee",
+            "title": "Important Updates on Price Index Calculation Mode of Equity-Based TradFi Perpetual Contracts (2026-05-16)",
+            "type": 1,
+            "releaseDate": 1778683335025
+          },
+          {
+            "id": 273772,
+            "code": "abc1d592323d4c1fb4c1c71cfa50d02c",
+            "title": "Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-05-13)",
+            "type": 1,
+            "releaseDate": 1778657408539
+          },
+          {
+            "id": 273769,
+            "code": "ac3fad5bf9c041cdb25a77347c17a2e2",
+            "title": "Updates on Tick Size for Spot Trading Pairs (2026-05-20)",
+            "type": 1,
+            "releaseDate": 1778655609882
+          },
+          {
+            "id": 273571,
+            "code": "fd9a0d1f932f4025bdb09b6c57179c9a",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-15)",
+            "type": 1,
+            "releaseDate": 1778554829425
+          },
+          {
+            "id": 273566,
+            "code": "2d6107c51bc243dd9e92c86217933b18",
+            "title": "Binance OMS Toolkit Tier Structure & Benefit System",
+            "type": 1,
+            "releaseDate": 1778551411511
+          },
+          {
+            "id": 273393,
+            "code": "441548ab68234492bcb1eef09e0c5f78",
+            "title": "Binance Copy Trading Will Apply New ROI Method to All Spot Lead Portfolios",
+            "type": 1,
+            "releaseDate": 1778207408315
+          },
+          {
+            "id": 273368,
+            "code": "c5f4c0f9d3d44bf0a5d15ed17f7650a3",
+            "title": "Gensyn Trading Competition: Trade Gensyn (AIGENSYN) and Share $100K Worth of Rewards (2026-05-07)",
+            "type": 1,
+            "releaseDate": 1778151600000
+          },
+          {
+            "id": 273245,
+            "code": "246fb921aeea4d56b22197ef1b2f7a09",
+            "title": "Binance Oracle Initiates Service Transition to Atlas",
+            "type": 1,
+            "releaseDate": 1778065201426
+          },
+          {
+            "id": 273229,
+            "code": "e2563decc21c49c79f9a45e577c37b46",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M TradFi Perpetual Contracts (2026-05-08)",
+            "type": 1,
+            "releaseDate": 1778060660363
+          },
+          {
+            "id": 273204,
+            "code": "60e039bb8da142019de8718b9e961735",
+            "title": "Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-05-06)",
+            "type": 1,
+            "releaseDate": 1778050803328
+          },
+          {
+            "id": 273188,
+            "code": "acc2cb4b45714c7b99cfe3ba4848f3f4",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-08)",
+            "type": 1,
+            "releaseDate": 1778032811349
+          },
+          {
+            "id": 273167,
+            "code": "d29b59c26a914c71b95e864369a6bfb0",
+            "title": "Important Updates on Price Index Calculation Mode of Commodity-Based TradFi Perpetual Contracts (2026-05-08)",
+            "type": 1,
+            "releaseDate": 1777973401068
+          },
+          {
+            "id": 273128,
+            "code": "28e3d1ecbb7f4b28a44f378a8d3f16ef",
+            "title": "Binance Launches Seven New Localized WhatsApp Channels",
+            "type": 1,
+            "releaseDate": 1777957204145
+          },
+          {
+            "id": 273050,
+            "code": "35d698bf50374788b5085e48f3c5856b",
+            "title": "Binance Updates Fiat Liquidity Provider Program (2026-05-04)",
+            "type": 1,
+            "releaseDate": 1777856400000
+          },
+          {
+            "id": 272871,
+            "code": "629b1970537e45b8801427d3de49a25b",
+            "title": "Binance Will Extend the Monitoring Tag to Include NFP, NOM, POND, QUICK & VIC on 2026-04-30",
+            "type": 1,
+            "releaseDate": 1777532405981
+          },
+          {
+            "id": 272799,
+            "code": "96692c075f7642e99b28eb7e86c49f94",
+            "title": "Binance Margin will Optimize the Interest Rule for Loans",
+            "type": 1,
+            "releaseDate": 1777514414377
+          },
+          {
+            "id": 272712,
+            "code": "ee4030a109a049aa94544e4b4e90240b",
+            "title": "Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-04-29)",
+            "type": 1,
+            "releaseDate": 1777449610676
+          },
+          {
+            "id": 272653,
+            "code": "7d34ee71003a43d19d88977b9815149e",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-01)",
+            "type": 1,
+            "releaseDate": 1777424415013
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

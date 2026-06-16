@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 173929,
+            "code": "824e9a3aff02469fafd8aa7f7e058732",
+            "title": "Updates on Leverage and Margin Tiers of USDⓈ-M BLZUSDT Perpetual Contract (2023-08-13)",
+            "type": 1,
+            "releaseDate": 1691945546002
+          },
+          {
+            "id": 173912,
+            "code": "ed3c7b7e35b546aeab635cb4a5b3ee80",
+            "title": "Updates on the Funding Rate Settlement Frequency of USDⓈ-M LPTUSDT Perpetual Contract (2023-08-13)",
+            "type": 1,
+            "releaseDate": 1691920804016
+          },
+          {
+            "id": 173769,
+            "code": "111fa92de5484e709e202677f33d61fe",
+            "title": "Binance Bixel Challenge Has Now Concluded",
+            "type": 1,
+            "releaseDate": 1691730021211
+          },
+          {
+            "id": 173655,
+            "code": "aa7335ef8d784218995a6c04c2512663",
+            "title": "Updates on Tick Size for Spot Trading Pairs (2023-08-17)",
+            "type": 1,
+            "releaseDate": 1691648141051
+          },
+          {
+            "id": 173637,
+            "code": "1c2cc4782b324bf98e46c80f885980bf",
+            "title": "New Loanable Assets and Collateral Assets Available on Flexible Loan & VIP Loan (2023-08-10)",
+            "type": 1,
+            "releaseDate": 1691644203084
+          },
+          {
+            "id": 173614,
+            "code": "8ae78c64b57a48e3b93018680b112e25",
+            "title": "Notice Regarding the Removal of Selected Liquidity Pools on Binance Liquid Swap (2023-08-18)",
+            "type": 1,
+            "releaseDate": 1691640002930
+          },
+          {
+            "id": 173581,
+            "code": "52686196745f48ab9e3a13ced9e69ee0",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-08-09)",
+            "type": 1,
+            "releaseDate": 1691572127133
+          },
+          {
+            "id": 173507,
+            "code": "78b6b1fdb4f54d8383d756b2a88e739b",
+            "title": "New Dual Investment Products Launched (2023-08-09)",
+            "type": 1,
+            "releaseDate": 1691549914085
+          },
+          {
+            "id": 173469,
+            "code": "f4f4bc3876314367a034e817966db415",
+            "title": "Further Updates on Leverage and Margin Tiers of USDⓈ-M DODOBUSD Perpetual Contract (2023-08-08)",
+            "type": 1,
+            "releaseDate": 1691492045424
+          },
+          {
+            "id": 173444,
+            "code": "8f7505d31a774731afbb84eee2b478dc",
+            "title": "New Range Bound Products Launched (2023-08-08)",
+            "type": 1,
+            "releaseDate": 1691479504797
+          },
+          {
+            "id": 173348,
+            "code": "e81579f32ab044d083165f1b0757394d",
+            "title": "Further Updates on Leverage and Margin Tiers of USDⓈ-M LPTUSDT Perpetual Contract (2023-08-08)",
+            "type": 1,
+            "releaseDate": 1691461502294
+          },
+          {
+            "id": 173325,
+            "code": "6760d1ab2acd4aca84a055274b2391d6",
+            "title": "Updates on Funding Rate Settlement Frequency of USDⓈ-M YGGUSDT Perpetual Contract (2023-08-07)",
+            "type": 1,
+            "releaseDate": 1691413060743
+          },
+          {
+            "id": 173264,
+            "code": "8763b2c00e694cad98877a91e94669f6",
+            "title": "Binance Futures Will Update the Leverage, Margin Tiers and Capped Funding Rate Multiplier of USDⓈ-M LPTUSDT and API3USDT Perpetual Contracts (2023-08-07)",
+            "type": 1,
+            "releaseDate": 1691398912858
+          },
+          {
+            "id": 173205,
+            "code": "6fbe457748354c788cd7626a6d091976",
+            "title": "Binance Futures Will Update the Leverage, Margin Tiers and Capped Funding Rate Multiplier of USDⓈ-M YGGUSDT and API3USDT Perpetual Contracts (2023-08-06)",
+            "type": 1,
+            "releaseDate": 1691338506022
+          },
+          {
+            "id": 173188,
+            "code": "d85d84084c4945cb938103a77218781e",
+            "title": "Further Updates on Leverage and Margin Tiers of USDⓈ-M YGGUSDT Perpetual Contract (2023-08-06)",
+            "type": 1,
+            "releaseDate": 1691317901785
+          },
+          {
+            "id": 173171,
+            "code": "439ce8d8ca3747969515887c1600bcc8",
+            "title": "Updates on Leverage and Margin Tiers of USDⓈ-M YGGUSDT Perpetual Contract (2023-08-05)",
+            "type": 1,
+            "releaseDate": 1691256078000
+          },
+          {
+            "id": 173094,
+            "code": "9239cdf7a72f42f1ab0d525463d4c46c",
+            "title": "Binance 6YA Study Week Has Now Concluded",
+            "type": 1,
+            "releaseDate": 1691130602254
+          },
+          {
+            "id": 173076,
+            "code": "41fba5176794465d82b347eb1f44b3c3",
+            "title": "Binance Options WebSocket System Upgrade Notice (2023-08-07)",
+            "type": 1,
+            "releaseDate": 1691125810398
+          },
+          {
+            "id": 173034,
+            "code": "9c8303191b1a4a6bbd7458b3e4ff668d",
+            "title": "New Loanable Assets and Collateral Assets Available on Flexible Loan & VIP Loan (2023-08-04)",
+            "type": 1,
+            "releaseDate": 1691115024481
+          },
+          {
+            "id": 172992,
+            "code": "307f4b85981349f8998015ed2a82e782",
+            "title": "Binance Convert Adds QUICK",
+            "type": 1,
+            "releaseDate": 1691058341895
+          },
+          {
+            "id": 172951,
+            "code": "85e353e6f8d949ba83e75ec20342f479",
+            "title": "Binance Simple Earn Launches BTC Locked Products",
+            "type": 1,
+            "releaseDate": 1691046011455
+          },
+          {
+            "id": 172900,
+            "code": "15d714d8533547c59f3faefc17b860a5",
+            "title": "Binance Pool Launches Presale of Cloud Mining Products (2023-08-03)",
+            "type": 1,
+            "releaseDate": 1691028627172
+          },
+          {
+            "id": 172877,
+            "code": "0678e5d4de45431e9f0f64be03ed29f0",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-08-02)",
+            "type": 1,
+            "releaseDate": 1690965905995
+          },
+          {
+            "id": 172797,
+            "code": "006c35a4156b4c7d83143e645e35be6d",
+            "title": "New Dual Investment Products Launched (2023-08-02)",
+            "type": 1,
+            "releaseDate": 1690943469811
+          },
+          {
+            "id": 172689,
+            "code": "f0786a82f5b342128eab06172aa17bc9",
+            "title": "Binance Completes Integration of STEPN (GMT) on Polygon Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1690866602708
+          },
+          {
+            "id": 172665,
+            "code": "9193259715c142ecbd3c60da9c2d5145",
+            "title": "New Range Bound Products Launched (2023-08-01)",
+            "type": 1,
+            "releaseDate": 1690863317440
+          },
+          {
+            "id": 172613,
+            "code": "3c1ab8a3486e4379b5400859bbff552b",
+            "title": "Binance Auto-Invest Now Supports FDUSD",
+            "type": 1,
+            "releaseDate": 1690855203052
+          },
+          {
+            "id": 172166,
+            "code": "ec30516986554a0895bdfeca37ebc5dd",
+            "title": "Updates on Leverage and Margin Tiers of USDⓈ-M STMXUSDT Perpetual Contract (2023-07-29)",
+            "type": 1,
+            "releaseDate": 1690613791186
+          },
+          {
+            "id": 172118,
+            "code": "c12b3e0e8b4947709a098724d76f500f",
+            "title": "Binance Concludes Two Promos: #BinanceTurns6 Collect & Win and #BinanceTurns6 Blockchain Builder Activity",
+            "type": 1,
+            "releaseDate": 1690524303175
+          },
+          {
+            "id": 172097,
+            "code": "1b01b15e40054bc4868e4b9713cced80",
+            "title": "Notice Regarding the Removal of Selected Liquidity Pools on Binance Liquid Swap (2023-08-04)",
+            "type": 1,
+            "releaseDate": 1690520403128
+          },
+          {
+            "id": 172068,
+            "code": "2601fef88e6742409403ab843b952976",
+            "title": "Binance P2P Will Update Maker Fees for Polish Zloty (PLN) & Moldovan Leu (MDL) Markets",
+            "type": 1,
+            "releaseDate": 1690513502763
+          },
+          {
+            "id": 171872,
+            "code": "9da984a3f3314222a840eba206f3a32a",
+            "title": "Binance to Fully Resume Market Order Function for All Spot and Margin Trading Pairs",
+            "type": 1,
+            "releaseDate": 1690452422874
+          },
+          {
+            "id": 171770,
+            "code": "f62aac445cb043bd9ea1674d93e52304",
+            "title": "Binance Pool Launches Bitcoin Cash (BCH) Mining Service",
+            "type": 1,
+            "releaseDate": 1690430405679
+          },
+          {
+            "id": 171650,
+            "code": "aa4ba00383be454bb72f9cbf54e06cca",
+            "title": "Binance Convert Adds FDUSD",
+            "type": 1,
+            "releaseDate": 1690381951225
+          },
+          {
+            "id": 170925,
+            "code": "b629cd82af584c21a08a26c376880e0f",
+            "title": "Binance Fan Token Launches FC Shakhtar Fan Club",
+            "type": 1,
+            "releaseDate": 1690365672950
+          },
+          {
+            "id": 171615,
+            "code": "8ae12f3d96754c4490cbf6866c9b2bf1",
+            "title": "Explore Binance Bixel: Start Minting Your Own NFTs and Share 10 BNB in Rewards!",
+            "type": 1,
+            "releaseDate": 1690365615109
+          },
+          {
+            "id": 171563,
+            "code": "8f972133a7df4d80ba10a6552951fe7f",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-07-26)",
+            "type": 1,
+            "releaseDate": 1690358404967
+          },
+          {
+            "id": 171524,
+            "code": "cd589cb24614431ba9df4352da3fc486",
+            "title": "New Loanable Assets and Collateral Assets Available on Flexible Loan & VIP Loan (2023-07-26)",
+            "type": 1,
+            "releaseDate": 1690351525089
+          },
+          {
+            "id": 171505,
+            "code": "d672e17eca11457482f4f288099915a6",
+            "title": "New Dual Investment Products Launched (2023-07-26)",
+            "type": 1,
+            "releaseDate": 1690346745349
+          },
+          {
+            "id": 171442,
+            "code": "b0f241491d0e4d75aa2f8752b7bf8af5",
+            "title": "Introducing Seed Tags & Monitoring Tags for Tokens with High Volatility and Risks",
+            "type": 1,
+            "releaseDate": 1690340404342
+          },
+          {
+            "id": 171298,
+            "code": "7c1e1da327714e1cbe33e7a2ff515e3c",
+            "title": "Binance Academy Launches the Intermediate Track on Academy Courses",
+            "type": 1,
+            "releaseDate": 1690286409623
+          },
+          {
+            "id": 171254,
+            "code": "f5e367a1a0bd4390ade4d6cadb08d6a7",
+            "title": "Binance OTC Extends Algo Orders to All Users",
+            "type": 1,
+            "releaseDate": 1690275604299
+          },
+          {
+            "id": 171204,
+            "code": "8c374703c65c434c97c28ec08aaaa9ca",
+            "title": "New Range Bound Products Launched (2023-07-25)",
+            "type": 1,
+            "releaseDate": 1690255511794
+          },
+          {
+            "id": 171148,
+            "code": "682fe01417e944379d33c6ba1ba37b54",
+            "title": "Binance Convert Adds WLD",
+            "type": 1,
+            "releaseDate": 1690194607329
+          },
+          {
+            "id": 171004,
+            "code": "bc45490cdc984b2f8cc95d0061c70dd0",
+            "title": "Binance Margin Increases the Maximum Leverage on Cross Margin to 5x",
+            "type": 1,
+            "releaseDate": 1690171204053
+          },
+          {
+            "id": 170966,
+            "code": "c83d5650ed1048c2ab0b0d28562c2332",
+            "title": "Updates on Leverage, Margin Tiers, and Funding Rate Settlement Frequency of USDⓈ-M STMXUSDT Perpetual Contract (2023-07-23)",
+            "type": 1,
+            "releaseDate": 1690095617765
+          },
+          {
+            "id": 170930,
+            "code": "47e2f3d1110044a9964edee05308bc34",
+            "title": "Binance Has Completed the QuickSwap (QUICK) Token Swap and Redenomination Plan",
+            "type": 1,
+            "releaseDate": 1689926407848
+          },
+          {
+            "id": 170895,
+            "code": "414e0fbd2fa74ccdb406459e8f02314b",
+            "title": "Binance Completes Integration of Pendle (PENDLE) on BNB Smart Chain, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1689909003498
+          },
+          {
+            "id": 170870,
+            "code": "eb2322efe6b249119bdf9c0898ce2ec7",
+            "title": "Binance Simple Earn Launches REI Locked Products",
+            "type": 1,
+            "releaseDate": 1689906005028
+          },
+          {
+            "id": 170649,
+            "code": "a12ebe06613042728f823b21138c3647",
+            "title": "Binance VIP Loan Launches VIP Loan Online Application, Renewal and SAPI Endpoints",
+            "type": 1,
+            "releaseDate": 1689829857167
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

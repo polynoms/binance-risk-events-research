@@ -1,0 +1,148 @@
+token_symbol,scenario,drawdown_to_bottom,max_rebound_after_bottom,tradable_signal_found,best_signal_type,signal_quality_score,tradeability_tier,stop_failed,max_adverse_excursion,max_favorable_excursion_7d,risk_reward_7d,manual_review_required,main_reason,notes
+A2Z,MANUAL_REVIEW_REQUIRED,-0.91658018475127,0.2222222222222221,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.144,Manual Review,yes,-0.8623326959847036,2.369024856596558,18.14586994727592,yes,low_liquidity_at_signal,causal_signal_after_confirmation;no_future_low_used
+ACA,MANUAL_REVIEW_REQUIRED,-0.8308562369398311,0.2352941176470588,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.0,Manual Review,yes,-0.2151898734177216,0.0632911392405062,0.5307855626326953,yes,false_breakout;low_liquidity_at_signal;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+AERGO,MANUAL_REVIEW_REQUIRED,-0.2949034019987582,0.6649395509499136,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+AKRO,MANUAL_REVIEW_REQUIRED,-0.7927823886002305,,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,
+ALCX,MANUAL_REVIEW_REQUIRED,-0.3518258677554703,0.0762195121951219,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;weak_rebound_below_20pct;no_capitulation_reclaim,
+ALPACA,EPIC_LIKE_REBOUND,-0.7486934281715131,44.68345323741008,yes,CAPITULATION_RECLAIM,0.09,Manual Review,no,-0.0522875816993463,1.800653594771242,16.41835518474373,no,signal_exists_but_manual_review_required,causal_signal_after_confirmation;no_future_low_used
+ALPHA,DELISTING_DEATH_SPIRAL,-0.7485799392477028,,no,,,,,,,,no,no_capitulation_reclaim,
+AMB,MANUAL_REVIEW_REQUIRED,-0.9376199744622176,,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,
+ANT,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.0684042983216227,0.3906908557815651,no,,,,,,,,no,no_capitulation_reclaim,
+ARDR,MANUAL_REVIEW_REQUIRED,-0.347677867308406,4.073803730738037,yes,HIGHER_LOW_BREAKOUT,0.795,B,no,-0.0900761542122799,1.2332222751070918,3.3324330233694734,yes,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+AST,EPIC_LIKE_REBOUND,-0.864189171165554,5.1976744186046515,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.0,Manual Review,yes,-0.8063063063063063,0.0788288288288288,0.6730769230769227,no,false_breakout;low_liquidity_at_signal,causal_signal_after_confirmation;no_future_low_used
+ATA,MANUAL_REVIEW_REQUIRED,-0.8250319518258451,0.5,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.0,Manual Review,yes,-0.2547169811320754,0.0,0.0,yes,false_breakout;low_liquidity_at_signal;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+BADGER,MANUAL_REVIEW_REQUIRED,-0.7836423931589813,,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,
+BAKE,EPIC_LIKE_REBOUND,-0.6561944745934164,5.621212121212121,yes,CAPITULATION_RECLAIM,0.923,A,no,-0.146341463414634,4.329268292682927,20.496535796766747,no,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+BAL,SLOW_BLEED_THEN_SQUEEZE,-0.4909312188460071,0.5321944809461234,yes,HIGHER_LOW_BREAKOUT,0.0,Manual Review,no,-0.0394114555964266,0.0583289542827114,0.6194887822301587,no,signal_exists_but_manual_review_required,causal_signal_after_confirmation;no_future_low_used
+BETA,MANUAL_REVIEW_REQUIRED,-0.2813843438899103,0.6144340974212033,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+BIFI,MANUAL_REVIEW_REQUIRED,-0.3424957499038024,1.182385035074045,yes,HIGHER_LOW_BREAKOUT,0.741,Manual Review,no,-0.0885448916408669,0.1888544891640866,1.296989283891819,yes,signal_exists_but_manual_review_required,causal_signal_after_confirmation;no_future_low_used
+BLZ,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.6447669812683072,0.3739669421487603,yes,CAPITULATION_RECLAIM,0.787,B,no,-0.0533088235294118,0.2224264705882355,1.7365097588978191,no,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+BOND,MANUAL_REVIEW_REQUIRED,-0.2941169263369876,4.124999999999999,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+BSW,MANUAL_REVIEW_REQUIRED,-0.6368896723192753,4.545454545454546,yes,HIGHER_LOW_BREAKOUT,0.923,A,no,-0.0491803278688525,2.2786885245901636,9.511861313868614,yes,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+BTS,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.3451791156881856,1.270058708414873,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+BURGER,DELISTING_DEATH_SPIRAL,-0.953032697493859,,no,,,,,,,,no,no_capitulation_reclaim,
+CHESS,MANUAL_REVIEW_REQUIRED,-0.9322471102117352,,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,
+CLV,MANUAL_REVIEW_REQUIRED,-0.4489719478038293,6.698541329011345,yes,HIGHER_LOW_BREAKOUT,0.764,B,no,-0.0300777289624873,5.421088205474822,57.96415407964145,yes,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+COMBO,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.9011948281127408,0.2243346007604563,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.527,C,no,-0.4767959313413858,0.1201525746980292,0.1649617707642355,no,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+COOKIE,MANUAL_REVIEW_REQUIRED,-0.5017272932232737,0.1111111111111111,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.089,Manual Review,yes,-0.2372881355932203,0.1694915254237288,3.1847133757961754,yes,false_breakout;low_liquidity_at_signal,causal_signal_after_confirmation;no_future_low_used
+COS,MANUAL_REVIEW_REQUIRED,-0.3012530418025706,2.244256348246674,yes,HIGHER_LOW_BREAKOUT,0.703,C,no,-0.235509456985967,0.6369737644905431,1.4705053805848216,yes,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+CREAM,MANUAL_REVIEW_REQUIRED,-0.766847744596755,1.272727272727273,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.812,B,no,-0.2137404580152672,0.7175572519083968,2.766333137139492,yes,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+CTXC,EPIC_LIKE_REBOUND,-0.5091542638263125,1.2945945945945945,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.808,A,no,-0.0077459333849728,0.4910921766072813,4.851545760636674,no,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+CVP,DELISTING_DEATH_SPIRAL,-0.8937303871128144,,no,,,,,,,,no,no_capitulation_reclaim,
+CVX,DEAD_CAT_BOUNCE,-0.4357540930986203,3.528888888888888,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+D,MANUAL_REVIEW_REQUIRED,,,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,missing_bottom_or_path
+DATA,MANUAL_REVIEW_REQUIRED,-0.8645436701033475,,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,
+DEGO,MANUAL_REVIEW_REQUIRED,-0.9179412143325468,0.2916666666666667,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.696,C,yes,-0.6792849631966351,0.5036803364879074,1.176615082289364,yes,stop_hit_after_signal,causal_signal_after_confirmation;no_future_low_used
+DENT,MANUAL_REVIEW_REQUIRED,-0.6412721507627408,2.714285714285714,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.144,Manual Review,yes,-0.2322834645669291,0.0118110236220472,0.1048951048951047,yes,false_breakout;low_liquidity_at_signal;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+DF,MANUAL_REVIEW_REQUIRED,-0.9117469011720704,,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,
+DOCK,DELISTING_DEATH_SPIRAL,-0.8246146803584725,,no,,,,,,,,no,no_capitulation_reclaim,
+DODO,MANUAL_REVIEW_REQUIRED,-0.1909324287300845,0.1500915192190359,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;weak_rebound_below_20pct;no_capitulation_reclaim,
+DREP,NO_BOTTOM_CONTINUED_BLEED,-0.9383693027248295,,no,,,,,,,,no,no_capitulation_reclaim,
+ELF,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.2239509608023085,0.2641107561235356,no,,,,,,,,no,no_capitulation_reclaim,
+EPIC,MANUAL_REVIEW_REQUIRED,-0.3603402143526486,3.31413612565445,yes,HIGHER_LOW_BREAKOUT,0.872,B,no,-0.0577617328519856,1.974729241877256,10.4031951312286,yes,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+EPX,MANUAL_REVIEW_REQUIRED,-0.7057985746590424,0.6901408450704227,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.681,C,yes,-0.4617100371747211,0.0431226765799257,0.5334314356663319,yes,false_breakout,causal_signal_after_confirmation;no_future_low_used
+FARM,MANUAL_REVIEW_REQUIRED,-0.492882631356037,0.2779605263157894,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,
+FIO,MANUAL_REVIEW_REQUIRED,-0.906682450821746,,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,
+FIRO,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.379695431094553,1.135714285714286,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+FIS,MANUAL_REVIEW_REQUIRED,-0.5437043451487491,1.4579945799457992,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.0,Manual Review,yes,-0.2741165234001911,0.0105062082139446,0.1085883514313924,yes,false_breakout;low_liquidity_at_signal;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+FLM,MANUAL_REVIEW_REQUIRED,-0.5119203016064522,2.9411764705882355,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.092,Manual Review,yes,-0.1337579617834394,0.9044585987261148,20.11331444759208,yes,low_liquidity_at_signal;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+FLOW,EPIC_LIKE_REBOUND,-0.7350785702745193,0.6644079885877321,yes,CAPITULATION_RECLAIM,0.0,Manual Review,no,-0.0175040518638572,0.0878444084278768,0.8039634508128639,no,signal_exists_but_manual_review_required,causal_signal_after_confirmation;no_future_low_used
+FOR,MANUAL_REVIEW_REQUIRED,-0.6814487856015661,0.5049226441631505,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.597,C,yes,-0.3015017327685791,0.0354254909510973,0.695389266817836,yes,false_breakout,causal_signal_after_confirmation;no_future_low_used
+FUN,MANUAL_REVIEW_REQUIRED,-0.7757503872727844,0.1666666666666667,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.013,Manual Review,no,-0.0884057971014492,0.0572463768115942,0.5515219212510486,yes,signal_exists_but_manual_review_required,causal_signal_after_confirmation;no_future_low_used
+GFT,MANUAL_REVIEW_REQUIRED,-0.8862807228337174,,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,
+GHST,EPIC_LIKE_REBOUND,-0.8853884707040791,7.0,yes,CAPITULATION_RECLAIM,0.452,Manual Review,no,-0.0289855072463768,2.478260869565217,4.3181818181818175,no,signal_exists_but_manual_review_required,causal_signal_after_confirmation;no_future_low_used
+GPS,MANUAL_REVIEW_REQUIRED,-0.7824148416159113,1.5496688741721854,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.832,B,yes,-0.1737891737891737,0.2678062678062678,2.6523702031602707,yes,stop_hit_after_signal,causal_signal_after_confirmation;no_future_low_used
+GTC,MANUAL_REVIEW_REQUIRED,-0.3501194295333018,2.028169014084507,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+HARD,SLOW_BLEED_THEN_SQUEEZE,-0.4712201724543231,2.134328358208955,yes,HIGHER_LOW_BREAKOUT,0.85,B,no,-0.182895850973751,0.5571549534292972,1.7852298008573442,no,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+HEI,MANUAL_REVIEW_REQUIRED,-0.2616681691426372,2.628884826325411,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+HFT,MANUAL_REVIEW_REQUIRED,-0.1993832765645906,0.0183486238532111,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;weak_rebound_below_20pct;no_capitulation_reclaim,
+HIFI,MANUAL_REVIEW_REQUIRED,-0.7521172494398481,1.431924882629108,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.707,C,yes,-0.2550637659414854,0.035258814703676,0.5628742514970091,yes,false_breakout;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+HIGH,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.1608441700692143,4.5046728971962615,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+HOOK,MANUAL_REVIEW_REQUIRED,-0.7899251105118592,1.2916666666666663,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.0,Manual Review,yes,-0.5467289719626167,0.1635514018691588,1.596715328467153,yes,false_breakout;low_liquidity_at_signal;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+IDEX,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.1384168889030385,1.8666666666666671,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+IDRT,MANUAL_REVIEW_REQUIRED,,,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,missing_bottom_or_path
+IRIS,MANUAL_REVIEW_REQUIRED,-0.4147821703139246,1.165361183637946,yes,HIGHER_LOW_BREAKOUT,0.577,C,yes,-0.4241545893719807,0.2019323671497583,0.5411143330571664,yes,next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+KDA,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.9283943250902108,0.3333333333333335,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.402,Manual Review,yes,-0.8756476683937824,0.2279792746113988,0.9773434029320298,no,next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+KEY,EPIC_LIKE_REBOUND,-0.8188385749589293,0.7322222222222223,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.459,Manual Review,yes,-0.2620804570340395,0.1018805046417521,0.5984842128813949,no,false_breakout,causal_signal_after_confirmation;no_future_low_used
+KMD,MANUAL_REVIEW_REQUIRED,-0.8763663154028916,0.443661971830986,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.488,C,yes,-0.5865865865865866,0.001001001001001,0.0128534704370191,yes,false_breakout;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+KP3R,DEAD_CAT_BOUNCE,-0.3905719402729058,0.984247197818843,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+LEVER,DELISTING_DEATH_SPIRAL,-0.7428497413101276,,no,,,,,,,,no,no_capitulation_reclaim,
+LINA,MANUAL_REVIEW_REQUIRED,-0.8377744446559139,0.2058823529411764,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,
+LOOM,MANUAL_REVIEW_REQUIRED,-0.0859967690237578,0.1334801762114537,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;weak_rebound_below_20pct;no_capitulation_reclaim,
+LRC,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.4252702938885681,,no,,,,,,,,no,no_capitulation_reclaim,
+LTO,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.7801614361526059,0.2596153846153848,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.732,B,yes,-0.1923076923076924,0.3566433566433566,4.366438356164384,no,stop_hit_after_signal,causal_signal_after_confirmation;no_future_low_used
+MBL,SLOW_BLEED_THEN_SQUEEZE,-0.405121621826785,1.0847058823529414,yes,HIGHER_LOW_BREAKOUT,0.0,Manual Review,no,-0.0078260869565216,0.124782608695652,0.7232133857474037,no,signal_exists_but_manual_review_required,causal_signal_after_confirmation;no_future_low_used
+MBOX,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.459189177771269,0.392156862745098,no,,,,,,,,no,no_capitulation_reclaim,
+MDT,MANUAL_REVIEW_REQUIRED,-0.5078825926353749,2.9804400977995114,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.0,Manual Review,yes,-0.2776497695852534,0.0172811059907833,0.1687289088863887,yes,false_breakout;low_liquidity_at_signal,causal_signal_after_confirmation;no_future_low_used
+MDX,DEAD_CAT_BOUNCE,-0.366132887681308,0.726315789473684,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+MLN,MANUAL_REVIEW_REQUIRED,-0.4986788781676284,0.066265060240964,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;weak_rebound_below_20pct;no_capitulation_reclaim,
+MOB,EPIC_LIKE_REBOUND,-0.906061373224332,4.58984375,yes,CAPITULATION_RECLAIM,0.963,A,no,-0.1179321486268173,3.623586429725364,19.131695667007858,no,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+MOVE,SLOW_BLEED_THEN_SQUEEZE,-0.428379974050133,0.8243243243243243,yes,HIGHER_LOW_BREAKOUT,0.689,C,yes,-0.3608944357774311,0.0530421216848675,0.2667085032946351,no,false_breakout;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+MULTI,NO_BOTTOM_CONTINUED_BLEED,-0.6529716325277168,,no,,,,,,,,no,no_capitulation_reclaim,
+NFP,MANUAL_REVIEW_REQUIRED,-0.3751980623129209,0.056701030927835,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;weak_rebound_below_20pct;no_capitulation_reclaim,
+NKN,MANUAL_REVIEW_REQUIRED,-0.58639733132059,2.75,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.593,B,yes,-0.111111111111111,2.3333333333333335,49.41176470588253,yes,next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+NOM,MANUAL_REVIEW_REQUIRED,-0.3307862742130302,0.2388059701492537,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,
+NON,MANUAL_REVIEW_REQUIRED,,,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,missing_bottom_or_path
+NTRN,MANUAL_REVIEW_REQUIRED,-0.8806451830547619,,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,
+NULS,MANUAL_REVIEW_REQUIRED,-0.8980255225586126,0.2643171806167399,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.003,Manual Review,no,-0.0782865583456425,0.0642540620384048,0.3406154568945276,yes,signal_exists_but_manual_review_required,causal_signal_after_confirmation;no_future_low_used
+OAX,MANUAL_REVIEW_REQUIRED,-0.7705957213538802,,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,
+OMG,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.4673026163201682,0.4677871148459385,no,,,,,,,,no,no_capitulation_reclaim,
+OOKI,NO_BOTTOM_CONTINUED_BLEED,-0.8973175246694688,,no,,,,,,,,no,no_capitulation_reclaim,
+OXT,MANUAL_REVIEW_REQUIRED,-0.475537549363711,0.0652173913043479,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;weak_rebound_below_20pct;no_capitulation_reclaim,
+PDA,EPIC_LIKE_REBOUND,-0.5780440071758988,1.0816901408450703,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.037,Manual Review,yes,-0.1013916500994035,0.2872763419483102,4.181134259259265,no,low_liquidity_at_signal;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+PERL,NO_BOTTOM_CONTINUED_BLEED,-0.675223102901235,,no,,,,,,,,no,no_capitulation_reclaim,
+PERP,MANUAL_REVIEW_REQUIRED,-0.4680241187238499,1.2886850152905196,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+PHB,MANUAL_REVIEW_REQUIRED,-0.8075792177873513,,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,
+PNT,NO_BOTTOM_CONTINUED_BLEED,-0.8816446189920069,,no,,,,,,,,no,no_capitulation_reclaim,
+POLS,SLOW_BLEED_THEN_SQUEEZE,-0.483883174650748,0.6498944405348346,yes,HIGHER_LOW_BREAKOUT,0.715,C,no,-0.307290483761072,0.0649557120145354,0.1969398575973333,no,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+POND,MANUAL_REVIEW_REQUIRED,-0.4283683769530783,1.5629629629629629,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+PORTAL,EPIC_LIKE_REBOUND,-0.6694300954716825,2.176029962546816,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.853,A,yes,-0.1523500810372771,0.5348460291734198,3.559870550161813,no,next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+PROS,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.3410344601958418,3.575331772053083,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+PYTH,MANUAL_REVIEW_REQUIRED,-0.0228607128331587,1.5536261491317669,yes,HIGHER_LOW_BREAKOUT,0.763,C,no,-0.0787977254264825,0.1584077985377741,1.3254486133768348,yes,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+QI,MANUAL_REVIEW_REQUIRED,-0.2817528183514393,1.0,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+QUICK,MANUAL_REVIEW_REQUIRED,-0.3621460658045776,0.0932203389830508,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;weak_rebound_below_20pct;no_capitulation_reclaim,
+RDNT,MANUAL_REVIEW_REQUIRED,-0.4418202711174523,,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,
+REEF,DEAD_CAT_BOUNCE,-0.3833801289685129,3.155942467827404,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+REI,MANUAL_REVIEW_REQUIRED,-0.4824640813132064,1.3966942148760326,yes,HIGHER_LOW_BREAKOUT,0.284,Manual Review,no,-0.0855548667079975,0.2331060136391818,1.872323473757595,yes,signal_exists_but_manual_review_required,causal_signal_after_confirmation;no_future_low_used
+REN,SLOW_BLEED_THEN_SQUEEZE,-0.2361104332866266,2.343460648148148,yes,HIGHER_LOW_BREAKOUT,0.614,C,no,-0.32894280762565,0.1147313691507798,0.3189746554880985,no,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+RESOLV,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.452551087316729,0.0639269406392695,no,,,,,,,,no,weak_rebound_below_20pct;no_capitulation_reclaim,
+SLF,DELISTING_DEATH_SPIRAL,-0.7983271817748793,,no,,,,,,,,no,no_capitulation_reclaim,
+SNM,MANUAL_REVIEW_REQUIRED,,,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,missing_bottom_or_path
+SNT,SLOW_BLEED_THEN_SQUEEZE,-0.3881443871871401,0.7928039702233252,yes,HIGHER_LOW_BREAKOUT,0.0,Manual Review,no,-0.085819183111519,0.0468104635153741,0.3819938581379677,no,signal_exists_but_manual_review_required,causal_signal_after_confirmation;no_future_low_used
+SRM,MANUAL_REVIEW_REQUIRED,,,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,missing_bottom_or_path
+STMX,SLOW_BLEED_THEN_SQUEEZE,-0.4381302672401296,0.9765739385065886,yes,HIGHER_LOW_BREAKOUT,0.0,Manual Review,yes,-0.2783699059561129,0.0215256008359456,0.1383553179485801,no,false_breakout;low_liquidity_at_signal;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+STORJ,MANUAL_REVIEW_REQUIRED,-0.2284129766530361,0.0425531914893617,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;weak_rebound_below_20pct;no_capitulation_reclaim,
+STPT,EPIC_LIKE_REBOUND,-0.723840105122295,1.876994680851064,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.725,C,yes,-0.2625698324022345,0.0663818600065724,0.8711778151550432,no,false_breakout,causal_signal_after_confirmation;no_future_low_used
+SUN,DEAD_CAT_BOUNCE,-0.2993246424362575,4.584059775840597,yes,HIGHER_LOW_BREAKOUT,0.786,B,no,-0.00990099009901,0.6721672167216719,15.374937091092043,no,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+SXP,MANUAL_REVIEW_REQUIRED,-0.7675977354172957,0.4677419354838712,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.18,Manual Review,no,-0.0109689213893966,0.6380255941499087,16.068139963167607,yes,signal_exists_but_manual_review_required,causal_signal_after_confirmation;no_future_low_used
+SYN,MANUAL_REVIEW_REQUIRED,-0.153299533046118,0.0213270142180095,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;weak_rebound_below_20pct;no_capitulation_reclaim,
+SYS,MANUAL_REVIEW_REQUIRED,-0.8206304792160757,1.7875647668393784,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.0,Manual Review,yes,-0.1511511511511512,0.0330330330330328,0.5767214260747958,yes,false_breakout;low_liquidity_at_signal,causal_signal_after_confirmation;no_future_low_used
+TAO,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.1170675527048267,0.3752591568762959,no,,,,,,,,no,no_capitulation_reclaim,
+THE,MANUAL_REVIEW_REQUIRED,-0.0848083810458208,2.1312256388046773,yes,HIGHER_LOW_BREAKOUT,0.963,A,no,-0.044131455399061,0.971830985915493,5.442021873247332,yes,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+TLM,MANUAL_REVIEW_REQUIRED,-0.4478992622515184,0.0809999999999999,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;weak_rebound_below_20pct;no_capitulation_reclaim,
+TORN,MANUAL_REVIEW_REQUIRED,,,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,missing_bottom_or_path
+TROY,DELISTING_DEATH_SPIRAL,-0.8859573216650602,0.1965006729475102,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.673,C,yes,-0.4190140845070422,0.0,0.0,no,false_breakout;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+UFT,MANUAL_REVIEW_REQUIRED,-0.9429430686369752,0.2558139534883721,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.226,Manual Review,yes,-0.262381454162276,0.1296101159114857,0.9481961147086022,yes,false_breakout;low_liquidity_at_signal,causal_signal_after_confirmation;no_future_low_used
+UNFI,EPIC_LIKE_REBOUND,-0.6632667041055829,1.3496614894464356,yes,CAPITULATION_RECLAIM,0.874,B,no,-0.0218803418803417,0.3999999999999999,2.520356727413727,no,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+VAI,MANUAL_REVIEW_REQUIRED,,,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,missing_bottom_or_path
+VELODROME,MANUAL_REVIEW_REQUIRED,-0.0566987937840586,0.3709902370990237,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,
+VGX,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.7465709951378705,0.4881889763779528,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.682,C,yes,-0.4773662551440329,0.0205761316872428,0.1502403846153847,no,false_breakout;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+VIB,DELISTING_DEATH_SPIRAL,-0.9543023133829718,,no,,,,,,,,no,no_capitulation_reclaim,
+VIC,MANUAL_REVIEW_REQUIRED,-0.2089043140675949,1.0913461538461535,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+VIDT,DELISTING_DEATH_SPIRAL,-0.9420769652792084,,no,,,,,,,,no,no_capitulation_reclaim,
+VITE,MANUAL_REVIEW_REQUIRED,-0.55767830279491,1.1316326530612244,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.681,B,yes,-0.1838893409275833,0.1586655817737996,1.875721431319736,yes,false_breakout,causal_signal_after_confirmation;no_future_low_used
+VOXEL,MANUAL_REVIEW_REQUIRED,-0.6581818599766351,7.865671641791044,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.07,Manual Review,yes,-0.2555555555555555,5.6,106.32911392405067,yes,low_liquidity_at_signal;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+WAN,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.3824692996111571,0.6316666666666668,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+WAVES,DELISTING_DEATH_SPIRAL,-0.7558262782623386,0.1377497371188223,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.727,C,yes,-0.1981057616416731,0.0761641673243882,0.8963403306706296,no,false_breakout,causal_signal_after_confirmation;no_future_low_used
+WIF,DEAD_CAT_BOUNCE,-0.2025857622960812,0.7391304347826089,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+WING,DELISTING_DEATH_SPIRAL,-0.9092256010341342,,no,,,,,,,,no,no_capitulation_reclaim,
+WNXM,MANUAL_REVIEW_REQUIRED,-0.2016543166625761,0.501838557170373,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+WRX,MANUAL_REVIEW_REQUIRED,-0.9462253588577924,,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,
+WTC,DELISTING_DEATH_SPIRAL,-0.9438569524379332,,no,,,,,,,,no,no_capitulation_reclaim,
+XEM,MANUAL_REVIEW_REQUIRED,-0.1150084463680353,0.8641259320629657,yes,HIGHER_LOW_BREAKOUT,0.078,Manual Review,no,-0.0015302218821728,0.1281560826319816,2.705540300436111,yes,signal_exists_but_manual_review_required,causal_signal_after_confirmation;no_future_low_used
+XMR,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.3951479470481035,0.344621513944223,no,,,,,,,,no,no_capitulation_reclaim,
+YFII,MANUAL_REVIEW_REQUIRED,-0.3561747553685983,0.0458015267175573,no,,,,,,,,yes,bottom_manual_review;weak_rebound_below_20pct;no_capitulation_reclaim,
+ZEC,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.3421809326217424,0.9270270270270268,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+ZEN,SLOW_BLEED_THEN_SQUEEZE,-0.2998378152377187,1.798192771084337,yes,HIGHER_LOW_BREAKOUT,0.558,C,yes,-0.1382211538461538,0.0324519230769231,0.4374594944912511,no,false_breakout,causal_signal_after_confirmation;no_future_low_used
+FORTH,DELISTING_DEATH_SPIRAL,-0.7623464145644103,,no,,,,,,,,no,no_capitulation_reclaim,
+TRU,MANUAL_REVIEW_REQUIRED,-0.7549029422452751,,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,

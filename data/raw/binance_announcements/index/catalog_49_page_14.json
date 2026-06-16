@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 225035,
+            "code": "92ee2ef192a44397a2d51cbb44f3917d",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2025-02-04)",
+            "type": 1,
+            "releaseDate": 1738659603993
+          },
+          {
+            "id": 224842,
+            "code": "b3f1c4ccaf894af8afeba29ce7b1eefb",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2025-01-29)",
+            "type": 1,
+            "releaseDate": 1738116023724
+          },
+          {
+            "id": 224758,
+            "code": "7b963660edb545199d05b4c57ee97a5c",
+            "title": "Binance Academy Launches AWS Blockchain Node Runners for BNB Chain Course: Share Up to $9,000 in BNB Rewards!",
+            "type": 1,
+            "releaseDate": 1737972003407
+          },
+          {
+            "id": 224729,
+            "code": "b9258701c4d749fe89fa31fca08f1aad",
+            "title": "Updates on the Leverage & Margin Tiers of of USDⓈ-M OMUSDT Perpetual Contract (2025-01-26)",
+            "type": 1,
+            "releaseDate": 1737887774932
+          },
+          {
+            "id": 224705,
+            "code": "1a1248ee804542d691e9ce7f3e2fd948",
+            "title": "Updates on Leverage, Margin Tiers, and Funding Rate Settlement Frequency of USDⓈ-M BANUSDT Perpetual Contract (2025-01-25)",
+            "type": 1,
+            "releaseDate": 1737816837417
+          },
+          {
+            "id": 224620,
+            "code": "162f6d9830654547a114366994fa4441",
+            "title": "Binance Earn Adds OFFICIAL TRUMP (TRUMP) on Dual Investment",
+            "type": 1,
+            "releaseDate": 1737702012233
+          },
+          {
+            "id": 224560,
+            "code": "51a8eed8014c436cbcb39aaa70b3b62c",
+            "title": "Animecoin (ANIME) Listing Will Be Postponed",
+            "type": 1,
+            "releaseDate": 1737639597673
+          },
+          {
+            "id": 224547,
+            "code": "5d3e7b9007d04f9b9544612d0a3d533a",
+            "title": "Notice on Luckycoin (LKY) Network Maintenance and Binance Pool LKY Mining Rewards Suspension - 2025-01-23",
+            "type": 1,
+            "releaseDate": 1737594006595
+          },
+          {
+            "id": 224427,
+            "code": "d8fd3168c0a745328dfa060d093e7a12",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M and COIN-M Perpetual Contracts (2025-01-22)",
+            "type": 1,
+            "releaseDate": 1737534610095
+          },
+          {
+            "id": 224331,
+            "code": "7342cd7b105a4e82bff9f8b595277611",
+            "title": "Binance Futures Adds USDC Support and New Features to BFUSD",
+            "type": 1,
+            "releaseDate": 1737532813655
+          },
+          {
+            "id": 224355,
+            "code": "08d34e3898c24853bd8ca736afe0d5a5",
+            "title": "Binance Adds TRUMP as Loanable Asset on Binance Loans (Flexible Rate) and VIP Loan - 2025-01-22",
+            "type": 1,
+            "releaseDate": 1737518401732
+          },
+          {
+            "id": 224332,
+            "code": "8b92fa98edbe44d0b6f9eab51b8fe030",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2025-01-22)",
+            "type": 1,
+            "releaseDate": 1737511202524
+          },
+          {
+            "id": 224326,
+            "code": "ff1f46f5ee494b94b58935ba74bcd2e0",
+            "title": "Binance P2P Adds Support for TRUMP Trading Pairs in Selected Fiat Zones",
+            "type": 1,
+            "releaseDate": 1737455401346
+          },
+          {
+            "id": 224285,
+            "code": "c4debb6901ab4380bd7a1e4dd6226a25",
+            "title": "Limited-Time Promotion: Binance Pay Red Packet Giveaway With TRUMP!",
+            "type": 1,
+            "releaseDate": 1737422102740
+          },
+          {
+            "id": 224126,
+            "code": "c5a9b85a4e9149bcb3e05b02b1108baf",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2025-01-20)",
+            "type": 1,
+            "releaseDate": 1737363614221
+          },
+          {
+            "id": 224067,
+            "code": "72fba8d43fa34954a94a818f4f8e0c27",
+            "title": "Binance Margin: Gradual Rollout of Changes to Cross Margin Pro",
+            "type": 1,
+            "releaseDate": 1737349206900
+          },
+          {
+            "id": 224041,
+            "code": "f3d55075a83e4987941bc956d3a91cc0",
+            "title": "Binance VIP Loan Supports Collateral Asset Adjustments and Repayment with Collateral Accounts (2025-01-20)",
+            "type": 1,
+            "releaseDate": 1737342019943
+          },
+          {
+            "id": 223741,
+            "code": "486672fcbb9c4e30b87115605d6630d9",
+            "title": "Binance Futures Updates BFUSD Maximum Holding Limits - 2025-01-17",
+            "type": 1,
+            "releaseDate": 1737097203642
+          },
+          {
+            "id": 223709,
+            "code": "1ea496fc11af4a62bc8747ea1898fccb",
+            "title": "Community Reminder on Projects and Tokens with Similar Names",
+            "type": 1,
+            "releaseDate": 1737086401635
+          },
+          {
+            "id": 223688,
+            "code": "06773c5ff37346b29ea345d7e5f90bcc",
+            "title": "Binance Earn: Enjoy up to 4.5% APR with SOL Simple Earn Flexible Products!",
+            "type": 1,
+            "releaseDate": 1737082806192
+          },
+          {
+            "id": 223686,
+            "code": "a51366bf45f1435380d2dc3fd7f2f6cf",
+            "title": "Binance P2P Adds Support for New Trading Pairs in Fiat Zones Across MENA",
+            "type": 1,
+            "releaseDate": 1737079215118
+          },
+          {
+            "id": 223632,
+            "code": "fd135c2acf1d467e9a20364e2321de74",
+            "title": "Updates on Crypto Transfer Procedures in Poland",
+            "type": 1,
+            "releaseDate": 1737034202973
+          },
+          {
+            "id": 223542,
+            "code": "ad4d1a598f3b4c48b4d801797303f513",
+            "title": "Binance Futures Copy Trading Adjusts Leverage Limits for Lead Trader Portfolios (2025-01-17)",
+            "type": 1,
+            "releaseDate": 1737014422617
+          },
+          {
+            "id": 223450,
+            "code": "baaf309804db47cc82edb6bdbe21f481",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2025-01-15)",
+            "type": 1,
+            "releaseDate": 1736933403217
+          },
+          {
+            "id": 223368,
+            "code": "2815ca4dc7f94ac9bb56db970fdeb14d",
+            "title": "Binance Adds DOGE and LTC as New Collateral Assets on Fixed Rate Loan and CGPT as Loanable Asset on VIP Loan - 2025-01-15",
+            "type": 1,
+            "releaseDate": 1736913601329
+          },
+          {
+            "id": 223347,
+            "code": "2d1be566020944bb921b76f3f4444281",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2025-01-15)",
+            "type": 1,
+            "releaseDate": 1736910031551
+          },
+          {
+            "id": 223300,
+            "code": "5c76a9675f2a493485e03c3c12f7c0dc",
+            "title": "Binance Will Support the Prosper (PROS) Contract Swap",
+            "type": 1,
+            "releaseDate": 1736848804000
+          },
+          {
+            "id": 223272,
+            "code": "5bd010e32d504a458d33d27c38e3df3b",
+            "title": "Notice on Change in Tokenomics: IOST (IOST)",
+            "type": 1,
+            "releaseDate": 1736847013596
+          },
+          {
+            "id": 223268,
+            "code": "e477e186929742b780a34d4be2a1bcd2",
+            "title": "Binance Introduces Maximum Negative Balance to Portfolio Margin Program",
+            "type": 1,
+            "releaseDate": 1736845160821
+          },
+          {
+            "id": 223186,
+            "code": "bc54523dc7ed4b01833ed5442a3b6e5b",
+            "title": "Binance Earn: Enjoy 9% Bonus Tiered APR with EURI Simple Earn Products!",
+            "type": 1,
+            "releaseDate": 1736740802444
+          },
+          {
+            "id": 223067,
+            "code": "3dd5b2fa830e40faa224774b674f594a",
+            "title": "Introducing Renzo (REZ) on BNSOL Super Stake: HODL BNSOL to Get REZ APR Boost Airdrop Rewards",
+            "type": 1,
+            "releaseDate": 1736481608856
+          },
+          {
+            "id": 223064,
+            "code": "1d115917f1e24f83b93c8adfc41708ef",
+            "title": "Binance Futures Updates Taker Program (2025-01-28)",
+            "type": 1,
+            "releaseDate": 1736474402066
+          },
+          {
+            "id": 222964,
+            "code": "40aece7178ed4c3da0d038e5f6b8299f",
+            "title": "Binance Pool Launches Conflux Network (CFX) Mining Pool",
+            "type": 1,
+            "releaseDate": 1736406052340
+          },
+          {
+            "id": 222899,
+            "code": "ebddc424a1714a009ed76f6c48ebd006",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2025-01-08)",
+            "type": 1,
+            "releaseDate": 1736326830795
+          },
+          {
+            "id": 222823,
+            "code": "460afebe835d4f2b9a9a8a051332aeca",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2025-01-08)",
+            "type": 1,
+            "releaseDate": 1736305202643
+          },
+          {
+            "id": 222661,
+            "code": "a6b3cdf700934d91a79ac1b4155767ff",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin (2025-01-07)",
+            "type": 1,
+            "releaseDate": 1736146807766
+          },
+          {
+            "id": 222491,
+            "code": "14fe55f673334c4d82a50c08fddc61c4",
+            "title": "Suspension of TROY (BSC) Deposits (2025-01-03)",
+            "type": 1,
+            "releaseDate": 1735893528082
+          },
+          {
+            "id": 222461,
+            "code": "ebfa0a9e08464b629125ece7187ec6aa",
+            "title": "Binance P2P Adds Support for New Trading Pairs in Selected Fiat Zones Across Africa - 2025-01-03",
+            "type": 1,
+            "releaseDate": 1735887612196
+          },
+          {
+            "id": 222378,
+            "code": "6df3e07b86e343d585aeed67dfa82e0b",
+            "title": "Introducing EOS Network (EOS) on BNSOL Super Stake: HODL BNSOL to Get EOS APR Boost Airdrop Rewards",
+            "type": 1,
+            "releaseDate": 1735876809336
+          },
+          {
+            "id": 222258,
+            "code": "00ae3dd0e47746f0a118c9ea3172dde3",
+            "title": "Binance Will Extend the Monitoring Tag to Include STMX & TROY, Remove the Monitoring Tag for CVX & SUN, and Remove the Seed Tag for ARKM, BLUR, JTO & TIA on 2025-01-02",
+            "type": 1,
+            "releaseDate": 1735808419305
+          },
+          {
+            "id": 222184,
+            "code": "0c56fd939b814735b63836f9696dd100",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2025-01-01)",
+            "type": 1,
+            "releaseDate": 1735696806771
+          },
+          {
+            "id": 222046,
+            "code": "ac8e0258d2e74ccfb57478e5a46d7200",
+            "title": "Binance Will Cease Support for Deposits and Withdrawals of DYDX via the Ethereum Network (ERC20)",
+            "type": 1,
+            "releaseDate": 1735610404426
+          },
+          {
+            "id": 221903,
+            "code": "feedc87914bb4272970e6bf924307634",
+            "title": "Introducing MANTRA (OM) on BNSOL Super Stake: HODL BNSOL to Get OM APR Boost Airdrop Rewards",
+            "type": 1,
+            "releaseDate": 1735290005520
+          },
+          {
+            "id": 221816,
+            "code": "b02c41e76c7149b48d883cd06e44b2a7",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-12-25)",
+            "type": 1,
+            "releaseDate": 1735117203134
+          },
+          {
+            "id": 221788,
+            "code": "c297eb8309b2495cbcbfe38f3f05312b",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) - 2024-12-25",
+            "type": 1,
+            "releaseDate": 1735095601167
+          },
+          {
+            "id": 221760,
+            "code": "ffbb697b71444b3795b9393936d5103b",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-12-25)",
+            "type": 1,
+            "releaseDate": 1735092002365
+          },
+          {
+            "id": 221699,
+            "code": "2bad3683db2c4d35a26355e4580e3c65",
+            "title": "Binance Futures Extends the BFUSD Zero Purchase Fee Promotion",
+            "type": 1,
+            "releaseDate": 1735027213367
+          },
+          {
+            "id": 221643,
+            "code": "f816f2f4f4574b6589c5401deef5b519",
+            "title": "Notice on Change in Tokenomics: IOTA (IOTA)",
+            "type": 1,
+            "releaseDate": 1735016402049
+          },
+          {
+            "id": 221588,
+            "code": "201c7d76d63e4826990f0d9e81b56f1a",
+            "title": "Important Updates on Token Supply Information",
+            "type": 1,
+            "releaseDate": 1734951601063
+          },
+          {
+            "id": 221504,
+            "code": "0323d984af9a4360b2da6bd0df76f220",
+            "title": "Binance Pool Supports New Merged Mining: Junkcoin (JKC) and Pepecoin (PEP)",
+            "type": 1,
+            "releaseDate": 1734937208102
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

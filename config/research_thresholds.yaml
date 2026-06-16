@@ -1,0 +1,55 @@
+version: "v1"
+locked_at_utc: "2026-05-26T00:00:00Z"
+
+recovery:
+  touch_90_ratio: 0.90
+  touch_100_ratio: 1.00
+  sustained_min_daily_closes: 3
+  recovery_window_days: 90
+
+pump:
+  min_return: 0.20
+  min_volume_zscore: 2.0
+  strong_post_pump_drawdown: -0.30
+
+dump:
+  immediate_24h_raw_return: -0.10
+  immediate_24h_market_adjusted_return: -0.075
+
+slow_bleed:
+  require_negative_market_adjusted_return: true
+  windows_days: [30, 90]
+  require_volume_or_liquidity_deterioration: true
+
+pre_announcement:
+  weakness_24h_market_adjusted_return: -0.05
+  dump_4h_market_adjusted_return: -0.05
+  volume_zscore_min: 2.0
+
+data_quality:
+  manual_review_confidence_below: 0.75
+  low_liquidity_min_daily_quote_volume_usd: 100000
+  extreme_wick_high_low_ratio: 1.50
+
+bottom_rebound:
+  methodology_version: "v4"
+  methodology_locked_at_utc: "2026-06-08T11:45:00Z"
+  deep_drawdown_min: -0.50
+  extreme_drawdown_min: -0.80
+  capitulation_volume_zscore_min: 2.0
+  rebound_20: 0.20
+  rebound_50: 0.50
+  rebound_100: 1.00
+  rebound_200: 2.00
+  pump_and_dump_drawdown_min: -0.30
+  sustained_rebound_min_closes: 3
+  reclaim_pct_from_low: 0.10
+  higher_low_min_pct: 0.05
+  breakout_volume_zscore_min: 1.5
+  low_liquidity_quote_volume_min: 100000
+  bottom_liquidity_threshold: 25000
+  signal_liquidity_threshold: 100000
+  rebound_liquidity_threshold: 100000
+  suspicious_wick_ratio_min: 0.70
+  signal_lookback_hours: 72
+  signal_forward_hours: 336

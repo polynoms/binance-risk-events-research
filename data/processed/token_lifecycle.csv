@@ -1,0 +1,549 @@
+token_entity_id,token_symbol,token_name,first_monitoring_tag_datetime_utc,first_seed_tag_datetime_utc,vote_to_delist_datetime_utc,vote_to_delist_result,monitoring_tag_removed_datetime_utc,seed_tag_removed_datetime_utc,delisting_announcement_datetime_utc,effective_delisting_datetime_utc,was_delisted_after_tag,was_delisted_without_known_prior_tag,days_from_monitoring_tag_to_delisting,days_from_monitoring_tag_to_tag_removal,final_outcome,primary_scenario_stub,event_count,has_pair_removal_control_event,manual_review_required,entity_notes
+0G,0G,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+1000CAT,1000CAT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+1000CHEEMS,1000CHEEMS,Binance Will List Cheems,,2025-02-09T07:10:31Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+1000SATS,1000SATS,Binance Will List BRC-20 Sats,,2023-12-12T06:09:30Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+1000WHY,1000WHY,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,coin_m_futures_review
+1000X,1000X,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+1INCH,1INCH,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+1MBABYDOGE,1MBABYDOGE,"irst Neiro on Ethereum (NEIRO), Turbo (TURBO), and Baby Doge Coin",,2024-09-16T05:45:02Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+2Z,2Z,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+42,42,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+A2Z,A2Z,,2026-03-13T09:00:23Z,,,,,,2026-03-18T09:00:08Z,2026-04-01T03:00:00Z,yes,no,4,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+AAVE,AAVE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+ACA,ACA,,2026-01-02T10:59:57Z,,,,,,2026-02-02T08:59:52Z,2026-02-13T03:00:00Z,yes,no,30,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+ACE,ACE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+ACH,ACH,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+ACM,ACM,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+ACT,ACT,The AI Prophecy,,2024-11-11T05:39:29Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+ACX,ACX,Binance Will List Across Protocol,,2024-12-06T08:34:18Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+ADA,ADA,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,2,yes,no,pair_removal_observed_but_not_token_delisting
+ADX,ADX,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+AERGO,AERGO,,2025-03-04T08:01:22Z,,2025-03-21T05:50:20Z,,,,2025-03-21T05:50:20Z,2025-03-28T03:00:00Z,yes,no,16,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+AEVO,AEVO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+AGLD,AGLD,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+AI,AI,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,5,yes,no,pair_removal_observed_but_not_token_delisting
+AIA,AIA,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+AIGENSYN,AIGENSYN,Binance Will List Gensyn,,2026-05-14T10:00:03Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+AIXBT,AIXBT,Binance Will List aixbt by Virtuals,,2025-01-10T08:55:27Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+AKRO,AKRO,,,,,,,,2024-12-18T08:01:12Z,2024-12-25T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,2,yes,no,
+ALCX,ALCX,,2026-05-22T08:00:04Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,2,yes,no,pair_removal_observed_but_not_token_delisting
+ALGO,ALGO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+ALICE,ALICE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+ALLO,ALLO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+ALPACA,ALPACA,,2025-03-04T08:01:22Z,,,,,,2025-04-24T04:00:05Z,2025-05-02T03:00:00Z,yes,no,50,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+ALPHA,ALPHA,,2025-05-07T08:00:33Z,,,,,,2025-06-26T07:00:09Z,2025-07-04T03:00:00Z,yes,no,49,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+ALPINE,ALPINE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+ALT,ALT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+AMB,AMB,,,,,,,,2025-02-17T07:00:24Z,2025-02-24T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,2,yes,no,
+AMP,AMP,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+ANIME,ANIME,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+ANKR,ANKR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+ANT,ANT,,2024-01-04T07:00:09Z,,,,,,2024-02-06T07:00:12Z,2024-02-20T03:00:00Z,yes,no,33,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+APE,APE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,5,yes,no,pair_removal_observed_but_not_token_delisting
+API3,API3,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+APT,APT,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,3,yes,no,pair_removal_observed_but_not_token_delisting
+AR,AR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+ARB,ARB,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+ARDR,ARDR,,2025-04-03T07:00:36Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,2,yes,no,pair_removal_observed_but_not_token_delisting
+ARKM,ARKM,,,,,,,2025-01-02T09:00:19Z,,,no,no,,,unknown,UNKNOWN,5,yes,no,pair_removal_observed_but_not_token_delisting
+ARPA,ARPA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+AST,AST,,2025-03-04T08:01:22Z,,2025-03-21T05:50:20Z,,,,2025-03-21T05:50:20Z,2025-03-28T03:00:00Z,yes,no,16,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+ASTER,ASTER,Binance Will List Aster,,2025-10-06T07:48:49Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+ASTR,ASTR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+AT,AT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+ATA,ATA,,2026-03-13T09:00:23Z,,,,,,2026-05-13T08:00:04Z,2026-05-27T03:00:00Z,yes,no,60,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+ATOM,ATOM,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+AUCTION,AUCTION,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+AUDIO,AUDIO,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,2,yes,no,pair_removal_observed_but_not_token_delisting
+AVA,AVA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+AVAX,AVAX,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+AVNT,AVNT,Binance Will List Avantis,,2025-09-15T03:47:01Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+AWE,AWE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+AXL,AXL,Binance Will List Axelar,,2024-03-01T07:18:57Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+AXS,AXS,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+B3,B3,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+BABY,BABY,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+BADGER,BADGER,,2025-03-04T08:01:22Z,,,published,,,2025-04-08T06:00:07Z,2025-04-16T03:00:00Z,yes,no,34,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+BAKE,BAKE,,2025-07-07T03:29:57Z,,,,,,2025-09-03T02:59:54Z,2025-09-17T03:00:00Z,yes,no,57,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,5,yes,no,
+BAL,BAL,,2024-07-01T07:00:03Z,,,published,,,2025-04-08T06:00:07Z,2025-04-16T03:00:00Z,yes,no,280,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+BANANA,BANANA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+BAND,BAND,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+BANK,BANK,Binance Will List Lorenzo Protocol,,2025-11-13T10:00:26Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+BARD,BARD,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+BASE,BASE,AIXBT Smart Contract Address,,2025-01-10T08:55:27Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+BAT,BAT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+BB,BB,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+BCH,BCH,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+BDXN,BDXN,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,coin_m_futures_review
+BEL,BEL,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+BERA,BERA,,,,,,,2025-10-09T02:29:52Z,,,no,no,,,unknown,UNKNOWN,4,yes,no,pair_removal_observed_but_not_token_delisting
+BETA,BETA,,2023-10-04T06:00:16Z,,,published,,,2025-04-08T06:00:07Z,2025-04-16T03:00:00Z,yes,no,551,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,6,yes,no,
+BICO,BICO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+BID,BID,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+BIFI,BIFI,,2025-06-05T05:00:18Z,,,,,,2026-04-09T06:00:05Z,2026-04-23T03:00:00Z,yes,no,308,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+BIO,BIO,,,,,,,2025-10-09T02:29:52Z,,,no,no,,,unknown,UNKNOWN,3,yes,no,pair_removal_observed_but_not_token_delisting
+BLUEBIRD,BLUEBIRD,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+BLUR,BLUR,Binance Will List Blur,,2023-11-24T06:09:47Z,,,,2025-01-02T09:00:19Z,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+BLZ,BLZ,,2024-10-03T07:00:05Z,,,,,,2024-12-18T08:01:12Z,2024-12-25T03:00:00Z,yes,no,76,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+BMT,BMT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+BNB,BNB,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,3,yes,no,pair_removal_observed_but_not_token_delisting
+BNT,BNT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+BNX,BNX,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+BOB,BOB,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+BOME,BOME,Binance Will List BOOK OF MEME,,2024-03-16T09:30:06Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+BOND,BOND,,2023-10-04T06:00:16Z,,,,,,2024-07-08T07:01:09Z,2024-07-22T03:00:00Z,yes,no,278,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+BONK,BONK,Binance Will List Bonk,,2023-12-15T03:58:33Z,,,,2025-07-21T02:29:56Z,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+BREV,BREV,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+BSC,BSC,from the Doge meme community as a memecoin on Binance Smart Chain,,2024-09-16T05:45:02Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+BSW,BSW,,2025-04-03T07:00:36Z,,,,,,2025-06-26T07:00:09Z,2025-07-04T03:00:00Z,yes,no,83,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+BTC,BTC,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,2,yes,no,pair_removal_observed_but_not_token_delisting
+BTS,BTS,,,,,,,,2023-11-27T06:00:26Z,2023-12-07T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,1,no,no,
+BURGER,BURGER,,2025-03-04T08:01:22Z,,2025-03-21T05:50:20Z,,,,2025-03-21T05:50:20Z,2025-03-28T03:00:00Z,yes,no,16,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+C98,C98,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+CAKE,CAKE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+CATI,CATI,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+CELO,CELO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+CELR,CELR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+CETUS,CETUS,Binance Will List Cow Protocol (COW) and Cetus Protocol,,2024-11-06T05:10:07Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+CFG,CFG,Binance Will List Centrifuge,,2026-03-16T10:22:39Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+CFX,CFX,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+CGPT,CGPT,"Binance Will List aixbt by Virtuals (AIXBT), ChainGPT",,2025-01-10T08:55:27Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+CHESS,CHESS,,2025-12-01T04:30:24Z,,,,,,2026-02-02T08:59:52Z,2026-02-13T03:00:00Z,yes,no,63,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+CHIP,CHIP,Binance Will List Chip,,2026-04-21T12:00:32Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+CHR,CHR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+CHZ,CHZ,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,6,yes,no,pair_removal_observed_but_not_token_delisting
+CITY,CITY,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+CLV,CLV,,2024-10-03T07:00:05Z,,,,,,2025-02-17T07:00:24Z,2025-02-24T03:00:00Z,yes,no,137,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+CML,CML,&nbsp; If the Collateral Margin Level,,,2025-03-21T05:50:20Z,published,,,,,no,no,,,unknown,UNKNOWN,2,no,no,
+COMBO,COMBO,,2025-03-04T08:01:22Z,,2025-03-21T05:50:20Z,,,,2025-03-21T05:50:20Z,2025-03-28T03:00:00Z,yes,no,16,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+COMMON,COMMON,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+COMP,COMP,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+COOKIE,COOKIE,"Will List aixbt by Virtuals (AIXBT), ChainGPT(CGPT), Cookie DAO",2026-05-22T08:00:04Z,2025-01-10T08:55:27Z,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,2,no,no,
+COS,COS,,2026-03-06T08:29:56Z,,,,,,2026-06-05T07:00:07Z,2026-06-19T03:00:00Z,yes,no,90,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+COTI,COTI,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+COW,COW,Binance Will List Cow Protocol,,2024-11-06T05:10:07Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+CREAM,CREAM,Badger DAO (BADGER) Balancer (BAL) Beta Finance (BETA) Cream Finance,,,,published,,,2025-04-08T06:00:07Z,2025-04-16T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,2,no,no,
+CRV,CRV,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+CTK,CTK,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+CTSI,CTSI,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+CTXC,CTXC,,2024-07-01T07:00:03Z,,,published,,,2025-04-08T06:00:07Z,2025-04-16T03:00:00Z,yes,no,280,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+CUDIS,CUDIS,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+CVP,CVP,,2024-07-01T07:00:03Z,,,,,,2024-08-12T07:00:11Z,2024-08-26T03:00:00Z,yes,no,42,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+CVX,CVX,,2024-07-01T07:00:03Z,,,,2025-01-02T09:00:19Z,,,,no,no,,185,tag_removed,TAG_REMOVED_PENDING_PRICE_ANALYSIS,4,yes,no,pair_removal_observed_but_not_token_delisting
+CYBER,CYBER,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+D,D,Dar Open Network,,,,,,,2026-06-05T07:00:07Z,2026-06-19T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,1,no,no,
+DAM,DAM,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+DAR,DAR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+DASH,DASH,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+DATA,DATA,,2026-01-02T10:59:57Z,,,,,,2026-02-02T08:59:52Z,2026-02-13T03:00:00Z,yes,no,30,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+DCR,DCR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+DEFI,DEFI,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+DEGEN,DEGEN,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+DEGO,DEGO,,2026-03-06T08:29:56Z,,,,,,2026-04-17T09:00:06Z,2026-04-28T03:00:00Z,yes,no,42,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+DENT,DENT,,2025-12-01T04:30:24Z,,,,,,2026-04-17T09:00:06Z,2026-04-28T03:00:00Z,yes,no,137,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+DEXE,DEXE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+DF,DF,,2025-12-01T04:30:24Z,,,,,,2026-02-02T08:59:52Z,2026-02-13T03:00:00Z,yes,no,63,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+DGB,DGB,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,2,yes,no,pair_removal_observed_but_not_token_delisting
+DIA,DIA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+DMC,DMC,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+DOCK,DOCK,,2024-07-01T07:00:03Z,,,,,,2024-07-08T07:01:09Z,2024-07-22T03:00:00Z,yes,no,7,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+DODO,DODO,,2026-05-22T08:00:04Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,4,yes,no,pair_removal_observed_but_not_token_delisting
+DOGE,DOGE,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,2,yes,no,pair_removal_observed_but_not_token_delisting
+DOGS,DOGS,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+DOLO,DOLO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+DOT,DOT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+DREP,DREP,,,,,,,,2024-03-20T06:00:07Z,2024-04-03T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,2,yes,no,
+DUSK,DUSK,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+DYDX,DYDX,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+DYM,DYM,Binance Will List Dymension,,2024-02-06T09:26:57Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+EDEN,EDEN,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+EDU,EDU,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+EGLD,EGLD,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+EIGEN,EIGEN,Binance Will List EigenLayer,,2024-09-30T08:19:57Z,,,,2025-07-21T02:29:56Z,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+ELF,ELF,BAL) Beta Finance (BETA) Cream Finance (CREAM) Cortex (CTXC) Aaelf,,,,published,,,2025-04-08T06:00:07Z,2025-04-16T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,3,yes,no,
+ENA,ENA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+ENJ,ENJ,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+ENS,ENS,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+ENSO,ENSO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+EOS,EOS,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+EPIC,EPIC,,2026-05-22T08:00:04Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,1,no,no,
+EPT,EPT,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+EPX,EPX,,2024-04-03T06:00:16Z,,,,,,2024-08-12T07:00:11Z,2024-08-26T03:00:00Z,yes,no,131,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+ERC20,ERC20,EIGEN Smart Contract Address,,2024-09-30T08:19:57Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+ESP,ESP,Binance Will List Espresso,,2026-02-12T07:28:23Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+ETC,ETC,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+ETH,ETH,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,2,yes,no,pair_removal_observed_but_not_token_delisting
+ETHFI,ETHFI,,,,,,,2025-07-21T02:29:56Z,,,no,no,,,unknown,UNKNOWN,4,yes,no,pair_removal_observed_but_not_token_delisting
+EUL,EUL,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+FARM,FARM,,2026-04-14T02:30:06Z,,,,,,2026-05-13T08:00:04Z,2026-05-27T03:00:00Z,yes,no,29,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+FET,FET,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+FF,FF,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+FHE,FHE,"sets confidentially on any L1 or L2, using Fully Homomorphic Encryption",,2026-02-02T04:28:43Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+FIDA,FIDA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+FIL,FIL,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+FIO,FIO,,2026-03-13T09:00:23Z,,,,,,2026-04-09T06:00:05Z,2026-04-23T03:00:00Z,yes,no,26,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+FIRO,FIRO,,2024-01-04T07:00:09Z,,,published,,,2025-04-08T06:00:07Z,2025-04-16T03:00:00Z,yes,no,459,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+FIS,FIS,,2025-06-05T05:00:18Z,,,,,,2025-12-03T06:29:56Z,2025-12-17T03:00:00Z,yes,no,181,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+FLM,FLM,,2025-04-03T07:00:36Z,,,,,,2025-10-29T03:00:04Z,2025-11-12T03:00:00Z,yes,no,208,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,no,no,
+FLOKI,FLOKI,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+FLOW,FLOW,,2026-01-02T10:59:57Z,,,,2026-03-06T08:29:56Z,,,,no,no,,62,tag_removed,TAG_REMOVED_PENDING_PRICE_ANALYSIS,5,yes,no,pair_removal_observed_but_not_token_delisting
+FLUX,FLUX,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+FOGO,FOGO,Binance Will List Fogo,,2026-01-12T12:50:53Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+FOOTBALL,FOOTBALL,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+FOR,FOR,,2024-04-03T06:00:16Z,,,,,,2024-08-12T07:00:11Z,2024-08-26T03:00:00Z,yes,no,131,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+FORTH,FORTH,,2026-03-06T08:29:56Z,,,,,,2026-03-18T09:00:08Z,2026-04-01T03:00:00Z,yes,no,12,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+FRONT,FRONT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+FTM,FTM,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+FUN,FUN,,2026-03-06T08:29:56Z,,,,,,2026-04-09T06:00:05Z,2026-04-23T03:00:00Z,yes,no,33,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+FXS,FXS,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+GALA,GALA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,5,yes,no,pair_removal_observed_but_not_token_delisting
+GAS,GAS,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+GBP,GBP,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+GENIUS,GENIUS,Binance Will List Genius Terminal,,2026-05-22T07:18:35Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+GFT,GFT,,,,,,,,2024-11-26T08:30:14Z,2024-12-10T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,1,no,no,
+GHST,GHST,,2025-12-01T04:30:24Z,,,,,,2026-02-02T08:59:52Z,2026-02-13T03:00:00Z,yes,no,63,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+GIGGLE,GIGGLE,Binance Will List Giggle Fund,,2025-10-25T03:02:18Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+GLMR,GLMR,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,3,yes,no,pair_removal_observed_but_not_token_delisting
+GMT,GMT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,5,yes,no,pair_removal_observed_but_not_token_delisting
+GMX,GMX,,,,,,,2024-01-04T07:00:09Z,,,no,no,,,unknown,UNKNOWN,2,yes,no,pair_removal_observed_but_not_token_delisting
+GNS,GNS,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+GPS,GPS,"ws, Binance will extend the Monitoring Tag to include GoPlus Security",2025-03-07T09:00:45Z,,,,2025-10-09T02:29:52Z,,,,no,no,,215,tag_removed,TAG_REMOVED_PENDING_PRICE_ANALYSIS,4,yes,no,pair_removal_observed_but_not_token_delisting
+GRT,GRT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+GTC,GTC,,2026-03-13T09:00:23Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,3,yes,no,pair_removal_observed_but_not_token_delisting
+GUN,GUN,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+HAEDAL,HAEDAL,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+HARD,HARD,,2024-07-01T07:00:03Z,,,published,,,2025-04-08T06:00:07Z,2025-04-16T03:00:00Z,yes,no,280,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,6,yes,no,
+HBAR,HBAR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+HEI,HEI,,2026-05-22T08:00:04Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,2,yes,no,pair_removal_observed_but_not_token_delisting
+HEMI,HEMI,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+HFT,HFT,,2026-05-22T08:00:04Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,3,yes,no,pair_removal_observed_but_not_token_delisting
+HIFI,HIFI,,2025-05-07T08:00:33Z,,,,,,2025-09-03T02:59:54Z,2025-09-17T03:00:00Z,yes,no,118,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+HIGH,HIGH,,2026-04-14T02:30:06Z,,,,,,2026-06-05T07:00:07Z,2026-06-19T03:00:00Z,yes,no,52,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,5,yes,no,
+HIPPO,HIPPO,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+HIVE,HIVE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+HMSTR,HMSTR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+HOLO,HOLO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+HOME,HOME,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+HOOK,HOOK,,2026-03-06T08:29:56Z,,,,,,2026-03-18T09:00:08Z,2026-04-01T03:00:00Z,yes,no,12,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,5,yes,no,
+HOT,HOT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+HUMA,HUMA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+HYPER,HYPER,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+ICP,ICP,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+ICX,ICX,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+ID,ID,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+IDEX,IDEX,,2025-07-07T03:29:57Z,,,,,,2026-03-18T09:00:08Z,2026-04-01T03:00:00Z,yes,no,254,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,7,yes,no,
+IDRT,IDRT,,,,,,,,2024-10-23T07:00:37Z,2024-11-06T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,1,no,no,
+ILV,ILV,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+IMX,IMX,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+INIT,INIT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+INJ,INJ,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+IO,IO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+IOST,IOST,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+IOTA,IOTA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+IOTX,IOTX,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+IR,IR,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+IRIS,IRIS,,2024-07-01T07:00:03Z,,,,,,2024-11-26T08:30:14Z,2024-12-10T03:00:00Z,yes,no,148,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+JASMY,JASMY,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+JOE,JOE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+JTO,JTO,Binance Will List Jito,,2023-12-07T11:55:38Z,,,,2025-01-02T09:00:19Z,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+JUP,JUP,Binance Will List Jupiter,,2024-01-31T07:06:53Z,,,,2025-04-03T07:00:36Z,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,2,no,no,
+JUV,JUV,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+KAITO,KAITO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+KAT,KAT,Binance Will List Katana,,2026-03-13T01:45:36Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+KAVA,KAVA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+KDA,KDA,,,,,,,,2025-10-29T03:00:04Z,2025-11-12T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,3,yes,no,
+KERNEL,KERNEL,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+KEY,KEY,,2024-10-03T07:00:05Z,,,,,,2024-11-26T08:30:14Z,2024-12-10T03:00:00Z,yes,no,54,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+KITE,KITE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+KMD,KMD,,2025-06-05T05:00:18Z,,,,,,2025-06-26T07:00:09Z,2025-07-04T03:00:00Z,yes,no,21,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+KMNO,KMNO,Binance Will List Maple Finance (SYRUP) and Kamino Finance,,2025-05-06T11:25:20Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+KNC,KNC,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+KP3R,KP3R,,2024-01-04T07:00:09Z,,,,,,2024-10-23T07:00:37Z,2024-11-06T03:00:00Z,yes,no,293,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+KSM,KSM,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+LA,LA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+LAYER,LAYER,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+LAZIO,LAZIO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+LDO,LDO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+LEVER,LEVER,,2025-05-07T08:00:33Z,,,,,,2025-06-26T07:00:09Z,2025-07-04T03:00:00Z,yes,no,49,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+LINA,LINA,GO) AirSwap (AST) BurgerCities (BURGER) COMBO (COMBO) Linear Finance,,,2025-03-21T05:50:20Z,,,,2025-03-21T05:50:20Z,2025-03-28T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,4,yes,no,
+LINEA,LINEA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+LINK,LINK,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+LISTA,LISTA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+LIT,LIT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+LOKA,LOKA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+LOOM,LOOM,,,,,,,,2024-08-12T07:00:11Z,2024-08-26T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,2,no,no,
+LPT,LPT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+LQTY,LQTY,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+LRC,LRC,,2026-03-06T08:29:56Z,,,,,,2026-03-18T09:00:08Z,2026-04-01T03:00:00Z,yes,no,12,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+LSK,LSK,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+LTC,LTC,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,2,yes,no,pair_removal_observed_but_not_token_delisting
+LTO,LTO,,2025-04-03T07:00:36Z,,,,,,2025-06-26T07:00:09Z,2025-07-04T03:00:00Z,yes,no,83,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+MAGIC,MAGIC,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+MANA,MANA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+MANTA,MANTA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+MASK,MASK,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+MATIC,MATIC,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,2,yes,no,pair_removal_observed_but_not_token_delisting
+MAV,MAV,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+MAVIA,MAVIA,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+MBL,MBL,,2024-07-01T07:00:03Z,,,,2025-10-09T02:29:52Z,,,,no,no,,464,tag_removed,TAG_REMOVED_PENDING_PRICE_ANALYSIS,4,no,no,
+MBOX,MBOX,,2026-03-06T08:29:56Z,,,,,,2026-06-05T07:00:07Z,2026-06-19T03:00:00Z,yes,no,90,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,5,yes,no,
+MDT,MDT,,2025-06-05T05:00:18Z,,,,,,2026-04-09T06:00:05Z,2026-04-23T03:00:00Z,yes,no,308,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+MDX,MDX,,2024-01-04T07:00:09Z,,,,,,2024-07-08T07:01:09Z,2024-07-22T03:00:00Z,yes,no,186,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+ME,ME,Binance Will List Magic Eden,,2024-12-10T07:22:20Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+MEGA,MEGA,Binance Will List MegaETH,,2026-04-30T09:07:29Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+MEME,MEME,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+MET,MET,Binance Will List Lorenzo Protocol (BANK) and Meteora,,2025-11-13T10:00:26Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+METIS,METIS,Binance Will List Metis,,2024-03-11T07:59:30Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+MILK,MILK,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+MINA,MINA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+MIRA,MIRA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+MITO,MITO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+MKR,MKR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+MLN,MLN,,2026-04-14T02:30:06Z,,,,,,2026-05-13T08:00:04Z,2026-05-27T03:00:00Z,yes,no,29,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+MMT,MMT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+MOB,MOB,,2024-01-04T07:00:09Z,,,,,,2024-03-20T06:00:07Z,2024-04-03T03:00:00Z,yes,no,75,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+MORPHO,MORPHO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+MOVE,MOVE,,2025-05-07T08:00:33Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,4,yes,no,pair_removal_observed_but_not_token_delisting
+MOVR,MOVR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+MTL,MTL,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+MULTI,MULTI,,,,,,,,2024-02-06T07:00:12Z,2024-02-20T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,3,yes,no,
+MYRO,MYRO,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+NEAR,NEAR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+NEIRO,NEIRO,Binance Will List First Neiro on Ethereum,,2024-09-16T05:45:02Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+NEIROETH,NEIROETH,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+NEO,NEO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+NEWT,NEWT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+NFP,NFP,,2026-04-30T07:00:05Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,5,yes,no,pair_removal_observed_but_not_token_delisting
+NIL,NIL,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+NKN,NKN,,2025-04-03T07:00:36Z,,,,,,2026-02-02T08:59:52Z,2026-02-13T03:00:00Z,yes,no,305,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+NMR,NMR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+NOM,NOM,,2026-04-30T07:00:05Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,2,yes,no,pair_removal_observed_but_not_token_delisting
+NON,NON,,,,,,,,2025-03-03T09:00:03Z,2025-03-31T23:59:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,1,no,yes,
+NOT,NOT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+NTRN,NTRN,Binance Will List Neutron,2026-03-13T09:00:23Z,2023-10-10T07:45:17Z,,,,,2026-03-18T09:00:08Z,2026-04-01T03:00:00Z,yes,no,4,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,5,yes,no,
+NULS,NULS,,2025-03-04T08:01:22Z,,,published,,,2025-04-08T06:00:07Z,2025-04-16T03:00:00Z,yes,no,34,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,no,no,
+NXPC,NXPC,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+OAX,OAX,,,,,,,,2024-11-26T08:30:14Z,2024-12-10T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,1,no,no,
+OBOL,OBOL,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+OCEAN,OCEAN,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+OG,OG,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+OGN,OGN,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+OL,OL,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+OM,OM,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+OMG,OMG,,,,,,,,2024-06-03T03:00:20Z,2024-06-17T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,2,no,no,
+OMNI,OMNI,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+ONDO,ONDO,,,,,,,2026-03-06T08:29:56Z,,,no,no,,,unknown,UNKNOWN,1,no,no,
+ONE,ONE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+ONT,ONT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+OOKI,OOKI,,,,,,,,2024-10-23T07:00:37Z,2024-11-06T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,1,no,no,
+OP,OP,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,7,yes,no,pair_removal_observed_but_not_token_delisting
+OPG,OPG,Binance Will List Genius Terminal (GENIUS) and OpenGradient,,2026-05-22T07:18:35Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+OPN,OPN,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+ORBS,ORBS,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+ORCA,ORCA,Binance Will List Across Protocol (ACX) and Orca,,2024-12-06T08:34:18Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+ORDI,ORDI,Binance Will List ORDI,,2023-11-07T06:44:13Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+OSMO,OSMO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+OXT,OXT,,2026-03-06T08:29:56Z,,,,,,2026-04-09T06:00:05Z,2026-04-23T03:00:00Z,yes,no,33,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+PAXG,PAXG,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+PDA,PDA,,2025-04-03T07:00:36Z,,,,,,2025-04-24T04:00:05Z,2025-05-02T03:00:00Z,yes,no,20,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+PENDLE,PENDLE,,,,,,,2024-10-03T07:00:05Z,,,no,no,,,unknown,UNKNOWN,3,yes,no,pair_removal_observed_but_not_token_delisting
+PENGU,PENGU,,,,,,,2025-07-21T02:29:56Z,,,no,no,,,unknown,UNKNOWN,3,yes,no,pair_removal_observed_but_not_token_delisting
+PEOPLE,PEOPLE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+PEPE,PEPE,,,,,,,2025-07-21T02:29:56Z,,,no,no,,,unknown,UNKNOWN,2,yes,no,pair_removal_observed_but_not_token_delisting
+PERL,PERL,,,,,,,,2023-11-27T06:00:26Z,2023-12-07T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,1,no,no,
+PERP,PERP,,2025-04-03T07:00:36Z,,,,,,2025-10-29T03:00:04Z,2025-11-12T03:00:00Z,yes,no,208,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,5,yes,no,
+PHA,PHA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+PHB,PHB,,2026-03-13T09:00:23Z,,,,,,2026-05-13T08:00:04Z,2026-05-27T03:00:00Z,yes,no,60,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+PIVX,PIVX,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+PIXEL,PIXEL,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+PLUME,PLUME,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+PNT,PNT,,,,,,,,2024-03-20T06:00:07Z,2024-04-03T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,1,no,no,
+PNUT,PNUT,The AI Prophecy (ACT) and Peanut the Squirrel,,2024-11-11T05:39:29Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,5,yes,no,pair_removal_observed_but_not_token_delisting
+POL,POL,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+POLS,POLS,,2024-07-01T07:00:03Z,,,,,,2024-07-08T07:01:09Z,2024-07-22T03:00:00Z,yes,no,7,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+POLYX,POLYX,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+POND,POND,,2026-04-30T07:00:05Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,3,yes,no,pair_removal_observed_but_not_token_delisting
+PONKE,PONKE,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+PORT3,PORT3,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+PORTAL,PORTAL,,2025-05-07T08:00:33Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,3,yes,no,pair_removal_observed_but_not_token_delisting
+PORTO,PORTO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+POWR,POWR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+PROM,PROM,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+PROS,PROS,,2024-10-03T07:00:05Z,,,published,,,2025-04-08T06:00:07Z,2025-04-16T03:00:00Z,yes,no,186,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+PROVE,PROVE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+PSG,PSG,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+PUFFER,PUFFER,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+PUMP,PUMP,fun,,2025-09-11T11:37:53Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+PUNDIX,PUNDIX,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+PYR,PYR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+PYTH,PYTH,Binance Will List Pyth Network,,2024-02-02T07:50:07Z,,,2025-07-09T01:59:56Z,,,,no,no,,,tag_removed,TAG_REMOVED_PENDING_PRICE_ANALYSIS,4,yes,no,pair_removal_observed_but_not_token_delisting
+QI,QI,,2026-03-13T09:00:23Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,3,yes,no,pair_removal_observed_but_not_token_delisting
+QKC,QKC,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+QNT,QNT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+QTUM,QTUM,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+QUICK,QUICK,,2026-04-30T07:00:05Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,4,yes,no,pair_removal_observed_but_not_token_delisting
+RAD,RAD,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,2,yes,no,pair_removal_observed_but_not_token_delisting
+RARE,RARE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+RAY,RAY,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+RDNT,RDNT,,2026-03-13T09:00:23Z,,,,,,2026-03-18T09:00:08Z,2026-04-01T03:00:00Z,yes,no,4,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+RED,RED,Binance Will End the RedStone,,2025-03-05T08:15:02Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+REEF,REEF,,2024-01-04T07:00:09Z,,,,,,2024-08-12T07:00:11Z,2024-08-26T03:00:00Z,yes,no,221,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+REI,REI,,2025-05-07T08:00:33Z,,,,,,2025-12-03T06:29:56Z,2025-12-17T03:00:00Z,yes,no,209,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,no,no,
+REMOVE,REMOVE,,2025-01-02T09:00:19Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,4,no,no,
+REN,REN,,,,,,,,2024-11-26T08:30:14Z,2024-12-10T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,1,no,no,
+RENDER,RENDER,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+REQ,REQ,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+RESOLV,RESOLV,,2026-04-14T02:30:06Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,3,yes,no,pair_removal_observed_but_not_token_delisting
+REZ,REZ,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+RIF,RIF,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+RLC,RLC,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+RLS,RLS,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+RNDR,RNDR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+ROBO,ROBO,Binance Will List Fabric Protocol,,2026-03-04T13:13:14Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+RONIN,RONIN,Binance Will List Ronin,,2024-02-05T09:11:36Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+ROSE,ROSE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+RPL,RPL,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+RSR,RSR,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+RUNE,RUNE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,5,yes,no,pair_removal_observed_but_not_token_delisting
+RVN,RVN,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+RVV,RVV,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+SAGA,SAGA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+SAHARA,SAHARA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+SAND,SAND,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,5,yes,no,pair_removal_observed_but_not_token_delisting
+SANTOS,SANTOS,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+SAPIEN,SAPIEN,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+SC,SC,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+SCR,SCR,Binance Will End the Scroll,,2024-10-18T01:22:09Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+SCRT,SCRT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+SEI,SEI,,,,,,,2024-10-03T07:00:05Z,,,no,no,,,unknown,UNKNOWN,4,yes,no,pair_removal_observed_but_not_token_delisting
+SENT,SENT,Binance Will List Sentient,,2026-01-22T05:25:54Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+SFP,SFP,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+SHELL,SHELL,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+SHIB,SHIB,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+SIGN,SIGN,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+SKATE,SKATE,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+SKL,SKL,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+SKY,SKY,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+SLERF,SLERF,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,coin_m_futures_review
+SLF,SLF,,2025-07-07T03:29:57Z,,,,,,2025-09-03T02:59:54Z,2025-09-17T03:00:00Z,yes,no,57,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+SLP,SLP,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,2,yes,no,pair_removal_observed_but_not_token_delisting
+SNM,SNM,,,,,,,,2023-08-15T07:01:08Z,2023-08-22T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,1,no,no,
+SNT,SNT,,2024-07-01T07:00:03Z,,,published,,,2025-04-08T06:00:07Z,2025-04-16T03:00:00Z,yes,no,280,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,no,no,
+SNX,SNX,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+SOL,SOL,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,2,yes,no,pair_removal_observed_but_not_token_delisting
+SOLV,SOLV,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+SOMI,SOMI,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+SOPH,SOPH,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+SPK,SPK,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+SRM,SRM,,,,,,,,2023-08-15T07:01:08Z,2023-08-22T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,1,no,no,
+SSV,SSV,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+STEEM,STEEM,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+STG,STG,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+STMX,STMX,,2025-01-02T09:00:19Z,,,,,,2025-02-17T07:00:24Z,2025-02-24T03:00:00Z,yes,no,45,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+STO,STO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+STORJ,STORJ,,2026-05-22T08:00:04Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,2,yes,no,pair_removal_observed_but_not_token_delisting
+STPT,STPT,,2025-03-04T08:01:22Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,2,no,no,
+STRAX,STRAX,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+STRK,STRK,Binance Will List Starknet,,2024-02-20T02:25:22Z,,,,2025-04-03T07:00:36Z,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+STX,STX,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+SUI,SUI,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+SUN,SUN,,2024-07-01T07:00:03Z,,,,2025-01-02T09:00:19Z,,,,no,no,,185,tag_removed,TAG_REMOVED_PENDING_PRICE_ANALYSIS,3,no,no,
+SUPER,SUPER,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+SUSHI,SUSHI,,,,,,,2024-01-04T07:00:09Z,,,no,no,,,unknown,UNKNOWN,3,yes,no,pair_removal_observed_but_not_token_delisting
+SWELL,SWELL,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+SXP,SXP,,2025-12-01T04:30:24Z,,,,,,2026-03-18T09:00:08Z,2026-04-01T03:00:00Z,yes,no,107,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,6,yes,no,
+SXT,SXT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+SYN,SYN,,2026-05-22T08:00:04Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,2,yes,no,pair_removal_observed_but_not_token_delisting
+SYRUP,SYRUP,Binance Will List Maple Finance,,2025-05-06T11:25:20Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+SYS,SYS,,2026-04-14T02:30:06Z,,,,,,2026-05-13T08:00:04Z,2026-05-27T03:00:00Z,yes,no,29,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+TANSSI,TANSSI,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+TAO,TAO,Binance Will List Bittensor,,2024-04-11T06:43:58Z,,,2025-07-09T01:59:56Z,,,,no,no,,,tag_removed,TAG_REMOVED_PENDING_PRICE_ANALYSIS,2,no,no,
+TFUEL,TFUEL,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+THE,THE,,,,,,2025-07-09T01:59:56Z,,,,no,no,,,tag_removed,TAG_REMOVED_PENDING_PRICE_ANALYSIS,4,yes,no,pair_removal_observed_but_not_token_delisting
+THETA,THETA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+TIA,TIA,Binance Will List Celestia,,2023-10-30T13:18:52Z,,,,2025-01-02T09:00:19Z,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,5,yes,no,pair_removal_observed_but_not_token_delisting
+TKO,TKO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+TLM,TLM,,2026-05-22T08:00:04Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,4,yes,no,pair_removal_observed_but_not_token_delisting
+TNSR,TNSR,Binance Will List Tensor,,2024-04-08T11:44:17Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+TOKEN,TOKEN,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+TOMO,TOMO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+TON,TON,Binance Will List Toncoin,,2024-08-08T05:39:28Z,,,,2025-04-03T07:00:36Z,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+TORN,TORN,,,,,,,,2023-11-27T06:00:26Z,2023-12-07T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,1,no,no,
+TOWNS,TOWNS,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+TRB,TRB,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+TREE,TREE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+TROY,TROY,,2025-01-02T09:00:19Z,,,published,,,2025-04-08T06:00:07Z,2025-04-16T03:00:00Z,yes,no,95,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,no,no,
+TRU,TRU,,2026-04-14T02:30:06Z,,,,,,2026-04-17T09:00:06Z,2026-04-28T03:00:00Z,yes,no,3,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+TRUMP,TRUMP,Binance Will List OFFICIAL TRUMP,,2025-01-19T04:05:42Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+TRX,TRX,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,3,yes,no,pair_removal_observed_but_not_token_delisting
+TST,TST,Binance Will List Cheems (1000CHEEMS) and Test,,2025-02-09T07:10:31Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+TURBO,TURBO,"Binance Will List First Neiro on Ethereum (NEIRO), Turbo",,2024-09-16T05:45:02Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+TURTLE,TURTLE,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+TUSD,TUSD,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+TWT,TWT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+UFT,UFT,,2025-03-04T08:01:22Z,,,published,,,2025-04-08T06:00:07Z,2025-04-16T03:00:00Z,yes,no,34,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+UMA,UMA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+UNFI,UNFI,,2024-04-03T06:00:16Z,,,,,,2024-10-23T07:00:37Z,2024-11-06T03:00:00Z,yes,no,203,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+UNI,UNI,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+USTC,USTC,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+USUAL,USUAL,Binance Will End the Usual,,2024-12-12T09:39:05Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+UTK,UTK,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+UXLINK,UXLINK,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+VAI,VAI,,2024-01-04T07:00:09Z,,,,,,2024-02-06T07:00:12Z,2024-02-20T03:00:00Z,yes,no,33,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+VANA,VANA,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+VANRY,VANRY,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+VELODROME,VELODROME,Binance Will List Velodrome Finance,2026-04-14T02:30:06Z,2024-12-13T08:07:57Z,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,2,no,no,
+VET,VET,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+VFY,VFY,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,coin_m_futures_review
+VGX,VGX,,,,,,,,2024-08-12T07:00:11Z,2024-08-26T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,1,no,no,
+VIB,VIB,,2025-04-03T07:00:36Z,,,,,,2025-04-24T04:00:05Z,2025-05-02T03:00:00Z,yes,no,20,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+VIC,VIC,,2026-04-30T07:00:05Z,,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,2,yes,no,pair_removal_observed_but_not_token_delisting
+VIDT,VIDT,,2025-03-04T08:01:22Z,,,published,,,2025-04-08T06:00:07Z,2025-04-16T03:00:00Z,yes,no,34,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+VINE,VINE,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+VIRTUAL,VIRTUAL,,,,,,,2026-03-06T08:29:56Z,,,no,no,,,unknown,UNKNOWN,1,no,no,
+VITE,VITE,,2024-10-03T07:00:05Z,,,,,,2025-02-17T07:00:24Z,2025-02-24T03:00:00Z,yes,no,137,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+VOXEL,VOXEL,,2025-04-03T07:00:36Z,,,,,,2025-12-03T06:29:56Z,2025-12-17T03:00:00Z,yes,no,243,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,5,yes,no,
+VTHO,VTHO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+WAN,WAN,,2025-10-09T02:29:52Z,,,,,,2026-04-09T06:00:05Z,2026-04-23T03:00:00Z,yes,no,182,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+WAVES,WAVES,,2024-04-03T06:00:16Z,,,,,,2024-06-03T03:00:20Z,2024-06-17T03:00:00Z,yes,no,60,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+WAXP,WAXP,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+WCT,WCT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+WIF,WIF,Binance Will List Dogwifhat,2026-03-06T08:29:56Z,2024-03-05T10:01:37Z,,,,,,,no,no,,,still_tagged,PENDING_PRICE_ANALYSIS,6,yes,no,pair_removal_observed_but_not_token_delisting
+WIN,WIN,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+WING,WING,,2025-04-03T07:00:36Z,,,,,,2025-04-24T04:00:05Z,2025-05-02T03:00:00Z,yes,no,20,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,4,yes,no,
+WLFI,WLFI,Binance Will List  World Liberty Financial,,2025-09-01T01:49:05Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+WNXM,WNXM,,2024-04-03T06:00:16Z,,,,,,2024-06-03T03:00:20Z,2024-06-17T03:00:00Z,yes,no,60,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+WOO,WOO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+WRX,WRX,,,,,,,,2024-12-18T08:01:12Z,2024-12-25T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,2,yes,no,
+WTC,WTC,,2023-10-04T06:00:16Z,,,,,,2023-11-27T06:00:26Z,2023-12-07T03:00:00Z,yes,no,54,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,2,no,no,
+XAI,XAI,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+XAUT,XAUT,,,,,,,2026-04-14T02:30:06Z,,,no,no,,,unknown,UNKNOWN,1,no,no,
+XCN,XCN,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+XEC,XEC,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+XEM,XEM,,2023-10-04T06:00:16Z,,,,,,2024-06-03T03:00:20Z,2024-06-17T03:00:00Z,yes,no,242,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,no,no,
+XLM,XLM,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+XMR,XMR,,2024-01-04T07:00:09Z,,,,,,2024-02-06T07:00:12Z,2024-02-20T03:00:00Z,yes,no,33,,delisted_after_tag,TAG_TO_DELISTING_TO_COLLAPSE,3,yes,no,
+XNO,XNO,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+XPL,XPL,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+XRP,XRP,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,2,yes,no,pair_removal_observed_but_not_token_delisting
+XTZ,XTZ,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting
+XVG,XVG,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+XVS,XVS,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+YALA,YALA,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+YB,YB,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+YFI,YFI,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+YFII,YFII,,,,,,,,2023-08-15T07:01:08Z,2023-08-22T03:00:00Z,no,yes,,,delisted_without_known_tag,DELISTED_WITHOUT_KNOWN_PRIOR_TAG,1,no,no,
+YGG,YGG,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+ZAMA,ZAMA,Binance Will List Zama,,2026-02-02T04:28:43Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+ZBT,ZBT,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+ZEC,ZEC,,2024-01-04T07:00:09Z,,,,2025-07-09T01:59:56Z,,,,no,no,,551,tag_removed,TAG_REMOVED_PENDING_PRICE_ANALYSIS,3,yes,no,pair_removal_observed_but_not_token_delisting
+ZEN,ZEN,,2024-01-04T07:00:09Z,,,,2024-07-01T07:00:03Z,,,,no,no,,178,tag_removed,TAG_REMOVED_PENDING_PRICE_ANALYSIS,3,yes,no,pair_removal_observed_but_not_token_delisting
+ZIL,ZIL,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,4,yes,no,pair_removal_observed_but_not_token_delisting
+ZK,ZK,,,,,,,2025-10-09T02:29:52Z,,,no,no,,,unknown,UNKNOWN,3,yes,no,pair_removal_observed_but_not_token_delisting
+ZKC,ZKC,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,2,yes,no,pair_removal_observed_but_not_token_delisting
+ZKJ,ZKJ,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+ZKP,ZKP,Binance Will List 币安人生 (币安人生) and zkPass,,2026-01-07T10:39:06Z,,,,,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,1,no,no,
+ZRC,ZRC,,,,,,,,,,no,no,,,futures_only_delisting,FUTURES_ONLY_DELISTING,1,no,no,
+ZRO,ZRO,Binance Will List LayerZero,,2024-06-20T06:19:30Z,,,,2025-10-09T02:29:52Z,,,no,no,,,seed_tag_only,SEED_TAG_ONLY,3,yes,no,pair_removal_observed_but_not_token_delisting
+ZRX,ZRX,,,,,,,,,,no,no,,,spot_pair_removed_only,PAIR_REMOVAL_ONLY,1,yes,no,pair_removal_observed_but_not_token_delisting

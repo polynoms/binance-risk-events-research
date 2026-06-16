@@ -1,0 +1,13 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+POND,35a9e6faaa5862b7,MONITORING_TAG_ADDED,0.002288440713809025,yes,yes,yes,no,no,no,no
+PONKE,d873eb465fc217e7,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.040099401024718845,yes,no,yes,no,no,no,no
+PORT3,c441b4b20adec1e7,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.011441442360008772,yes,yes,yes,yes,no,no,no
+PORTAL,a556e77327afcd24,MONITORING_TAG_ADDED,0.06517352921858696,yes,yes,yes,yes,no,no,no
+PROS,14c99625149e363a,MONITORING_TAG_ADDED,0.3638438468715444,yes,yes,yes,yes,no,no,no
+PUFFER,06e734f35491a1de,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.03288026368971476,yes,yes,no,no,no,no,no
+PUMP,b2b34e6de6de02cc,SEED_TAG_ADDED,0.005893,yes,yes,yes,yes,no,no,no
+PYTH,1a117a207e329960,SEED_TAG_ADDED,0.481,yes,yes,yes,yes,no,no,no
+QI,31663d580e98be67,MONITORING_TAG_ADDED,0.0018568132337512594,yes,yes,yes,yes,no,no,no
+QUICK,88394d4087b17e7e,MONITORING_TAG_ADDED,0.01027841170209281,yes,yes,yes,yes,no,no,no
+RAD,cb556fc87e74f057,FUTURES_CONTRACT_DELISTING_ANNOUNCED,1.7321732502428915,yes,yes,yes,yes,no,no,no
+RDNT,c643d1df6b26e19d,MONITORING_TAG_ADDED,0.005618407882779983,yes,yes,yes,no,no,no,yes

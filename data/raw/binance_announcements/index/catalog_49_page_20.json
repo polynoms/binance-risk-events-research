@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 203345,
+            "code": "960975fc39bd4cfc9ff6a6c0d7bc6e20",
+            "title": "Notice on Binance Futures Funding Fee Notification Maintenance (2024-06-19)",
+            "type": 1,
+            "releaseDate": 1718775004254
+          },
+          {
+            "id": 203342,
+            "code": "60007107485742c38268f9c5e58042d9",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) and VIP Loan - 2024-06-19",
+            "type": 1,
+            "releaseDate": 1718773201312
+          },
+          {
+            "id": 203302,
+            "code": "adbeef86b3e9455c822636bd0e0f4c55",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-06-19)",
+            "type": 1,
+            "releaseDate": 1718767811842
+          },
+          {
+            "id": 203215,
+            "code": "ff5efac0c2884c04be75bc430ed83123",
+            "title": "Binance Adds ZKsync (ZK) on Convert and “Buy Crypto”",
+            "type": 1,
+            "releaseDate": 1718698519026
+          },
+          {
+            "id": 203105,
+            "code": "bc803be2f9cf4419b0d5c74c00c1acbb",
+            "title": "ZKsync (ZK) Listing Will Be Further Postponed",
+            "type": 1,
+            "releaseDate": 1718613437479
+          },
+          {
+            "id": 203078,
+            "code": "9fb014f8fb704a60a99794695c342a36",
+            "title": "ZKsync (ZK) Listing Will Be Postponed",
+            "type": 1,
+            "releaseDate": 1718609401533
+          },
+          {
+            "id": 202889,
+            "code": "f9e6ea2d58ce4de5bf9ecadea5170526",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-06-18)",
+            "type": 1,
+            "releaseDate": 1718334009819
+          },
+          {
+            "id": 202790,
+            "code": "6ef0ae0bdb0545be8455f677d2990fca",
+            "title": "Binance Completes Integration of DeXe (DEXE) on BNB Smart Chain, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1718269201692
+          },
+          {
+            "id": 202742,
+            "code": "7f43e06a36e7417a82ed691a0d7307c4",
+            "title": "Updates on the Leverage & Margin Tiers of FETUSDT, AGIXUSDT, and OCEANUSDT USDⓈ-M Perpetual Contracts (2024-06-13)",
+            "type": 1,
+            "releaseDate": 1718258401544
+          },
+          {
+            "id": 202713,
+            "code": "a735b819e59c467bb9fa1c45fdd15822",
+            "title": "Binance Has Completed the WazirX (WRX) Contract Swap",
+            "type": 1,
+            "releaseDate": 1718247627201
+          },
+          {
+            "id": 202684,
+            "code": "d23640ca755e47caaaee5b7a4fffa98e",
+            "title": "Binance Hosts an Auction for the Super Super Rare Portugal NFT With a Chance to Meet Cristiano Ronaldo in Person",
+            "type": 1,
+            "releaseDate": 1718200813267
+          },
+          {
+            "id": 202607,
+            "code": "99bb1634643e454cae9246dc43236785",
+            "title": "Updates on Step Size for Spot Trading Pairs (2024-06-19)",
+            "type": 1,
+            "releaseDate": 1718175610311
+          },
+          {
+            "id": 202553,
+            "code": "76ca8e1cd2f74dacbd9c3d3635cc6a36",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-06-12)",
+            "type": 1,
+            "releaseDate": 1718161207576
+          },
+          {
+            "id": 202525,
+            "code": "6ac4aaa6d615492da8770739b9244994",
+            "title": "Binance Completes Integrations of Curve (CRV) on Arbitrum One and Optimism Networks, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1718157601823
+          },
+          {
+            "id": 202476,
+            "code": "6b281824aaf14482837fba270d17d100",
+            "title": "Binance Updates Its Managed Sub-Account Function",
+            "type": 1,
+            "releaseDate": 1718110818753
+          },
+          {
+            "id": 202307,
+            "code": "c6e08c3fb0d84dbc8c5ed412ae345b57",
+            "title": "Binance Completes Integrations of Hashflow (HFT) on Arbitrum One Network and Wormhole (W) on Ethereum Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1717729214743
+          },
+          {
+            "id": 202288,
+            "code": "b6eeb176a6ff48faa94259eb1dfda2ac",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-06-12)",
+            "type": 1,
+            "releaseDate": 1717727402109
+          },
+          {
+            "id": 202235,
+            "code": "2f1c7da98d244a728790c73d51df39cd",
+            "title": "Binance Adds OMNI on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1717646428008
+          },
+          {
+            "id": 202228,
+            "code": "978c7f463f614f5ab5b4f2aaca3cb09b",
+            "title": "Binance Convert Adds COP",
+            "type": 1,
+            "releaseDate": 1717602244118
+          },
+          {
+            "id": 202143,
+            "code": "ef92df23165b439faacf84cd6f7295df",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) - 2024-06-05",
+            "type": 1,
+            "releaseDate": 1717563620349
+          },
+          {
+            "id": 202114,
+            "code": "435f474f795a4b19ae12ac437b8c400a",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-06-05)",
+            "type": 1,
+            "releaseDate": 1717560006587
+          },
+          {
+            "id": 201992,
+            "code": "e5799de5fb4540b6890a771c0d211c23",
+            "title": "Binance Updates Its Managed Sub-account Function",
+            "type": 1,
+            "releaseDate": 1717497001661
+          },
+          {
+            "id": 201976,
+            "code": "7ab2e56489fa4144bba4310afb0a2ac7",
+            "title": "USDT Locked Products Launch: Enjoy 6% Fixed APR!",
+            "type": 1,
+            "releaseDate": 1717488003457
+          },
+          {
+            "id": 201963,
+            "code": "884c621e335540e0add5fdce31597121",
+            "title": "MiCA Stablecoin Rules Implementation Announcement",
+            "type": 1,
+            "releaseDate": 1717423229180
+          },
+          {
+            "id": 201959,
+            "code": "c0102f45f3e34212b068a0531f1934ed",
+            "title": "Updates on the Leverage & Margin Tiers of OGNUSDT, ONEUSDT and ZENUSDT USDⓈ-M Perpetual Contracts (2024-06-05)",
+            "type": 1,
+            "releaseDate": 1717387201574
+          },
+          {
+            "id": 201795,
+            "code": "4b419936509647a4896e65a48eef2c5e",
+            "title": "Updates on Minimum Order Size for Spot and Margin Trading Pairs (2024-06-07)",
+            "type": 1,
+            "releaseDate": 1717138813334
+          },
+          {
+            "id": 201765,
+            "code": "0806a835368b409e8d5ebd84d9fdc4ed",
+            "title": "Binance Will Update The Collateral Ratio of Multiple Assets Under Portfolio Margin (2024-06-10)",
+            "type": 1,
+            "releaseDate": 1717135305275
+          },
+          {
+            "id": 201525,
+            "code": "9dbf893ffbea42a089a4d7de104fc6d5",
+            "title": "Binance Launches the 'Forever Worldwide: The Road to Saudi Arabia' NFT Collection with Cristiano Ronaldo",
+            "type": 1,
+            "releaseDate": 1716969615227
+          },
+          {
+            "id": 201506,
+            "code": "cece1f0fa58f452aa88116d040170074",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) and VIP Loan - 2024-05-29",
+            "type": 1,
+            "releaseDate": 1716958940886
+          },
+          {
+            "id": 201442,
+            "code": "8197ef3d20bd423c8ac005c6648b4d12",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-05-29)",
+            "type": 1,
+            "releaseDate": 1716951789174
+          },
+          {
+            "id": 201370,
+            "code": "ee27e69ee5b0421a9075acae73f9a00e",
+            "title": "Binance Adds DYDX on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1716868801468
+          },
+          {
+            "id": 201289,
+            "code": "aa735cd2d8bd4e7bb092179cf086e486",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M and COIN-M Perpetual Contracts (2024-05-28)",
+            "type": 1,
+            "releaseDate": 1716789601615
+          },
+          {
+            "id": 201179,
+            "code": "789001daab5940df83cef9e062ada96d",
+            "title": "Binance Pool Includes USDC and FDUSD as New Payment Methods for Cloud Mining",
+            "type": 1,
+            "releaseDate": 1716768000000
+          },
+          {
+            "id": 201081,
+            "code": "7402192d839543f0b5a283338b4a8b91",
+            "title": "Binance Has Completed the Lisk (LSK) Contract Swap",
+            "type": 1,
+            "releaseDate": 1716532203317
+          },
+          {
+            "id": 201027,
+            "code": "960171978fce44bf98f5616bed59a333",
+            "title": "Binance Updates Coin-Margined Futures Liquidity Provider Program (2024-06-17)",
+            "type": 1,
+            "releaseDate": 1716440452795
+          },
+          {
+            "id": 200738,
+            "code": "95b023902fef42e6a630425170460656",
+            "title": "Calling For Project Applicants",
+            "type": 1,
+            "releaseDate": 1716202802316
+          },
+          {
+            "id": 200568,
+            "code": "b8de8f878a8241d68dc7beced44ce5cd",
+            "title": "Removal of BIDR Spot Trading Pairs Will Be Postponed (2024-05-17)",
+            "type": 1,
+            "releaseDate": 1715916519816
+          },
+          {
+            "id": 200510,
+            "code": "d4bb5ea6674b46928d5780602ce34513",
+            "title": "Update on Notcoin (NOT) Listing",
+            "type": 1,
+            "releaseDate": 1715862215804
+          },
+          {
+            "id": 200482,
+            "code": "04ebf4385b9e46219e84c6ec4a62ad11",
+            "title": "Binance Launches the Liquidity Pairing Program to Connect Projects With Liquidity Providers",
+            "type": 1,
+            "releaseDate": 1715855421719
+          },
+          {
+            "id": 200429,
+            "code": "e285c92c01ef4d40954cbb50ce6e2de5",
+            "title": "Updates on Tick Size for Spot Trading Pairs (2024-05-23)",
+            "type": 1,
+            "releaseDate": 1715832003453
+          },
+          {
+            "id": 199794,
+            "code": "cf333f9ad25a4a55be0fdcdb748852bd",
+            "title": "Binance Launches Spot Copy Trading",
+            "type": 1,
+            "releaseDate": 1715774402421
+          },
+          {
+            "id": 200278,
+            "code": "36ddbcf3e76c4660a69db2a117ed867e",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) and VIP Loan - 2024-05-15",
+            "type": 1,
+            "releaseDate": 1715749203841
+          },
+          {
+            "id": 200229,
+            "code": "80b0136686834d318621cd1457fd3461",
+            "title": "Binance Will Support the Lisk (LSK) Contract Swap",
+            "type": 1,
+            "releaseDate": 1715742014052
+          },
+          {
+            "id": 200204,
+            "code": "39d389c0d3794c15944e04a7def9f2b1",
+            "title": "Binance Completes Integration of USD Coin (USDC) on Base Network, Opens Deposits",
+            "type": 1,
+            "releaseDate": 1715738407091
+          },
+          {
+            "id": 200144,
+            "code": "9398061388964bc7bc5575c1e8e6b8a1",
+            "title": "Updates on Binance Futures Multi-Assets Mode Auto-Exchange Threshold (2024-05-14)",
+            "type": 1,
+            "releaseDate": 1715677204181
+          },
+          {
+            "id": 200098,
+            "code": "8fbe902e90ec477780c18b98a5544acb",
+            "title": "Binance Introduces Taker Fee Promotion for Spot and Margin Altcoin Trading Pairs",
+            "type": 1,
+            "releaseDate": 1715670028686
+          },
+          {
+            "id": 200082,
+            "code": "47a41beed9dc43129834633ea4f8a405",
+            "title": "Binance Futures Will Discontinue Support for XRP and TUSD in Multi-Assets Mode",
+            "type": 1,
+            "releaseDate": 1715668811647
+          },
+          {
+            "id": 200057,
+            "code": "3b8c5d80d3594a40b6c28a438907e8c4",
+            "title": "Binance Completes Integrations of Wrapped BTC (WBTC) on Kava EVM and Bonk (BONK) on BNB Smart Chain, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1715655608415
+          },
+          {
+            "id": 199966,
+            "code": "d6d5171322ca480c9b1ebf82213f8807",
+            "title": "Binance Spot Copy Trading Launches Elite Trader Program for Lead Traders",
+            "type": 1,
+            "releaseDate": 1715583731905
+          },
+          {
+            "id": 199795,
+            "code": "ef15e60f3f674ba582b36834c921ae99",
+            "title": "Binance Adds USDC on Dual Investment",
+            "type": 1,
+            "releaseDate": 1715238005031
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

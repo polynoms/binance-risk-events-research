@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 195633,
+            "code": "91bcd47c1861446b931ee45a8c812257",
+            "title": "Binance Academy Launches BNB Chain Developer Specialization: Share Up to $10,000 in BNB Rewards!",
+            "type": 1,
+            "releaseDate": 1711368000000
+          },
+          {
+            "id": 195604,
+            "code": "33df0ff0e2e94259950b5c4b1f4952f7",
+            "title": "Binance Will Cease Support for Deposits and Withdrawals of USDC via the Tron Network (TRC20)",
+            "type": 1,
+            "releaseDate": 1711349356068
+          },
+          {
+            "id": 195565,
+            "code": "713bd011e3de4d3d99b95308da434235",
+            "title": "SOL Locked Products: Enjoy Up to 8.9% APR in Rewards!",
+            "type": 1,
+            "releaseDate": 1711336255250
+          },
+          {
+            "id": 195512,
+            "code": "fc7732cf48cd49cf95e53aa479ed4deb",
+            "title": "Binance Introduces Limited-Time Trading Fee Discount for USDC-Margined Perpetual Contracts (2024-04-03)",
+            "type": 1,
+            "releaseDate": 1711095974411
+          },
+          {
+            "id": 195487,
+            "code": "c1f2f393904f4e13851697eb30511440",
+            "title": "BNB Beacon Chain (BEP2) Network Sunset Plan: BEP2 Projects to Bind Their Tokens to BEP20 Network and Complete On-Chain Asset Migration!",
+            "type": 1,
+            "releaseDate": 1711086837565
+          },
+          {
+            "id": 195424,
+            "code": "33702ffd1744463ca8ea7ad4264c6280",
+            "title": "Binance Wallet Network Infrastructure Upgrade Notice (2024-03-27)",
+            "type": 1,
+            "releaseDate": 1710998105562
+          },
+          {
+            "id": 195294,
+            "code": "fb8aad264e0147999777268182c5ce17",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) - 2024-03-20",
+            "type": 1,
+            "releaseDate": 1710908404093
+          },
+          {
+            "id": 195001,
+            "code": "98e6086608424b21a5a385f30ffebd15",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2024-03-19)",
+            "type": 1,
+            "releaseDate": 1710755715279
+          },
+          {
+            "id": 194941,
+            "code": "80d60aef48ba4245b25958088db1270e",
+            "title": "Binance Has Completed the Kava (KAVA) EVM Integration, Opens Deposits and Withdrawals for KAVA and USDT",
+            "type": 1,
+            "releaseDate": 1710733826752
+          },
+          {
+            "id": 194892,
+            "code": "27e7e36194814fe5b776506e93d5aac3",
+            "title": "Binance Adds BOOK OF MEME (BOME) on Earn, Convert & Margin",
+            "type": 1,
+            "releaseDate": 1710650508493
+          },
+          {
+            "id": 194577,
+            "code": "4193f1d593d541a18e766c5f4c46831d",
+            "title": "Binance Web3 Wallet Completes Integration of Solana Network",
+            "type": 1,
+            "releaseDate": 1710472821980
+          },
+          {
+            "id": 194515,
+            "code": "d64467c2b81d4a58a69323c69a03a32e",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-03-13)",
+            "type": 1,
+            "releaseDate": 1710306627709
+          },
+          {
+            "id": 194455,
+            "code": "979345a6f65c4905baccb5bb1ba80e45",
+            "title": "Binance Convert Adds JPY",
+            "type": 1,
+            "releaseDate": 1710245533062
+          },
+          {
+            "id": 194374,
+            "code": "cde0427260394f17b7d0d69c56b8657f",
+            "title": "Binance P2P Will Apply a Flat Taker Fee on USDT Trading Pairs in Selected Fiat Markets at P2P Zone",
+            "type": 1,
+            "releaseDate": 1710227732702
+          },
+          {
+            "id": 194315,
+            "code": "646b3a5d8fb1483ba736bbfe4ae19584",
+            "title": "Binance Adds PIXEL on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1710220588184
+          },
+          {
+            "id": 194282,
+            "code": "c534b724972f4a74841fbd5d0f1f2389",
+            "title": "New Dual Investment Products Launched (2024-03-12)",
+            "type": 1,
+            "releaseDate": 1710215103802
+          },
+          {
+            "id": 194043,
+            "code": "2e6eb8e644664a6ca7b6659a226c41b0",
+            "title": "Binance Will Support the Stratis (STRAX) Token Swap and Redenomination Plan",
+            "type": 1,
+            "releaseDate": 1709886631005
+          },
+          {
+            "id": 193945,
+            "code": "ebbe55258f1f432685f8c6d5e5a0e374",
+            "title": "Binance Unveils Futures NEXT: Engage, Predict, and Earn Rewards With Upcoming Listings on USDⓈ-M Futures",
+            "type": 1,
+            "releaseDate": 1709802408002
+          },
+          {
+            "id": 193922,
+            "code": "5d6d8bf3ba4246a0acbe72e764617ef4",
+            "title": "Binance Upgrades VIP Investor Program to Include Simple Earn Flexible Products and ETH Staking",
+            "type": 1,
+            "releaseDate": 1709795411757
+          },
+          {
+            "id": 193814,
+            "code": "4fd0cd11c66642e9be99830070c6b038",
+            "title": "Notice on the Intermittent Suspension of Withdrawals on Solana (SOL) Network",
+            "type": 1,
+            "releaseDate": 1709718366657
+          },
+          {
+            "id": 193748,
+            "code": "91d6f1f1fd4240f2abc4d1ce57788712",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-03-06)",
+            "type": 1,
+            "releaseDate": 1709706018315
+          },
+          {
+            "id": 193704,
+            "code": "dec2d87ef5a84f5c855f7a670ca878c7",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) - 2024-03-06",
+            "type": 1,
+            "releaseDate": 1709698828343
+          },
+          {
+            "id": 193571,
+            "code": "c25886233c164665a425e3e9a730d109",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M and COIN-M Perpetual Contracts (2024-03-05)",
+            "type": 1,
+            "releaseDate": 1709637945375
+          },
+          {
+            "id": 193568,
+            "code": "f9857dc2fea4448ba1fb8815d87d8144",
+            "title": "Binance to Discontinue All Nigerian Naira (NGN) Services",
+            "type": 1,
+            "releaseDate": 1709633737840
+          },
+          {
+            "id": 193525,
+            "code": "fc91eaa24848465d99b1053a84bee5ba",
+            "title": "New Dual Investment Products Launched (2024-03-05)",
+            "type": 1,
+            "releaseDate": 1709619912819
+          },
+          {
+            "id": 193422,
+            "code": "08092477a1b2472885fdd6722cc55520",
+            "title": "Binance Web3 Wallet Completes Integration of Blast Network",
+            "type": 1,
+            "releaseDate": 1709542820730
+          },
+          {
+            "id": 193379,
+            "code": "5dc59606806f43c59f9e8411e78534d4",
+            "title": "Binance Futures Will Support FDUSD and Discontinue Support for USDP in Multi-Assets Mode",
+            "type": 1,
+            "releaseDate": 1709535332794
+          },
+          {
+            "id": 193128,
+            "code": "a01dc1c2ea4e43dcb559e37d3a776fc5",
+            "title": "Binance Has Completed the PlayDapp (PLA) Token Swap to PlayDapp (PDA)",
+            "type": 1,
+            "releaseDate": 1709273115258
+          },
+          {
+            "id": 192945,
+            "code": "b223936876474c7b8c40cbf41cc32017",
+            "title": "Binance Will Support the PIVX (PIVX) Network Upgrade & Hard Fork",
+            "type": 1,
+            "releaseDate": 1709188209336
+          },
+          {
+            "id": 192891,
+            "code": "773bcb0dff3445eda5db0c621c7b6402",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-02-28)",
+            "type": 1,
+            "releaseDate": 1709103644987
+          },
+          {
+            "id": 192683,
+            "code": "733f4ca226dd4d3a9cdc9d1e083ec2f1",
+            "title": "New Dual Investment Products Launched (2024-02-27)",
+            "type": 1,
+            "releaseDate": 1709005826145
+          },
+          {
+            "id": 192639,
+            "code": "9f7d7a5386294586b90561e6c7cfcab1",
+            "title": "Binance Convert System Maintenance Notice (2024-02-28)",
+            "type": 1,
+            "releaseDate": 1708941013500
+          },
+          {
+            "id": 192591,
+            "code": "a39eaefb040b439788b9a032e0425abf",
+            "title": "Notice on the “Login With Binance” Service Upgrade (2024-02-28)",
+            "type": 1,
+            "releaseDate": 1708920316314
+          },
+          {
+            "id": 192508,
+            "code": "5af3fc32fe71451ba942799189ae4d0a",
+            "title": "Binance Completes Integration of Filecoin (FIL) on FILEVM Network, Opens Deposits",
+            "type": 1,
+            "releaseDate": 1708668929730
+          },
+          {
+            "id": 192471,
+            "code": "55ad88e88a3348698a34ed5c1e22d0f9",
+            "title": "Binance Updates Binance Options VIP Program (2024-02-23)",
+            "type": 1,
+            "releaseDate": 1708601415192
+          },
+          {
+            "id": 192420,
+            "code": "f0fafa66fedf4e058aaacb57c206c597",
+            "title": "Binance Will Support the PlayDapp (PLA) Token Swap to PlayDapp (PDA)",
+            "type": 1,
+            "releaseDate": 1708580405142
+          },
+          {
+            "id": 192256,
+            "code": "00e8817413cf4562ab24143a59f86580",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-02-21)",
+            "type": 1,
+            "releaseDate": 1708495527684
+          },
+          {
+            "id": 192222,
+            "code": "d35942110b53480581773fc62a3e6eae",
+            "title": "Binance Upgrades Binance Loans (Flexible Rate) (2024-02-27)",
+            "type": 1,
+            "releaseDate": 1708487721136
+          },
+          {
+            "id": 192210,
+            "code": "f34dd2c2bc81474486cd97a537365bf5",
+            "title": "Binance Copy Trading Introduces Leverage Limits for Lead Trader Portfolios",
+            "type": 1,
+            "releaseDate": 1708482007839
+          },
+          {
+            "id": 192182,
+            "code": "2bfb6f8dccf447ada57165b7e6a4cf1b",
+            "title": "Binance Adds Starknet (STRK) on Earn, Convert, Margin & Futures",
+            "type": 1,
+            "releaseDate": 1708437254782
+          },
+          {
+            "id": 192142,
+            "code": "750ac04166e248aabdf2b72d69c9d729",
+            "title": "Binance Earn Completes the Starknet (STRK) Distribution Plan for ETH Staking Users",
+            "type": 1,
+            "releaseDate": 1708430598517
+          },
+          {
+            "id": 192101,
+            "code": "7ab3d72e2b6546ebad4723414f3ca7fb",
+            "title": "Binance Auto-Invest System Maintenance Notice (2024-02-23)",
+            "type": 1,
+            "releaseDate": 1708404325157
+          },
+          {
+            "id": 192084,
+            "code": "9e033f1020cb431e8857c87da4c6a9b2",
+            "title": "New Dual Investment Products Launched (2024-02-20)",
+            "type": 1,
+            "releaseDate": 1708399247117
+          },
+          {
+            "id": 191986,
+            "code": "9f85f3d4f9d44c0fa16550e00fcfc72f",
+            "title": "Updates on Tick Size for Spot Trading Pairs (2024-02-21 & 2024-02-26)",
+            "type": 1,
+            "releaseDate": 1708344304830
+          },
+          {
+            "id": 191947,
+            "code": "b982e8502e0d4a42aec8191a878f7895",
+            "title": "Updates on Binance Leveraged Tokens (BLVT) Services",
+            "type": 1,
+            "releaseDate": 1708336803592
+          },
+          {
+            "id": 191582,
+            "code": "ee65a8ccbd694a448167f44c415213c8",
+            "title": "Notice on the Removal of PLA from Binance Margin & VIP Loan",
+            "type": 1,
+            "releaseDate": 1707985206125
+          },
+          {
+            "id": 191558,
+            "code": "dd7d39426d4e461bb135659bc6146991",
+            "title": "Binance Adds POWR on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1707970210745
+          },
+          {
+            "id": 191536,
+            "code": "0fd0082f3b6343a3b744597d426d09ad",
+            "title": "Binance Completes Integration of 24 New dApps on Binance Web3 Wallet (February 2024)",
+            "type": 1,
+            "releaseDate": 1707910505073
+          },
+          {
+            "id": 191504,
+            "code": "9d14c4166a814b5da364aef11f45e438",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-02-14)",
+            "type": 1,
+            "releaseDate": 1707894042547
+          },
+          {
+            "id": 191471,
+            "code": "053fe5e87e4546b09472242ed9d5004a",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-02-14)",
+            "type": 1,
+            "releaseDate": 1707879318881
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

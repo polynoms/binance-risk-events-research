@@ -1,0 +1,2 @@
+token_entity_id,token_symbol,primary_bottom_rebound_scenario,secondary_flags,anchor_event_id,anchor_event_type,baseline_price,max_drawdown_after_event,days_to_bottom,max_rebound_after_bottom,rebound_sustained,pump_and_dump_after_bottom,low_liquidity_wick_flag,tradable_signal_found,best_signal_type,best_signal_risk_reward,scenario_confidence_score,manual_review_required,notes
+TRU,TRU,MANUAL_REVIEW_REQUIRED,,4623eb2e7750ecc2,MONITORING_TAG_ADDED,0.008976035943285774,-0.7549029422452751,13.979097222222222,nan,no,no,no,no,,,0.55,yes,

@@ -1,0 +1,10 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+GPS,5fa3fcfa690cf833,MONITORING_TAG_ADDED,0.05948701952321476,yes,no,no,no,no,no,no
+GTC,084e900636ac5fbe,MONITORING_TAG_ADDED,0.10160144794878605,yes,yes,yes,yes,no,no,no
+HARD,c54abb522c3fe7f3,MONITORING_TAG_ADDED,0.12050804060760324,yes,yes,yes,yes,no,no,no
+HEI,ee200e0e804f9834,MONITORING_TAG_ADDED,0.07104958681279541,yes,yes,no,no,no,no,no
+HFT,70cb64249d0273f1,MONITORING_TAG_ADDED,0.012827904182129393,yes,no,no,no,no,no,no
+HIFI,2c99c44cb7fd8609,MONITORING_TAG_ADDED,0.2498837611600941,yes,yes,no,no,no,no,yes
+HIGH,8fa523c997c7d4f5,MONITORING_TAG_ADDED,0.12034948561931628,yes,yes,yes,yes,no,no,no
+HIPPO,457ad61afef61621,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.00040487210451517854,yes,yes,no,no,no,no,no
+HOOK,b9485d9081530016,MONITORING_TAG_ADDED,0.02145265941710427,yes,yes,yes,yes,no,no,yes

@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 240404,
+            "code": "f6eb8bdee03547ee856c266396619907",
+            "title": "Binance Earn Yield Arena: Enjoy Up to 33.65% APR With This Week’s New Limited-Time Offers! (2025-07-02)",
+            "type": 1,
+            "releaseDate": 1751439666220
+          },
+          {
+            "id": 240383,
+            "code": "449d3c03dc5c4c2b899074a4d3b23651",
+            "title": "Binance Adds NEWT and SAHARA as New Loanable Assets on VIP Loan - 2025-07-02",
+            "type": 1,
+            "releaseDate": 1751436012590
+          },
+          {
+            "id": 240165,
+            "code": "9103c4fbee38406699d269089ecac615",
+            "title": "Introducing Dymension (DYM) on BNSOL Super Stake: HODL BNSOL & DeFi BNSOL Assets to Get DYM APR Boost Airdrop Rewards",
+            "type": 1,
+            "releaseDate": 1751256001367
+          },
+          {
+            "id": 240127,
+            "code": "c1addac5267d4efb816b5b603712b77f",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin (2025-07-04)",
+            "type": 1,
+            "releaseDate": 1751208278529
+          },
+          {
+            "id": 240088,
+            "code": "e139be3c44554c5f9a907553d21cac63",
+            "title": "Notice on Binance Spot Block Matching API Update (2025-06-27)",
+            "type": 1,
+            "releaseDate": 1751011230700
+          },
+          {
+            "id": 240085,
+            "code": "5dbe4bbd6bff420faa177150ba5e9424",
+            "title": "Binance Upgrades VIP Investor Program to Include Soft Staking",
+            "type": 1,
+            "releaseDate": 1750996801075
+          },
+          {
+            "id": 240000,
+            "code": "882afc70a48f445fae5d059e08c50874",
+            "title": "Binance Updates Eligible Trading Pairs for Altcoin LiquidityBoost Program",
+            "type": 1,
+            "releaseDate": 1750924810206
+          },
+          {
+            "id": 239954,
+            "code": "d40efa11e0194bea97dd38a7560b986f",
+            "title": "Binance Blockchain Yatra 2025: Driving Blockchain Adoption Through the Power of Community",
+            "type": 1,
+            "releaseDate": 1750912201125
+          },
+          {
+            "id": 239885,
+            "code": "c433de5971454f7e8a30bdd11857fdf9",
+            "title": "Binance Earn Yield Arena: Enjoy 4.5 Million PIXEL APR Boost Giveaway With This Week’s New Limited-Time Offers! (2025-06-25)",
+            "type": 1,
+            "releaseDate": 1750834816280
+          },
+          {
+            "id": 239844,
+            "code": "26b7cccbaec34f2cbedccc7f8ec73426",
+            "title": "Subscribe to BNB Locked Products & PIXEL Flexible Products to Share Up to $162,800 in PIXEL Token Rewards",
+            "type": 1,
+            "releaseDate": 1750827601817
+          },
+          {
+            "id": 239674,
+            "code": "ba8ab8c9216b4c89aef9144b2f1a4239",
+            "title": "Binance Fixed Rate Loans Now Support Conversion to Flexible Rate Loans",
+            "type": 1,
+            "releaseDate": 1750744801594
+          },
+          {
+            "id": 239571,
+            "code": "10168dfeb51343f69a17d34ba811d78c",
+            "title": "Introducing Fusionist (ACE) on BNSOL Super Stake: HODL BNSOL & DeFi BNSOL Assets to Get ACE APR Boost Airdrop Rewards",
+            "type": 1,
+            "releaseDate": 1750651215948
+          },
+          {
+            "id": 239520,
+            "code": "aa1d165426df4a7a84a0005a5a2f1e03",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts",
+            "type": 1,
+            "releaseDate": 1750603150211
+          },
+          {
+            "id": 239440,
+            "code": "bdf42cc8771e4c63b4797f58c3bcca36",
+            "title": "Updates on Tick Size for Spot Trading Pairs (2025-06-27)",
+            "type": 1,
+            "releaseDate": 1750401002148
+          },
+          {
+            "id": 239339,
+            "code": "88a76504bdc045cabd9b7e14ef336540",
+            "title": "Introducing Meme Rush: Discover and Trade Meme Tokens Early on Binance Wallet",
+            "type": 1,
+            "releaseDate": 1750320017044
+          },
+          {
+            "id": 239160,
+            "code": "55405074fb084650a164b6601314d065",
+            "title": "Binance Introduces Soft Staking: Earn Staking Rewards from Your Spot Assets with Full Flexibility",
+            "type": 1,
+            "releaseDate": 1750233603836
+          },
+          {
+            "id": 239208,
+            "code": "9179f0fd7a9a4570a8897d35ef2156b5",
+            "title": "Binance Earn Yield Arena: Enjoy Up to 30% APR With This Week’s New Limited-Time Offers! (2025-06-18)",
+            "type": 1,
+            "releaseDate": 1750230013458
+          },
+          {
+            "id": 239165,
+            "code": "5fdfca5360f54d909adafa8e814e3ff5",
+            "title": "Binance Adds TRUMP, S, PNUT, VIRTUAL, SSV, HOME, and RESOLV as Loanable Assets on Binance Loans - 2025-06-18",
+            "type": 1,
+            "releaseDate": 1750226405928
+          },
+          {
+            "id": 239144,
+            "code": "4b8ceef461bf46f08a873b5c0fbe470f",
+            "title": "Binance P2P Express Supports Binance Alpha Tokens Direct Purchases with Local Currencies and Payment Methods",
+            "type": 1,
+            "releaseDate": 1750212001943
+          },
+          {
+            "id": 239072,
+            "code": "a0268fbc13fd487a9ec9744a1a42480c",
+            "title": "Binance USDⓈ-Margined Futures Liquidity Provider Program Upgrade (2025-06-24)",
+            "type": 1,
+            "releaseDate": 1750147202964
+          },
+          {
+            "id": 239027,
+            "code": "c58cbaf282ac45819f470176bdc17f3b",
+            "title": "Updates to Fee Rates for Binance Alpha Trading Pairs",
+            "type": 1,
+            "releaseDate": 1750078801143
+          },
+          {
+            "id": 238834,
+            "code": "e778988edec446038ad536bcb0c8d460",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts",
+            "type": 1,
+            "releaseDate": 1749910096118
+          },
+          {
+            "id": 238818,
+            "code": "d41a0f195139412ebdc715da95fc6094",
+            "title": "Binance Introduces the VIP Growth Program",
+            "type": 1,
+            "releaseDate": 1749808801874
+          },
+          {
+            "id": 238747,
+            "code": "51915d8f87044d0690b21c3a26206497",
+            "title": "Introducing Binance UI Refined for App Pro Mode",
+            "type": 1,
+            "releaseDate": 1749729603106
+          },
+          {
+            "id": 238732,
+            "code": "399a7c50b66c43d0a7a37a6f393fecf2",
+            "title": "Binance P2P Now Supports Syrian Pound (SYP)",
+            "type": 1,
+            "releaseDate": 1749708006577
+          },
+          {
+            "id": 238730,
+            "code": "7b11496ac43a42ceac50a1895c454d25",
+            "title": "Binance Now Available to Syrian Residents",
+            "type": 1,
+            "releaseDate": 1749703824894
+          },
+          {
+            "id": 238661,
+            "code": "aded1650d36c45b4975849adf4a9ac19",
+            "title": "Binance Wallet Launches the Binance Alpha Earn Hub: Add Liquidity to Earn High APR Rewards and Alpha Points",
+            "type": 1,
+            "releaseDate": 1749643202232
+          },
+          {
+            "id": 238599,
+            "code": "ccf4c153b8e34604b1ac2c351107aa90",
+            "title": "Binance Earn Yield Arena: Earn Up to 3,600 USDC With This Week’s New Limited-Time Offers! (2025-06-11)",
+            "type": 1,
+            "releaseDate": 1749625202178
+          },
+          {
+            "id": 238563,
+            "code": "38a74ee47cdc43ebbc672e1dc6968358",
+            "title": "USDⓈ-Margined PUMPUSDT Perpetual Contract Will Be Renamed to USDⓈ-Margined PUMPBTCUSDT Perpetual Contract (2025-06-13)",
+            "type": 1,
+            "releaseDate": 1749544203096
+          },
+          {
+            "id": 238509,
+            "code": "aa1730d2950e4ed09e6a8f74882cfebc",
+            "title": "Binance Will Cease Support for Deposits and Withdrawals of Tokens on Selected Networks - 2025-06-16",
+            "type": 1,
+            "releaseDate": 1749456043072
+          },
+          {
+            "id": 238491,
+            "code": "26cef346531649f487a2dd3631c88ed0",
+            "title": "VIP and Non-VIP Corporate User Exclusive: Binance Upgrades USD Bank Transfer Solutions to Enable 1:1 USD to Stablecoin On- and Off-Ramp",
+            "type": 1,
+            "releaseDate": 1749448818514
+          },
+          {
+            "id": 238399,
+            "code": "b1219385d93740d1a8af9fc8de80f1cb",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2025-06-13)",
+            "type": 1,
+            "releaseDate": 1749365359674
+          },
+          {
+            "id": 238334,
+            "code": "fed6c0cbecb84685a157fed45da638ad",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2025-06-12)",
+            "type": 1,
+            "releaseDate": 1749112155924
+          },
+          {
+            "id": 238293,
+            "code": "74103b430fbe40438e59a5c0e1b5b201",
+            "title": "Binance Will Extend the Monitoring Tag to Include BIFI, FIS, KMD & MDT on 2025-06-05",
+            "type": 1,
+            "releaseDate": 1749099618433
+          },
+          {
+            "id": 238221,
+            "code": "a3df928f353c4893907a26544cd33d99",
+            "title": "Binance Introduces Spot Altcoin LiquidityBoost Program",
+            "type": 1,
+            "releaseDate": 1749034808825
+          },
+          {
+            "id": 238201,
+            "code": "7431e2a8dfce46faa33855b26388a086",
+            "title": "Binance Alpha Points Bot Violation Notice",
+            "type": 1,
+            "releaseDate": 1749024001462
+          },
+          {
+            "id": 238139,
+            "code": "4fd53f8c804f4dbcba644f016caa497a",
+            "title": "Binance Earn Yield Arena: Enjoy 20.9% APR With This Week’s New Limited-Time Offers! (2025-06-04)",
+            "type": 1,
+            "releaseDate": 1749016801880
+          },
+          {
+            "id": 238118,
+            "code": "15282c02d9a2464fac3f5dd0501d6561",
+            "title": "Binance Adds HAEDAL, HUMA, SOPH, A, and USD1 as Loanable Asset on Binance Loans - 2025-06-04",
+            "type": 1,
+            "releaseDate": 1749015007959
+          },
+          {
+            "id": 237984,
+            "code": "d37dfd0d0107454b9d3a98ce25a11f07",
+            "title": "Binance Traders League Season 2: Compete in the Regional Competitions and Win a Share of $100,000 in BNB!",
+            "type": 1,
+            "releaseDate": 1748847611462
+          },
+          {
+            "id": 237886,
+            "code": "ca87a6cd735b4beb8c0e78ef6a98afc9",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2025-06-06)",
+            "type": 1,
+            "releaseDate": 1748750099988
+          },
+          {
+            "id": 237778,
+            "code": "479888a1983040ee8414aedc573de8fb",
+            "title": "Binance Extends BRL, ARS, MXN and COP Fiat Liquidity Provider Program (2025-05-30)",
+            "type": 1,
+            "releaseDate": 1748574020484
+          },
+          {
+            "id": 237696,
+            "code": "e3a913d38af94454a4cd6a729588a332",
+            "title": "Binance Adds Babylon (BABY) on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1748494809328
+          },
+          {
+            "id": 237543,
+            "code": "85aefd05ddd7462495bc42931515027b",
+            "title": "Binance Earn Yield Arena: Enjoy 25% Bonus Tiered APR With This Week’s New Limited-Time Offers! (2025-05-28)",
+            "type": 1,
+            "releaseDate": 1748415619605
+          },
+          {
+            "id": 237540,
+            "code": "0aae19bdb79c41679c16d14ca15f105c",
+            "title": "Binance Extends USDⓢ-Margined Futures Liquidity Provider Program Promotion (2025-06-02）",
+            "type": 1,
+            "releaseDate": 1748412015608
+          },
+          {
+            "id": 237527,
+            "code": "72e56c79ed794bf9a534461fc331f978",
+            "title": "Binance Now Supports Limit Buy Orders When Buying Crypto Using Credit/Debit Card",
+            "type": 1,
+            "releaseDate": 1748404805688
+          },
+          {
+            "id": 237409,
+            "code": "6192d74092a24a0b9dca51a88ac79473",
+            "title": "Binance Square Launches Live Trading: Direct Access to Trading Strategies",
+            "type": 1,
+            "releaseDate": 1748264402556
+          },
+          {
+            "id": 237386,
+            "code": "781eeedce8874772aafdca15a61a366f",
+            "title": "Notice on the Discontinuation of Uzbekistani Som (UZS) Support on Binance P2P",
+            "type": 1,
+            "releaseDate": 1748246410298
+          },
+          {
+            "id": 237311,
+            "code": "b5c64cd30e2740528992fba781c20229",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2025-05-30)",
+            "type": 1,
+            "releaseDate": 1748186521703
+          },
+          {
+            "id": 236952,
+            "code": "7587fdd1d44d4995abf334dcc7661288",
+            "title": "Binance Earn Yield Arena: Enjoy Up to 12.9% APR With This Week’s New Limited-Time Offers!  (2025-05-21)",
+            "type": 1,
+            "releaseDate": 1747810836261
+          },
+          {
+            "id": 236931,
+            "code": "a35b5664611d46679d911f588b84b194",
+            "title": "Binance Adds NXPC as New Loanable Asset on VIP Loan - 2025-05-21",
+            "type": 1,
+            "releaseDate": 1747807226626
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

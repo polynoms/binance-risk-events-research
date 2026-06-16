@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 233780,
+            "code": "c0011fcd7142424f93b729a4f8601308",
+            "title": "Binance Supports New Fiat Channel for DKK, SEK, and CHF Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1744858801988
+          },
+          {
+            "id": 233740,
+            "code": "ff4a3561e08b4871922245210e7eca53",
+            "title": "Updates on Funding Rate Settlement Frequency of USDⓈ-M AERGOUSDT Perpetual Contract (2025-04-16)",
+            "type": 1,
+            "releaseDate": 1744811055014
+          },
+          {
+            "id": 233719,
+            "code": "516228fe026d4029a457d1dcfeeee625",
+            "title": "Funding Rate Settlement Frequency of USDⓈ-M GASUSDT and ORCAUSDT Perpetual Contracts Will Be Resumed (2025-04-16)",
+            "type": 1,
+            "releaseDate": 1744799423212
+          },
+          {
+            "id": 233615,
+            "code": "21eda993aeda41a793330e3765cbec67",
+            "title": "Binance Earn Yield Arena: Enjoy Up to 19.9% APR With This Week’s New Limited-Time Offers! (2025-04-16)",
+            "type": 1,
+            "releaseDate": 1744783203073
+          },
+          {
+            "id": 233592,
+            "code": "d4f44d6fb5fe40f597b5e9bd75a91d06",
+            "title": "Binance Earn: Subscribe to ETH Flexible Products to Enjoy Up to 3.5% APR!",
+            "type": 1,
+            "releaseDate": 1744772401859
+          },
+          {
+            "id": 233564,
+            "code": "cb6f7e88fed2459a8de11d55a69bef58",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2025-04-17)",
+            "type": 1,
+            "releaseDate": 1744768801918
+          },
+          {
+            "id": 233516,
+            "code": "44763df5f7074704a00d7ce9300ac45e",
+            "title": "Binance Futures DEFI Composite Index Will Be Rebalanced (2025-04-16)",
+            "type": 1,
+            "releaseDate": 1744711201385
+          },
+          {
+            "id": 233436,
+            "code": "784230a0f64f46f6bfb0c4897253a748",
+            "title": "Binance Earn: Enjoy 10% Bonus Tiered APR with USDC Simple Earn Products!",
+            "type": 1,
+            "releaseDate": 1744689602094
+          },
+          {
+            "id": 233242,
+            "code": "f3c67a71716844b29df3f5c65c69bd4c",
+            "title": "Price Volatility of MANTRA (OM)",
+            "type": 1,
+            "releaseDate": 1744604262799
+          },
+          {
+            "id": 233153,
+            "code": "4a4bb43f865a4348828de4facfc9eee4",
+            "title": "Binance Futures Will Launch USDⓈ-Margined PUMPUSDT, STOUSDT and FHEUSDT Perpetual Contracts",
+            "type": 1,
+            "releaseDate": 1744462508737
+          },
+          {
+            "id": 233150,
+            "code": "35a37cf889ee40848633c0eb15188b12",
+            "title": "Updates on Funding Rate Settlement Frequency of USDⓈ-M ORCAUSDT Perpetual Contract (2025-04-12)",
+            "type": 1,
+            "releaseDate": 1744436823276
+          },
+          {
+            "id": 233129,
+            "code": "6c1251d647fe483da2ee27fe93374c2d",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin (2025-04-18)",
+            "type": 1,
+            "releaseDate": 1744426865440
+          },
+          {
+            "id": 232656,
+            "code": "35ef8807dc15404699d7ee47849b42df",
+            "title": "Binance Earn Upgrades Dual Investment RFQ",
+            "type": 1,
+            "releaseDate": 1744284618629
+          },
+          {
+            "id": 232870,
+            "code": "b731b3cc752c4c98b38332e772b006f4",
+            "title": "Updates on Funding Rate Settlement Frequency of USDⓈ-M TROYUSDT and GASUSDT Perpetual Contracts (2025-04-10)",
+            "type": 1,
+            "releaseDate": 1744271111674
+          },
+          {
+            "id": 232793,
+            "code": "b5317290025c41ab8e902b9d7798eff5",
+            "title": "Binance Adds RIF on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1744264801578
+          },
+          {
+            "id": 232822,
+            "code": "e9940634c3884379bf37907193305f96",
+            "title": "Notice on Distribution of Binance Earn Babylon BTC Staking Airdrop Rewards",
+            "type": 1,
+            "releaseDate": 1744261207933
+          },
+          {
+            "id": 232692,
+            "code": "562332a340474eda890417685ebbb26b",
+            "title": "Binance Introduces the 2nd Batch of Vote to Delist on 2025-04-10",
+            "type": 1,
+            "releaseDate": 1744255873621
+          },
+          {
+            "id": 232708,
+            "code": "d2ab2ec1e96f4fc281a02932b57a3f83",
+            "title": "Updates on Step Size for Spot Trading Pairs (2025-04-17)",
+            "type": 1,
+            "releaseDate": 1744254034503
+          },
+          {
+            "id": 232695,
+            "code": "79ab34d7b21f47bfa03150dd63aabb62",
+            "title": "Binance P2P Upgrades “P2P Hot Token Converter” Feature",
+            "type": 1,
+            "releaseDate": 1744250403745
+          },
+          {
+            "id": 232237,
+            "code": "536a32d64d8e43d2b148ab2b93b30b67",
+            "title": "Binance Will Launch LDUSDT for Futures Trading with APR Rewards",
+            "type": 1,
+            "releaseDate": 1744200012685
+          },
+          {
+            "id": 232635,
+            "code": "2d258573e6d746cfbcc3deeecc1129b5",
+            "title": "Updates on Funding Rate Settlement Frequency of USDⓈ-M VIDTUSDT Perpetual Contract (2025-04-09)",
+            "type": 1,
+            "releaseDate": 1744187416260
+          },
+          {
+            "id": 232586,
+            "code": "d4a6c1a2cd004f6b8bba78c2df6c276e",
+            "title": "Binance Adds BANANAS31 and MUBARAK as New Loanable Assets on VIP Loan - 2025-04-09",
+            "type": 1,
+            "releaseDate": 1744178405035
+          },
+          {
+            "id": 232544,
+            "code": "8434597f600049d5a142dd22167c1efa",
+            "title": "Binance Earn Yield Arena: Enjoy Up to 19.9% APR With This Week’s New Limited-Time Offers! (2025-04-09)",
+            "type": 1,
+            "releaseDate": 1744171203812
+          },
+          {
+            "id": 232547,
+            "code": "c9bc19558a974e08aaa55ef9e19b795e",
+            "title": "Funding Rate Settlement Frequency of USDⓈ-M FUNUSDT Perpetual Contract Will Be Resumed (2025-04-09)",
+            "type": 1,
+            "releaseDate": 1744169705636
+          },
+          {
+            "id": 232541,
+            "code": "127ae131e44144b0bd6e30605f2310b4",
+            "title": "Binance Kazakhstan Introduces Margin Trading",
+            "type": 1,
+            "releaseDate": 1744167603564
+          },
+          {
+            "id": 232538,
+            "code": "2a6ea493ebff43f6833e739d2e843430",
+            "title": "Binance FZE Will Not Support Certain Assets on the Dubai Local Exchange",
+            "type": 1,
+            "releaseDate": 1744160402454
+          },
+          {
+            "id": 232299,
+            "code": "ca2ff3cd4cf8465b9a546a5f3e9c87c7",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin (2025-04-11)",
+            "type": 1,
+            "releaseDate": 1744077610588
+          },
+          {
+            "id": 232208,
+            "code": "e68ef81d456a4cba8fd63d0267cc2736",
+            "title": "Notice on Binance Spot API Update (2025-04-07)",
+            "type": 1,
+            "releaseDate": 1744002004238
+          },
+          {
+            "id": 232133,
+            "code": "ede58d002a79404eb4d3d1c3bd7174c3",
+            "title": "Binance Will Cease Support for Deposits and Withdrawals of Tokens on Selected Networks - 2025-04-14",
+            "type": 1,
+            "releaseDate": 1743993006439
+          },
+          {
+            "id": 232106,
+            "code": "6e6d1f52906a4bc79467c876e7da9089",
+            "title": "Updates on Funding Rate Settlement Frequency of USDⓈ-M FUNUSDT Perpetual Contract (2025-04-05)",
+            "type": 1,
+            "releaseDate": 1743869600021
+          },
+          {
+            "id": 231996,
+            "code": "c2d0472431ee466c9b6310a272e79615",
+            "title": "Binance Introduces Revamped Launchpool and BNB Pages for Easier Airdrop Tracking",
+            "type": 1,
+            "releaseDate": 1743764406124
+          },
+          {
+            "id": 231948,
+            "code": "5efec0c8ac784f74beb742b88fba8f02",
+            "title": "Binance Will Extend the Monitoring Tag to Include ARDR, BSW, FLM, LTO, NKN, PDA, PERP, VIB, VOXEL & WING, and Remove the Seed Tag for JUP, STRK & TON on 2025-04-03",
+            "type": 1,
+            "releaseDate": 1743663636245
+          },
+          {
+            "id": 231915,
+            "code": "a43abc2076b14f768669703ee5f93574",
+            "title": "FDUSD Attestation Report Confirms Full 1:1 Reserve Backing (2025-04-02)",
+            "type": 1,
+            "releaseDate": 1743631045674
+          },
+          {
+            "id": 231740,
+            "code": "f71167b214754af49fbd642c82998931",
+            "title": "Binance Adds BMT, PARTI and SOLV as New Loanable Assets on VIP Loan - 2025-04-02",
+            "type": 1,
+            "releaseDate": 1743573607527
+          },
+          {
+            "id": 231737,
+            "code": "d14b515fc3b04527b30f64302285a046",
+            "title": "Binance Earn Yield Arena: Enjoy Up to 19.9% APR With This Week’s New Limited-Time Offers! (2025-04-02)",
+            "type": 1,
+            "releaseDate": 1743570055697
+          },
+          {
+            "id": 231674,
+            "code": "af6e55cae01d46f98a6520dfd9cd2252",
+            "title": "Binance Convert Recurring Gets Smarter: Auto-Invest Integration for Effortless Investing",
+            "type": 1,
+            "releaseDate": 1743559211379
+          },
+          {
+            "id": 231639,
+            "code": "77d0e3b33ed2460e87abd2e98466f40d",
+            "title": "Preliminary Investigation into Price Volatility of Low Market Cap Tokens",
+            "type": 1,
+            "releaseDate": 1743526723945
+          },
+          {
+            "id": 231633,
+            "code": "292160b7ceb34b87b965bc4580506671",
+            "title": "Binance Launches Spot Block Matching",
+            "type": 1,
+            "releaseDate": 1743516001256
+          },
+          {
+            "id": 231559,
+            "code": "7bc0d0e0625a46e2995181ef8408d765",
+            "title": "Updates on Order Price Cap/Floor Ratio for Multiple USDⓈ-M Perpetual Futures Contracts (2025-04-02)",
+            "type": 1,
+            "releaseDate": 1743496201920
+          },
+          {
+            "id": 231536,
+            "code": "4d5f22d4048345d4b7cbb7920d2af2ee",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2025-04-01)",
+            "type": 1,
+            "releaseDate": 1743492722493
+          },
+          {
+            "id": 231506,
+            "code": "b2cecfd1006947e18bf029c11d19c351",
+            "title": "Binance Futures Will Postpone the Minimum Trade Amount Adjustment of USDⓈ-M SOLUSDT Perpetual Contract",
+            "type": 1,
+            "releaseDate": 1743478234305
+          },
+          {
+            "id": 231385,
+            "code": "58eeefd68e444555a368118760f93d30",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2025-03-31)",
+            "type": 1,
+            "releaseDate": 1743402629405
+          },
+          {
+            "id": 231338,
+            "code": "139e45df5d844004832b4c04dee8e70c",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin (2025-04-04)",
+            "type": 1,
+            "releaseDate": 1743393601359
+          },
+          {
+            "id": 231305,
+            "code": "f674f45138cb461fa419082112e27c8a",
+            "title": "Binance Futures Extends the BFUSD Zero Purchase Fee Promotion (2025-03-31)",
+            "type": 1,
+            "releaseDate": 1743379200000
+          },
+          {
+            "id": 231278,
+            "code": "62e7f20e3f2d4313ab7b2147f51065c6",
+            "title": "Updates on Minimum Trade Amount for USDⓈ-M SOLUSDT Perpetual Futures Contract (2025-04-02)",
+            "type": 1,
+            "releaseDate": 1743176936922
+          },
+          {
+            "id": 231198,
+            "code": "70c0260ac77048e2895689425b1fac00",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2025-03-28)",
+            "type": 1,
+            "releaseDate": 1743139873233
+          },
+          {
+            "id": 231147,
+            "code": "a5e0bb4252df4efc9fa020f570edf3ec",
+            "title": "Binance Adds STRK on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1743130804377
+          },
+          {
+            "id": 231060,
+            "code": "e57a587ade3742128d7aa44985e9365f",
+            "title": "Updates on Minimum Trade Amount for USDⓈ-M NEOUSDC Perpetual Futures Contract (2025-03-28)",
+            "type": 1,
+            "releaseDate": 1743085745378
+          },
+          {
+            "id": 230981,
+            "code": "4888a22a383e44ac9a78f17a13461238",
+            "title": "Binance Adds Apple Pay and Google Pay Options to Deposit EUR",
+            "type": 1,
+            "releaseDate": 1743062403072
+          },
+          {
+            "id": 230972,
+            "code": "2431be3394b348dfa90d4e3658335ac5",
+            "title": "Binance Futures Copy Trading Upgrades the Lead Trader Growth Plan",
+            "type": 1,
+            "releaseDate": 1743048002216
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 191417,
+            "code": "cb4c99c678d040bd9cfd0736744a755e",
+            "title": "New Dual Investment Products Launched (2024-02-13)",
+            "type": 1,
+            "releaseDate": 1707793845457
+          },
+          {
+            "id": 191344,
+            "code": "307d5083581547d49ca2bbe8997d0f7a",
+            "title": "Binance Adds 15-Day BNB Locked Products on Simple Earn",
+            "type": 1,
+            "releaseDate": 1707447906242
+          },
+          {
+            "id": 191190,
+            "code": "1f202d1187a545809e2299ffc2039ad7",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-02-07)",
+            "type": 1,
+            "releaseDate": 1707289510087
+          },
+          {
+            "id": 191159,
+            "code": "c04fd3d2e8604a65837951aaa361e3ff",
+            "title": "Binance P2P Adds Support for USDC",
+            "type": 1,
+            "releaseDate": 1707278724224
+          },
+          {
+            "id": 191113,
+            "code": "0c32b7adae5944088480dad33203a425",
+            "title": "Binance Adds Dymension (DYM) on Earn & Convert",
+            "type": 1,
+            "releaseDate": 1707273013910
+          },
+          {
+            "id": 191086,
+            "code": "0f1f401b6aef4fb68c2f9cd4dbb4832e",
+            "title": "Dymension (DYM) Listing Will Be Postponed",
+            "type": 1,
+            "releaseDate": 1707230848902
+          },
+          {
+            "id": 191061,
+            "code": "c51d8d9045774360ae35669ad62fb761",
+            "title": "WBETH Flexible Products: Subscribe to WBETH Flexible Products & Enjoy Multiple Rewards!",
+            "type": 1,
+            "releaseDate": 1707215703313
+          },
+          {
+            "id": 190974,
+            "code": "99aa790266b74ffa97ea85e1cec43c39",
+            "title": "Updates on Binance Futures Multi-Assets Mode (2024-02-09)",
+            "type": 1,
+            "releaseDate": 1707206415658
+          },
+          {
+            "id": 190859,
+            "code": "65ee882756e040bda528d59260385e31",
+            "title": "New Dual Investment Products Launched (2024-02-06)",
+            "type": 1,
+            "releaseDate": 1707188407911
+          },
+          {
+            "id": 190742,
+            "code": "2b83c106f9f0430793eb558a0da7a2ad",
+            "title": "Binance Completes Integration of AVA (AVA) on BNB Smart Chain (BEP20), Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1707103210050
+          },
+          {
+            "id": 190442,
+            "code": "b33ede5dcb5d42e5b6fd83cb10822864",
+            "title": "Binance OTC Launches Options RFQ",
+            "type": 1,
+            "releaseDate": 1706781901984
+          },
+          {
+            "id": 190239,
+            "code": "2e95b31769104b6da4722ff305054e27",
+            "title": "Binance Launches Inscriptions Marketplace",
+            "type": 1,
+            "releaseDate": 1706778009123
+          },
+          {
+            "id": 190389,
+            "code": "a928a8403de940fdbe81c0dd3e25e7eb",
+            "title": "Binance Will Support XIRTAM Refund Claims From Secondary Market Participants and End Refund Claims for Primary Market Participants",
+            "type": 1,
+            "releaseDate": 1706760603489
+          },
+          {
+            "id": 190364,
+            "code": "3f0e747c9220432597fa69f710537386",
+            "title": "Binance Completes Integration of USD Coin (USDC) on Polkadot Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1706757322311
+          },
+          {
+            "id": 190289,
+            "code": "45be0f381ae3476e85908dbea8586564",
+            "title": "Jupiter (JUP) Listing Will Be Postponed",
+            "type": 1,
+            "releaseDate": 1706714606666
+          },
+          {
+            "id": 190132,
+            "code": "b416ec14f83142c3b1da045f1734006f",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-01-31)",
+            "type": 1,
+            "releaseDate": 1706675149079
+          },
+          {
+            "id": 190055,
+            "code": "8d1fe8552fa24726b27caf640cbcefbb",
+            "title": "Updates on the Candlestick Charts of LUNA Spot Trading Pairs",
+            "type": 1,
+            "releaseDate": 1706622621049
+          },
+          {
+            "id": 189993,
+            "code": "3b7bb039b77545278d0d697842871097",
+            "title": "Binance Copy Trading Increases Maximum Copy Amount per Portfolio",
+            "type": 1,
+            "releaseDate": 1706599810569
+          },
+          {
+            "id": 189976,
+            "code": "19ce720dc8884c4e88e114d9a73df8ea",
+            "title": "New Dual Investment Products Launched (2024-01-30)",
+            "type": 1,
+            "releaseDate": 1706595914649
+          },
+          {
+            "id": 189953,
+            "code": "3f0bdebacaec405db483e1564e80660e",
+            "title": "Binance Adds ALT on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1706589304040
+          },
+          {
+            "id": 189910,
+            "code": "cb9bf7716ffb4bbb944b2d858af5a639",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2024-02-05)",
+            "type": 1,
+            "releaseDate": 1706502316391
+          },
+          {
+            "id": 189807,
+            "code": "9f386d8254534fc297eca5a923017af1",
+            "title": "Binance Completes Xai (XAI) Mainnet Integration, Opens Deposits",
+            "type": 1,
+            "releaseDate": 1706239552435
+          },
+          {
+            "id": 189660,
+            "code": "4411f45c7fd4484584153c506469cc61",
+            "title": "Binance Encourages Users to Convert RUB to Other Currencies Before January 31, 2024",
+            "type": 1,
+            "releaseDate": 1706104803486
+          },
+          {
+            "id": 189594,
+            "code": "7f10063d1b8b484dbeb4e0aa4d4ee31b",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-01-24)",
+            "type": 1,
+            "releaseDate": 1706076003743
+          },
+          {
+            "id": 189506,
+            "code": "2202da2af48c44eb8c8e30d43052b338",
+            "title": "New Dual Investment Products Launched (2024-01-23)",
+            "type": 1,
+            "releaseDate": 1705984824451
+          },
+          {
+            "id": 189483,
+            "code": "70a1ca440a674421a9c2bf00f2fad587",
+            "title": "Binance Adds MANTA on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1705980604926
+          },
+          {
+            "id": 189431,
+            "code": "6664b2299fea4f41a067cd99bed27b44",
+            "title": "Updates on Maximum Open Order Limits for USDⓈ-M and COIN-M Futures Contracts (2024-02-20)",
+            "type": 1,
+            "releaseDate": 1705892404987
+          },
+          {
+            "id": 189370,
+            "code": "dfd2cd4d92034086afa82dd504ea3dfe",
+            "title": "Updates on the Funding Rate Settlement Frequency of USDⓈ-M UMAUSDT Perpetual Contract (2024-01-19)",
+            "type": 1,
+            "releaseDate": 1705689671245
+          },
+          {
+            "id": 189309,
+            "code": "d5d98abf23d34a9581d6c5cde93393ed",
+            "title": "Binance Futures Updates Taker Program (2024-01-30)",
+            "type": 1,
+            "releaseDate": 1705582804970
+          },
+          {
+            "id": 189136,
+            "code": "5610afe2deaa48429372a8c26047febe",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-01-17)",
+            "type": 1,
+            "releaseDate": 1705467023656
+          },
+          {
+            "id": 188902,
+            "code": "7a5fbd3a003b464d9251712b9bd03613",
+            "title": "New Dual Investment Products Launched (2024-01-16)",
+            "type": 1,
+            "releaseDate": 1705378205998
+          },
+          {
+            "id": 188688,
+            "code": "05734e52735e488a9c5f229c3824bd08",
+            "title": "Updates on Binance Liquid Swap Services (2024-01-19)",
+            "type": 1,
+            "releaseDate": 1705066837827
+          },
+          {
+            "id": 188667,
+            "code": "742231cdd9f24e1b80a277da6ff2eb07",
+            "title": "Binance Web3 Wallet “Swap to Win” Activity Has Now Concluded",
+            "type": 1,
+            "releaseDate": 1705044907369
+          },
+          {
+            "id": 188619,
+            "code": "56ab05eb7c334cdda7b7401c6e17e0f0",
+            "title": "Updates on Tick Size for Spot Trading Pairs (2024-01-19)",
+            "type": 1,
+            "releaseDate": 1705035629342
+          },
+          {
+            "id": 188595,
+            "code": "8ddd4395d16149d1b2c713e6bd24d8cf",
+            "title": "Binance Adds CVX and XVS on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1705032311777
+          },
+          {
+            "id": 188444,
+            "code": "538343a202bb47cf97483b5e3104f3b5",
+            "title": "Binance Completes Integration of Tranchess (CHESS) on Ethereum Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1704939304970
+          },
+          {
+            "id": 188378,
+            "code": "f0b138052ab3462ba7d96010867b2907",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-01-10)",
+            "type": 1,
+            "releaseDate": 1704868506914
+          },
+          {
+            "id": 188230,
+            "code": "78ee4b4400504d05b157a48e07da50dd",
+            "title": "Binance Adds POND on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1704774629811
+          },
+          {
+            "id": 188192,
+            "code": "7dc44356bc304a5a9664227cd8b75558",
+            "title": "New Dual Investment Products Launched (2024-01-09)",
+            "type": 1,
+            "releaseDate": 1704767416138
+          },
+          {
+            "id": 187979,
+            "code": "b7d1cd119211458eb676a9a324edf314",
+            "title": "Binance Completes the Conversion of BUSD Token Balances to FDUSD",
+            "type": 1,
+            "releaseDate": 1704448805169
+          },
+          {
+            "id": 187955,
+            "code": "322fbdd2c3c74fe4bd65514b7c4e701f",
+            "title": "SOL Locked Products: Enjoy Up to 9.9% APR in Rewards!",
+            "type": 1,
+            "releaseDate": 1704439270122
+          },
+          {
+            "id": 187929,
+            "code": "237225dded5940b6b2c0d1c0a74238fd",
+            "title": "Binance Will Support the Kava (KAVA) EVM Integration",
+            "type": 1,
+            "releaseDate": 1704434412834
+          },
+          {
+            "id": 187865,
+            "code": "eae83b8885bc4a45bbeca95ea54af151",
+            "title": "Binance Adds Sleepless AI (AI) on Earn & Convert",
+            "type": 1,
+            "releaseDate": 1704370207849
+          },
+          {
+            "id": 187808,
+            "code": "fd710b5e647c480ab9fe2d87e3cd4b39",
+            "title": "Binance Will Extend the Monitoring Tag to Include ANT, FIRO, KP3R, MDX, MOB, REEF, VAI, XMR, ZEC & ZEN, and Remove the Seed Tag for GMX & SUSHI on 2024-01-04",
+            "type": 1,
+            "releaseDate": 1704351609013
+          },
+          {
+            "id": 187784,
+            "code": "ab504ce1b97543978f0a492219c04275",
+            "title": "Binance Adds RAY on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1704337826505
+          },
+          {
+            "id": 187765,
+            "code": "f886c72b93804e26b9b65165d9c5053f",
+            "title": "Binance Futures Will Postpone the Launch of USDC-Margined BTC, ETH, BNB, SOL and XRP Perpetual Contracts",
+            "type": 1,
+            "releaseDate": 1704287290494
+          },
+          {
+            "id": 187682,
+            "code": "35c134c7d2e24a23a88ed55aa201d476",
+            "title": "Binance Updates Coin-Margined Futures Liquidity Provider Program (2024-01-22)",
+            "type": 1,
+            "releaseDate": 1704263404767
+          },
+          {
+            "id": 187618,
+            "code": "77773a1fdcf74827b2d0097aac8a1bd1",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-01-03)",
+            "type": 1,
+            "releaseDate": 1704252303991
+          },
+          {
+            "id": 187592,
+            "code": "d75c5ca94f704e96a6a4e55ffddfd65d",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M and COIN-M Perpetual Contracts (2024-01-02)",
+            "type": 1,
+            "releaseDate": 1704203406255
+          },
+          {
+            "id": 187569,
+            "code": "1ae1fb94ae2042d089e7cc6e6b7fc3cb",
+            "title": "New Dual Investment Products Launched (2024-01-02)",
+            "type": 1,
+            "releaseDate": 1704174320215
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

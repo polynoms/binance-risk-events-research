@@ -1,0 +1,2 @@
+token_entity_id,token_symbol,anchor_event_id,anchor_event_type,drawdown_before_rebound,days_from_event_to_bottom,max_rebound_after_bottom,days_from_bottom_to_rebound,volume_zscore_on_rebound,rebound_sustained,post_rebound_drawdown,fallback_used,suspicious_spike_flag,low_liquidity_flag,epic_similarity_score,manual_review_required,notes
+STPT,STPT,34739c73dc72f1d0,MONITORING_TAG_ADDED,-0.723840105122295,33.91571759259259,1.8769946808510642,31.75,4.544410458223155,yes,-0.24797781372775596,no,no,no,1.0,no,

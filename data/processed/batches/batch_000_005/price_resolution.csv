@@ -1,0 +1,6 @@
+token_symbol,final_outcome,spot_pair,spot_missing,futures_pair,futures_missing,exact_futures_contract,futures_class,fallback_required,fallback_provider,fallback_market
+0G,spot_pair_removed_only,0GUSDT,no,0GUSDT,no,,,no,,
+1000CAT,spot_pair_removed_only,1000CATUSDT,no,1000CATUSDT,no,,,no,,
+1000CHEEMS,seed_tag_only,1000CHEEMSUSDT,no,1000CHEEMSUSDT,no,,,no,,
+1000SATS,seed_tag_only,1000SATSUSDT,no,1000SATSUSDT,no,,,no,,
+1000WHY,futures_only_delisting,,yes,1000WHYUSDT,no,,,no,,

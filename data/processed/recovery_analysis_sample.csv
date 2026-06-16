@@ -1,0 +1,11 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+CVX,f516a957212c330b,MONITORING_TAG_ADDED,3.1484748902936786,yes,yes,yes,no,no,no,no
+ZEC,0530e835539c12c2,MONITORING_TAG_ADDED,26.89902175179847,yes,yes,yes,yes,no,no,no
+AERGO,abca945eb2bee96c,MONITORING_TAG_ADDED,0.0799861641753571,yes,yes,yes,yes,no,no,yes
+BADGER,05efae81cc940ff4,MONITORING_TAG_ADDED,3.322001364528214,yes,no,yes,no,no,no,yes
+A2Z,1fc6e5215a5c6f00,MONITORING_TAG_ADDED,0.0008590887477007239,yes,yes,yes,no,no,no,yes
+AKRO,2ebc47e2d093dcb6,SPOT_TOKEN_DELISTING_ANNOUNCED,0.0033033665305105195,no,no,no,no,yes,no,no
+BTS,ca8ce65249fba04c,SPOT_TOKEN_DELISTING_ANNOUNCED,0.00642347766938799,yes,yes,yes,yes,no,no,yes
+ALCX,4a1694681090a940,MONITORING_TAG_ADDED,4.582802978142288,yes,no,yes,no,no,no,no
+1000CHEEMS,9b7bd3558b791b76,SEED_TAG_ADDED,0.0007440000000000001,yes,yes,yes,yes,no,no,no
+APT,85a23d2b7c759ced,FUTURES_CONTRACT_DELISTING_ANNOUNCED,7.250748447991432,yes,no,yes,no,no,no,no

@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 258398,
+            "code": "770fdd43282e4d14a8a38eb7619bf2b4",
+            "title": "Live in Crypto: Pay With Pix in Brazil Through Binance Pay",
+            "type": 1,
+            "releaseDate": 1764637207787
+          },
+          {
+            "id": 258315,
+            "code": "62d691d7fee34e018658212d7c9acfb8",
+            "title": "Binance Wallet Now Supports Creation of Multiple Keyless Wallets",
+            "type": 1,
+            "releaseDate": 1764583202680
+          },
+          {
+            "id": 258239,
+            "code": "aec9353b427f4b1ab42415e770e2eb5a",
+            "title": "Binance Will Extend the Monitoring Tag to Include CHESS, DENT, DF, GHST & SXP on 2025-12-01",
+            "type": 1,
+            "releaseDate": 1764563424832
+          },
+          {
+            "id": 258135,
+            "code": "0f4f3266af8947e38ec65f33e29ce143",
+            "title": "Binance Futures Will Apply New ROI Method to Smart Money",
+            "type": 1,
+            "releaseDate": 1764324005301
+          },
+          {
+            "id": 258085,
+            "code": "86a6ac064f6045169c79dca6bac2616d",
+            "title": "Binance Updates Fiat Liquidity Provider Program (2025-11-28)",
+            "type": 1,
+            "releaseDate": 1764316802764
+          },
+          {
+            "id": 258056,
+            "code": "d446279c652b463c8cd8bae361ac43b9",
+            "title": "Binance Enhances WBETH & BNSOL Offerings with Higher APR and Recent Collateral Updates Reminder (2025-11-28)",
+            "type": 1,
+            "releaseDate": 1764309601431
+          },
+          {
+            "id": 257859,
+            "code": "30a250d7bef548958eaabfe004121445",
+            "title": "Binance Launches Prestige: Bespoke Service for Institutional and Affluent Clients",
+            "type": 1,
+            "releaseDate": 1764162900870
+          },
+          {
+            "id": 255037,
+            "code": "f45e7189c2d5445291405a4a762dc229",
+            "title": "Binance Wallet Earn Launches BNB DeFi Festival: Enjoy Up To $1M Rewards With Limited-Time Offers!",
+            "type": 1,
+            "releaseDate": 1764154812725
+          },
+          {
+            "id": 257809,
+            "code": "2fef341b0e884341aeaa9d22a9ad70a6",
+            "title": "Boost APR Adjustment on BFUSD in Binance Futures and Portfolio Margin",
+            "type": 1,
+            "releaseDate": 1764145817393
+          },
+          {
+            "id": 257806,
+            "code": "7109effe6ac645fdb159288de6958007",
+            "title": "Binance Earn Yield Arena: Earn Up to 29% APR With This Week’s New Limited-Time Offers! (2025-11-26)",
+            "type": 1,
+            "releaseDate": 1764144007284
+          },
+          {
+            "id": 257686,
+            "code": "304bf060ead8405594324436017d9ec5",
+            "title": "Binance Convert Integrates Simple Earn to Allow Users to Earn Rewards on Limit Orders",
+            "type": 1,
+            "releaseDate": 1764072002046
+          },
+          {
+            "id": 257667,
+            "code": "aa023c2359ff49729690dd6b0fd14f79",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2025-11-27)",
+            "type": 1,
+            "releaseDate": 1764043204233
+          },
+          {
+            "id": 257626,
+            "code": "e71da970ed29453c96018af9bf107311",
+            "title": "Updates on the Leverage & Margin Tiers of USDⓈ-M Perpetual Contract (2025-11-28)",
+            "type": 1,
+            "releaseDate": 1764036061260
+          },
+          {
+            "id": 257585,
+            "code": "2ec57d91162e464b94461e5fa7a04bc0",
+            "title": "Binance Banking Triparty Update: Adds BTC as Collateral and Extends 0% Fee Promotion",
+            "type": 1,
+            "releaseDate": 1763971201168
+          },
+          {
+            "id": 257360,
+            "code": "fc28a90a1526430887c9887505861316",
+            "title": "Binance Futures Will Postpone the Launch of GAIBUSDT Perpetual Contract",
+            "type": 1,
+            "releaseDate": 1763627402981
+          },
+          {
+            "id": 257242,
+            "code": "72d8fc5f5f0e4665b6837f7ada2c34c2",
+            "title": "Binance Earn Yield Arena: Earn Up to 29% APR With This Week’s New Limited-Time Offers! (2025-11-19)",
+            "type": 1,
+            "releaseDate": 1763539201462
+          },
+          {
+            "id": 257195,
+            "code": "b879567556f24f7da26135531ec49879",
+            "title": "Binance Soft Staking Now Supports 5 New Tokens: TRX, APT, IOTA, APE and EGLD",
+            "type": 1,
+            "releaseDate": 1763532009236
+          },
+          {
+            "id": 257160,
+            "code": "7c0a5ccac7ce4b7994c5905a594b88cc",
+            "title": "Binance VIP Loan Will Update the Collateral Ratio of Multiple Collateral Assets - 2025-11-19",
+            "type": 1,
+            "releaseDate": 1763524800953
+          },
+          {
+            "id": 257109,
+            "code": "74d5eb68d5a4459abfe574c309c641f1",
+            "title": "Binance Wallet to Discontinue Support for ARC-20",
+            "type": 1,
+            "releaseDate": 1763463603771
+          },
+          {
+            "id": 257104,
+            "code": "d0ed1c8add7848c8b3e5a87bbabf6300",
+            "title": "Binance Futures Launches Retail Price Improvement (RPI) Orders",
+            "type": 1,
+            "releaseDate": 1763456401538
+          },
+          {
+            "id": 256991,
+            "code": "6ca4596f6725408d8403da3793caeeeb",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2025-11-20)",
+            "type": 1,
+            "releaseDate": 1763442001824
+          },
+          {
+            "id": 256663,
+            "code": "cf86a08282344844a05d15b4a8a78d0c",
+            "title": "Binance Integrates BlackRock’s BUIDL as Off-Exchange Collateral",
+            "type": 1,
+            "releaseDate": 1763128807190
+          },
+          {
+            "id": 256605,
+            "code": "99148130ade64cf18b56295f351e62d1",
+            "title": "Binance Futures Will Postpone the Launch of PLANCKUSDT Perpetual Contract",
+            "type": 1,
+            "releaseDate": 1763101850909
+          },
+          {
+            "id": 256253,
+            "code": "149c515ebc2f4b679ca7c2aa85d48591",
+            "title": "Introducing BLIK One-Click Buy Crypto on Binance!",
+            "type": 1,
+            "releaseDate": 1762939800837
+          },
+          {
+            "id": 256233,
+            "code": "3f3a3843cee34269b4e53b13264700ef",
+            "title": "Binance Earn Yield Arena: Earn Up to 25% APR With This Week’s New Limited-Time Offers! (2025-11-12)",
+            "type": 1,
+            "releaseDate": 1762936212981
+          },
+          {
+            "id": 256213,
+            "code": "dfbc1ca68e58419bb5f47503d156d50b",
+            "title": "Binance Upgrades USDⓈ-M Futures Liquidity Provider Program (2025-11-12)",
+            "type": 1,
+            "releaseDate": 1762923612528
+          },
+          {
+            "id": 256182,
+            "code": "404f38f0026541d5b4c82889b62b34ae",
+            "title": "Binance Adds BFUSD as New Collateral Asset on Binance VIP Loan and Updates on New Loanable Token - 2025-11-12",
+            "type": 1,
+            "releaseDate": 1762916401280
+          },
+          {
+            "id": 256172,
+            "code": "b8c4dce5da4342ee80cb5c02e57268ed",
+            "title": "Important Update on Binance Live Service",
+            "type": 1,
+            "releaseDate": 1762912801384
+          },
+          {
+            "id": 256089,
+            "code": "775fc10e66e7451cbf48b3872f41c070",
+            "title": "Allora (ALLO) Listing Will Be Postponed",
+            "type": 1,
+            "releaseDate": 1762865226595
+          },
+          {
+            "id": 256059,
+            "code": "f0800e1b313a49a6b313cf0497e94bea",
+            "title": "BFUSD Now Distributed as Daily Rewards",
+            "type": 1,
+            "releaseDate": 1762862403133
+          },
+          {
+            "id": 255910,
+            "code": "176c768a6dd94e8aad95fbb3a021bf95",
+            "title": "RWUSD Updates: Now Supported as a Margin Asset on Binance Futures",
+            "type": 1,
+            "releaseDate": 1762830006893
+          },
+          {
+            "id": 255686,
+            "code": "ccde659ff26040a59e23f6da10a1250f",
+            "title": "Binance Futures Will Apply New ROI Method to Copy Trading and Update ROI for All Lead Portfolios",
+            "type": 1,
+            "releaseDate": 1762506023584
+          },
+          {
+            "id": 255572,
+            "code": "73b72d71e37e4b03988c082aadfb591f",
+            "title": "Binance Futures Launches the Futures DCA Bot",
+            "type": 1,
+            "releaseDate": 1762430401364
+          },
+          {
+            "id": 255327,
+            "code": "21a1b8c2e3404cbcb6c89b6a78d5aa0f",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2025-11-07)",
+            "type": 1,
+            "releaseDate": 1762313401908
+          },
+          {
+            "id": 255056,
+            "code": "7133ac413ebc429986a3cf8a988a7846",
+            "title": "Notice on Binance Margin SAPI Update (2025-11-04)",
+            "type": 1,
+            "releaseDate": 1762243201198
+          },
+          {
+            "id": 255014,
+            "code": "3525bbe35fe3459aa7947213184bc439",
+            "title": "Binance Affiliate Program Updates and Enhancements",
+            "type": 1,
+            "releaseDate": 1762228801297
+          },
+          {
+            "id": 254905,
+            "code": "f5341a7e68bc4805a3eaa51ebcf91fc5",
+            "title": "Binance Will Support Transaction Fee Donation for the Giggle Fund (GIGGLE)",
+            "type": 1,
+            "releaseDate": 1762160803735
+          },
+          {
+            "id": 254779,
+            "code": "957bbd4c3a474ef081e074c91c9f6e87",
+            "title": "Introducing Live Futures on Binance Square: Share Trades, Build Trust, and Earn",
+            "type": 1,
+            "releaseDate": 1762142403456
+          },
+          {
+            "id": 254704,
+            "code": "42b71c4476ff4dc5b5450516da37fb18",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts",
+            "type": 1,
+            "releaseDate": 1762063599059
+          },
+          {
+            "id": 254594,
+            "code": "36ee22f32f0b41a99a29a396d010b09e",
+            "title": "Binance Margin Will Update the Collateral Ratio of Multiple Cross Margin Assets (2025-10-31)",
+            "type": 1,
+            "releaseDate": 1761886801465
+          },
+          {
+            "id": 254562,
+            "code": "be9d200fc5cf4eccacfbb4943460e088",
+            "title": "Important Update Regarding Spot TRY Trading Pairs",
+            "type": 1,
+            "releaseDate": 1761833355718
+          },
+          {
+            "id": 254492,
+            "code": "cde392fe431a4045a951d40d7498abbc",
+            "title": "Binance Upgrades USDⓈ-M Futures Liquidity Provider Program (2025-11-03)",
+            "type": 1,
+            "releaseDate": 1761800402702
+          },
+          {
+            "id": 254312,
+            "code": "dcfebf9ef8e84ac1a1e65147fe0d6e53",
+            "title": "Binance VIP Launches BNB Boost: Borrow BNB for VIP Tiering at 2.5% Interest",
+            "type": 1,
+            "releaseDate": 1761739206408
+          },
+          {
+            "id": 254313,
+            "code": "701964bb795e4c2085422d42b0c80fd7",
+            "title": "Binance Earn Yield Arena: Earn Up to $5,888 Rewards With This Week’s New Limited-Time Offers! (2025-10-29)",
+            "type": 1,
+            "releaseDate": 1761721207584
+          },
+          {
+            "id": 254284,
+            "code": "47ee5d503df340d1b077023862d33ae8",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2025-10-31)",
+            "type": 1,
+            "releaseDate": 1761710410668
+          },
+          {
+            "id": 254273,
+            "code": "c17e74d0e4494987b6f6918c66db54e7",
+            "title": "Binance P2P Introduces Premier Merchant Program & Rewards",
+            "type": 1,
+            "releaseDate": 1761703219003
+          },
+          {
+            "id": 254178,
+            "code": "ff11ba9c33e94986b890c6a47ee3dd1b",
+            "title": "Binance VIP Loan Will Update the Collateral Ratio of Multiple Collateral Assets - 2025-10-28",
+            "type": 1,
+            "releaseDate": 1761631200000
+          },
+          {
+            "id": 254137,
+            "code": "d276d8b2b63248178025bc10ba8dbed6",
+            "title": "Binance Spot Rebalancing Bot Now Supports USDC",
+            "type": 1,
+            "releaseDate": 1761552002632
+          },
+          {
+            "id": 253934,
+            "code": "f0252333194440e7a499a03cf9dab603",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts",
+            "type": 1,
+            "releaseDate": 1761374724277
+          },
+          {
+            "id": 253850,
+            "code": "f9dd6ab751f3499cb88f236549c8ef23",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2025-10-27)",
+            "type": 1,
+            "releaseDate": 1761275240965
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

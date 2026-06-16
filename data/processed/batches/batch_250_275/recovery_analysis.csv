@@ -1,0 +1,10 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+KMD,2a7c0c057f11d40d,MONITORING_TAG_ADDED,0.10058808001343134,yes,yes,yes,no,no,no,no
+KMNO,9906d91d4c830c11,SEED_TAG_ADDED,0.08137,yes,yes,yes,no,no,no,no
+KP3R,6349e349f6963185,MONITORING_TAG_ADDED,103.3426428231661,yes,yes,yes,no,no,no,no
+LEVER,3f5bbe904576db02,MONITORING_TAG_ADDED,0.0005932827076335483,yes,yes,yes,yes,no,no,no
+LINA,028ddc85ac40eb5b,SPOT_TOKEN_DELISTING_ANNOUNCED,0.0013338044070297,no,no,no,no,yes,no,no
+LOOM,bcffb8b6dc13c97c,SPOT_TOKEN_DELISTING_ANNOUNCED,0.049254793205266455,yes,yes,yes,no,no,no,no
+LRC,5ee0d43cf83437cb,MONITORING_TAG_ADDED,0.03174800700770574,yes,yes,yes,no,no,no,yes
+LTC,0631e6fcafde1f7a,FUTURES_CONTRACT_DELISTING_ANNOUNCED,74.67738367481559,yes,no,no,no,no,no,no
+LTO,df810f78fc4e4193,MONITORING_TAG_ADDED,0.039035942694038095,yes,yes,yes,yes,no,no,no

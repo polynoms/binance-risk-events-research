@@ -1,0 +1,10 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+IDEX,63e9d71a835421ba,MONITORING_TAG_ADDED,0.017175066028608126,yes,yes,yes,yes,no,no,yes
+IDRT,3c7fc4d113e04b96,SPOT_TOKEN_DELISTING_ANNOUNCED,nan,unknown,unknown,unknown,unknown,unknown,yes,no
+IR,34670afd6085b657,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.04948920958164535,yes,yes,no,no,no,no,no
+IRIS,92f6841824deef01,MONITORING_TAG_ADDED,0.018976710583793816,yes,yes,yes,no,no,no,yes
+JTO,39f6e86d4b3ad84a,SEED_TAG_ADDED,2.3936,yes,yes,yes,yes,no,no,no
+JUP,05c2236aa6c9e97e,SEED_TAG_ADDED,0.6617,yes,yes,yes,yes,no,no,no
+KAT,69d2030533afafdf,,,,,,,unknown,yes,
+KDA,28b99dfcb851026e,SPOT_TOKEN_DELISTING_ANNOUNCED,0.056786461317967656,yes,yes,no,no,no,no,yes
+KEY,0af050f2f61a9816,MONITORING_TAG_ADDED,0.004328209389704149,yes,yes,yes,no,no,no,no

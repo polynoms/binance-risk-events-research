@@ -1,0 +1,2 @@
+token_entity_id,token_symbol,primary_bottom_rebound_scenario,secondary_flags,anchor_event_id,anchor_event_type,baseline_price,max_drawdown_after_event,days_to_bottom,max_rebound_after_bottom,rebound_sustained,pump_and_dump_after_bottom,low_liquidity_wick_flag,tradable_signal_found,best_signal_type,best_signal_risk_reward,scenario_confidence_score,manual_review_required,notes
+FORTH,FORTH,DELISTING_DEATH_SPIRAL,,9499c53655bc3991,MONITORING_TAG_ADDED,0.9299249560865422,-0.7623464145644103,25.72921296296296,nan,no,no,no,no,,,0.8,no,

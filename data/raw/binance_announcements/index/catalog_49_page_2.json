@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 270966,
+            "code": "6f3faf9fe20a458ea98d1d89fdec095a",
+            "title": "Binance VIP Loan Integrates Fixed Loan Market - 2026-04-09",
+            "type": 1,
+            "releaseDate": 1775730605340
+          },
+          {
+            "id": 270964,
+            "code": "4989a793bf58434980967848a0f16d77",
+            "title": "Introducing Prediction Markets, Expanding Access to On-Chain Probability Trading - a Binance Wallet integration",
+            "type": 1,
+            "releaseDate": 1775728804500
+          },
+          {
+            "id": 270791,
+            "code": "84ab4c7f1c2b4cfd894f1985bd060da2",
+            "title": "Binance Trading Bot Will Support New Contracts For Position Snowball (2026-04-09)",
+            "type": 1,
+            "releaseDate": 1775718002856
+          },
+          {
+            "id": 270799,
+            "code": "10999fd17dc045de801c0c78ab29e6fc",
+            "title": "Updates on Minimum Notional Value for BTCUSDT and BTCUSDC USDⓈ-M Perpetual Futures Contracts (2026-04-14)",
+            "type": 1,
+            "releaseDate": 1775715267803
+          },
+          {
+            "id": 270719,
+            "code": "a563cea9efa84a6c849074b38ad3f308",
+            "title": "Updates on Binance Link Futures Bonus Reward",
+            "type": 1,
+            "releaseDate": 1775700005986
+          },
+          {
+            "id": 270714,
+            "code": "56491d77154e49ed96a31d75d64ed713",
+            "title": "Binance Convert Now Supports Recurring for Tokenized Securities",
+            "type": 1,
+            "releaseDate": 1775692800000
+          },
+          {
+            "id": 270642,
+            "code": "3978e9b92db145a798decbe29bb1e6e6",
+            "title": "Binance Evolves Capital Connect: A Portfolio Marketplace for Institutional Investors and Trading Teams",
+            "type": 1,
+            "releaseDate": 1775643557409
+          },
+          {
+            "id": 270646,
+            "code": "69a9ac042e914e33991ce282e3fe49af",
+            "title": "Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-04-08)",
+            "type": 1,
+            "releaseDate": 1775631604613
+          },
+          {
+            "id": 270557,
+            "code": "5a1c6a6e8dff4456b6e4710482eaaeec",
+            "title": "Update on the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-04-10)",
+            "type": 1,
+            "releaseDate": 1775547007882
+          },
+          {
+            "id": 270554,
+            "code": "185ae91a927c45fdaefcfaca76defcf8",
+            "title": "Binance Introduces Spot Price Range Execution Rule (PRER)",
+            "type": 1,
+            "releaseDate": 1775545212043
+          },
+          {
+            "id": 270480,
+            "code": "1f1ee792db2d445eb967aa09f6c05138",
+            "title": "Updates on Tick Size for Spot Trading Pairs (2026-04-14)",
+            "type": 1,
+            "releaseDate": 1775530808211
+          },
+          {
+            "id": 270181,
+            "code": "225881b24c444e20af790d215845569c",
+            "title": "edgeX Trading Competition: Trade edgeX (EDGE) and Share $200K Worth of Rewards",
+            "type": 1,
+            "releaseDate": 1775129409681
+          },
+          {
+            "id": 270228,
+            "code": "7fc65e21407149b28579eabce1208c00",
+            "title": "Binance Expands Institutional Loan Product Updates",
+            "type": 1,
+            "releaseDate": 1775127602625
+          },
+          {
+            "id": 270211,
+            "code": "6dbc37d4df4b42cd91b3ca768ec547dd",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-06)",
+            "type": 1,
+            "releaseDate": 1775124115458
+          },
+          {
+            "id": 270151,
+            "code": "c582a7a577904965af5d140b015e9a2c",
+            "title": "Binance Expands AI Agent Skills Hub with 13 New Skills Across Derivatives, Payments, Earn, and More",
+            "type": 1,
+            "releaseDate": 1775113200000
+          },
+          {
+            "id": 270076,
+            "code": "d1d385ee0d014150913152b10c9924a4",
+            "title": "Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-04-01)",
+            "type": 1,
+            "releaseDate": 1775026801595
+          },
+          {
+            "id": 270009,
+            "code": "24ed5f81f0fe4e99b5760a547cb1acbc",
+            "title": "Binance Futures Will Convert USDⓈ-Margined EDGEUSDT Perpetual Contract Pre-Market Trading to Standard Perpetual Futures Contract (2026-03-31)",
+            "type": 1,
+            "releaseDate": 1774959267833
+          },
+          {
+            "id": 269949,
+            "code": "74de1917c41548108f9b799658fa3f3f",
+            "title": "Updates on Tick Size for USDⓈ-M Perpetual Futures Contracts (2026-04-02 & 2026-04-07)",
+            "type": 1,
+            "releaseDate": 1774943091194
+          },
+          {
+            "id": 269918,
+            "code": "f846cbf96548498f85cfd8edba98d923",
+            "title": "Binance Adds Tether Gold (XAUT) as New Collateral Asset on Flexible Rate Loan and VIP Loan",
+            "type": 1,
+            "releaseDate": 1774940401759
+          },
+          {
+            "id": 269846,
+            "code": "44e8ccb5cf994134a0add53425a248e8",
+            "title": "Binance Updates Eligible Trading Pairs for Altcoin LiquidityBoost Program (2026-04-06)",
+            "type": 1,
+            "releaseDate": 1774922402855
+          },
+          {
+            "id": 269726,
+            "code": "d51d8110eb4645278925193ee3d063fa",
+            "title": "Binance Algo Trading Fees Removed Effective Immediately",
+            "type": 1,
+            "releaseDate": 1774866603476
+          },
+          {
+            "id": 269679,
+            "code": "d8bd2d61cb9f49ee97b5cb9903e28261",
+            "title": "RWUSD Now Supports Subscriptions with U (United Stables)",
+            "type": 1,
+            "releaseDate": 1774854001323
+          },
+          {
+            "id": 269627,
+            "code": "b6f4b4268d4c44c49bff8f93c94562dd",
+            "title": "Word of the Day: Test Your Knowledge on “Binance AI Pro Beta” to Unlock USDC Rewards!",
+            "type": 1,
+            "releaseDate": 1774836004079
+          },
+          {
+            "id": 269568,
+            "code": "a4c3f1957f2b4e69902985154235c3b1",
+            "title": "Binance Futures Updates Trading Fee Discount for TradFi Perps (2026-03-31)",
+            "type": 1,
+            "releaseDate": 1774591203070
+          },
+          {
+            "id": 269374,
+            "code": "b1c8c86279664488993e474f220db03b",
+            "title": "Binance USDⓈ-Margined Futures Stop Order Upgrade (2026-03-25)",
+            "type": 1,
+            "releaseDate": 1774425664798
+          },
+          {
+            "id": 269323,
+            "code": "0fda32c1c77649538e0caf58ea0ab28b",
+            "title": "Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-03-25)",
+            "type": 1,
+            "releaseDate": 1774422006243
+          },
+          {
+            "id": 269271,
+            "code": "3c44d521fc3c4afb8163a04865123921",
+            "title": "Binance Adds BRL (Brazilian Real) as New Collateral Asset on Binance VIP Loan - 2026-03-25",
+            "type": 1,
+            "releaseDate": 1774414825175
+          },
+          {
+            "id": 269185,
+            "code": "0f8071e9f6ec4924a4d996b0d801a954",
+            "title": "Binance Soft Staking Now Supports Ethereum (ETH)",
+            "type": 1,
+            "releaseDate": 1774411209182
+          },
+          {
+            "id": 269135,
+            "code": "9035e912721848699805c8b09b7ca9bd",
+            "title": "Introducing Binance Ai Pro Beta",
+            "type": 1,
+            "releaseDate": 1774348213771
+          },
+          {
+            "id": 269108,
+            "code": "4babfca33c2147f4a4d84d53ebb3b88e",
+            "title": "Notice on the Distribution of NIGHT Rewards for Binance Super Earn",
+            "type": 1,
+            "releaseDate": 1774341001164
+          },
+          {
+            "id": 268782,
+            "code": "2f1e6bc3cbb84ac5845220990d617226",
+            "title": "Binance Convert Adds Full API Support and AI Agent Integration",
+            "type": 1,
+            "releaseDate": 1773910810891
+          },
+          {
+            "id": 268665,
+            "code": "4f379b9ab6314eff8fe02babfe255825",
+            "title": "Binance Updates VIP Program Eligibility Thresholds",
+            "type": 1,
+            "releaseDate": 1773820803854
+          },
+          {
+            "id": 268638,
+            "code": "e25fbecb4ca64a0599ab89aa74810f7d",
+            "title": "Binance Earn Yield Arena: Earn Up to 11.5% APR With This Week’s New Limited-Time Offers! (2026-03-18)",
+            "type": 1,
+            "releaseDate": 1773817216487
+          },
+          {
+            "id": 268624,
+            "code": "259a6411f2b542edb6553cbeb1afeddb",
+            "title": "Binance Trading Bot Will Support New Contracts For Futures DCA (2026-03-18)",
+            "type": 1,
+            "releaseDate": 1773815408207
+          },
+          {
+            "id": 268541,
+            "code": "fdd4eb1e1272445b81fa0f1656ad17f6",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-03-20)",
+            "type": 1,
+            "releaseDate": 1773729011597
+          },
+          {
+            "id": 268468,
+            "code": "fb7a1674c55c43a4a018ac56de1afee3",
+            "title": "Updates on Tick Size for USDⓈ-M Perpetual Futures Contracts (2026-03-18 & 2026-03-19)",
+            "type": 1,
+            "releaseDate": 1773658805862
+          },
+          {
+            "id": 268263,
+            "code": "2448b786202948bea67d4cd66f66d208",
+            "title": "Binance Will Extend the Monitoring Tag to Include ATA, A2Z, FIO, GTC, NTRN, PHB, QI & RDNT on 2026-03-13",
+            "type": 1,
+            "releaseDate": 1773392423060
+          },
+          {
+            "id": 268218,
+            "code": "081d43dc3b1145aa86a31748ecf9079b",
+            "title": "Binance Earn: Dual Investment Supports PAXG",
+            "type": 1,
+            "releaseDate": 1773381612426
+          },
+          {
+            "id": 268191,
+            "code": "3e7bde6f41d04801a6e6e5c3e9c8c96a",
+            "title": "Binance Options to Implement Mandatory Self-Trade Prevention (STP) Function For All Users (2026-03-19)",
+            "type": 1,
+            "releaseDate": 1773378009873
+          },
+          {
+            "id": 268087,
+            "code": "fb9e6c06695f429fb443a12d1fd9020d",
+            "title": "Binance Expands AI Agent Skills with Advanced Trading and Assets Capabilities",
+            "type": 1,
+            "releaseDate": 1773324001341
+          },
+          {
+            "id": 268016,
+            "code": "0b9dd03d7b8b40b7a84cb8ce1e37d515",
+            "title": "Notice on Binance Spot API Update (2026-03-12)",
+            "type": 1,
+            "releaseDate": 1773298807464
+          },
+          {
+            "id": 267913,
+            "code": "7e9dbced380241c7a3fd8b927659ae2a",
+            "title": "Binance Earn Yield Arena: Earn Up to 11.5% APR With This Week’s New Limited-Time Offers! (2026-03-11)",
+            "type": 1,
+            "releaseDate": 1773212412504
+          },
+          {
+            "id": 267671,
+            "code": "361baed0b23744a8b322bc7023cba3a9",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-03-10)",
+            "type": 1,
+            "releaseDate": 1773120602891
+          },
+          {
+            "id": 267557,
+            "code": "412f9ed3ce104e40bddb8eb305493427",
+            "title": "Important Update: Binance Referral Program Advertising Policy",
+            "type": 1,
+            "releaseDate": 1773025207549
+          },
+          {
+            "id": 267553,
+            "code": "861d09669f804515902fbd73f3630243",
+            "title": "Notice of Changes to the Binance Convert Entry Point",
+            "type": 1,
+            "releaseDate": 1773014400000
+          },
+          {
+            "id": 267499,
+            "code": "7ba0c9871b17429ba8af46f0c6ec187c",
+            "title": "Elevate Your Content Creation on Binance Square with the New AI Agent Skill",
+            "type": 1,
+            "releaseDate": 1772791211666
+          },
+          {
+            "id": 267462,
+            "code": "ebf9b0aa9eca4ff3804eef6fb09ba32a",
+            "title": "Binance USDⓈ-M Futures WebSocket System Upgrade Notice (2026-03-06)",
+            "type": 1,
+            "releaseDate": 1772787601395
+          },
+          {
+            "id": 267451,
+            "code": "e56e5e6b33ad493c98a71189643ade4f",
+            "title": "Binance Will Extend the Monitoring Tag to Include COS, DEGO, FORTH, FUN, HOOK, LRC, MBOX, OXT & WIF, Remove the Monitoring Tag for FLOW, and Remove the Seed Tag for ONDO & VIRTUAL on 2026-03-06",
+            "type": 1,
+            "releaseDate": 1772785796086
+          },
+          {
+            "id": 267359,
+            "code": "181b4f59ce234c11bd89a0d098b4c0ba",
+            "title": "Binance Updates Fiat Liquidity Provider Program (2026-03-05)",
+            "type": 1,
+            "releaseDate": 1772699407823
+          },
+          {
+            "id": 267356,
+            "code": "624520f052724eb5a3f3f319541db160",
+            "title": "Binance Trading Bot Will Support New Contracts For Position Snowball (2026-03-05)",
+            "type": 1,
+            "releaseDate": 1772690424353
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

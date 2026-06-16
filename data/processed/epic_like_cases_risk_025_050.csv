@@ -1,0 +1,4 @@
+token_entity_id,token_symbol,anchor_event_id,anchor_event_type,drawdown_before_rebound,days_from_event_to_bottom,max_rebound_after_bottom,days_from_bottom_to_rebound,volume_zscore_on_rebound,rebound_sustained,post_rebound_drawdown,fallback_used,suspicious_spike_flag,low_liquidity_flag,epic_similarity_score,manual_review_required,notes
+CTXC,CTXC,73bd41c12e1c9037,MONITORING_TAG_ADDED,-0.5091542638263125,3.8749652777777777,1.2945945945945945,21.375,3.600617969403674,yes,-0.7817039654495485,no,no,no,1.0,no,
+EPIC,EPIC,c518920624770484,MONITORING_TAG_ADDED,-0.3603402143526486,6.833287037037037,3.31413612565445,9.916666666666666,3.9171377507079512,yes,-0.40776699029126207,no,yes,yes,0.75,yes,manual_case_study=false;epic_evaluated_by_same_rules
+FLOW,FLOW,6a25698db0b92de7,MONITORING_TAG_ADDED,-0.7350785702745193,86.45836805555555,0.6644079885877321,31.666666666666668,2.809012267676891,no,-0.2965502464109707,no,no,no,0.8,no,

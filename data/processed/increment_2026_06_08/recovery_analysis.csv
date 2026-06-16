@@ -1,0 +1,5 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+COS,a69cfb015113f6cc,MONITORING_TAG_ADDED,0.0011137532504623352,yes,yes,yes,yes,no,no,yes
+D,76c150b865ecafa1,,,,,,,unknown,yes,
+HIGH,8fa523c997c7d4f5,MONITORING_TAG_ADDED,0.12034948561931628,yes,yes,yes,yes,no,no,yes
+MBOX,89466c1eb51993df,MONITORING_TAG_ADDED,0.018517660312151626,yes,yes,yes,yes,no,no,yes

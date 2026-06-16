@@ -1,0 +1,12 @@
+token_symbol,fallback_provider_unavailable,true_data_gap,expected_post_delisting_missing,low_liquidity_fallback,suspicious_fallback_spike,fallback_exchange,fallback_pair,fallback_rows_count,fallback_quote_volume,reason,notes
+CVX,no,no,no,no,no,,,0,nan,,
+ZEC,no,no,no,no,no,,,0,nan,,
+AERGO,no,no,no,no,yes,ccxt_okx,AERGO/USDT,147,731388968.2151484,,manual_review_recommended
+BADGER,no,no,no,no,no,ccxt_mexc,BADGER/USDT,165,111297515.699583,,
+A2Z,yes,yes,yes,no,no,ccxt_gateio,A2Z/USDT,109,9659369.60236079,benchmark_gap;expected_post_delisting_missing;fallback_provider_unavailable;true_data_gap,
+AKRO,yes,no,yes,no,no,,,0,nan,expected_post_delisting_missing;fallback_provider_unavailable,
+BTS,no,no,no,no,no,ccxt_gateio,BTS/USDT,130,15168581.994169183,,
+ALCX,no,yes,no,no,no,,,0,nan,benchmark_gap;true_data_gap,
+1000CHEEMS,no,yes,no,no,no,,,0,nan,true_data_gap,
+APT,no,no,no,no,no,,,0,nan,benchmark_gap,
+0G,no,no,no,no,no,,,0,nan,,

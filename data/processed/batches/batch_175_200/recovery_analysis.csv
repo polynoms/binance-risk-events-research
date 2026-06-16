@@ -1,0 +1,17 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+FIO,e7ff807aa10c4697,MONITORING_TAG_ADDED,0.008571137841496906,yes,no,yes,no,no,no,yes
+FIRO,4a8314d988bfa109,MONITORING_TAG_ADDED,2.1164903843233245,yes,yes,yes,yes,no,no,yes
+FIS,b61c4ff537847d96,MONITORING_TAG_ADDED,0.13956368698046237,yes,yes,yes,yes,no,no,yes
+FLM,725932a8252a9eab,MONITORING_TAG_ADDED,0.02211064089177377,yes,yes,yes,yes,no,no,yes
+FLOW,6a25698db0b92de7,MONITORING_TAG_ADDED,0.10170038088884235,yes,yes,no,no,no,no,no
+FOGO,427ea11fd57b7745,,,,,,,unknown,yes,
+FOOTBALL,8faa937cb096340d,FUTURES_CONTRACT_DELISTING_ANNOUNCED,601.6613705804972,yes,yes,yes,yes,no,no,no
+FOR,419b41fc1bb70d43,MONITORING_TAG_ADDED,0.03974864347956306,no,no,no,no,yes,no,no
+FORTH,9499c53655bc3991,MONITORING_TAG_ADDED,0.8949037762101703,yes,yes,yes,yes,no,no,yes
+FTM,353bf81a7f882b46,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.24732944967061743,yes,yes,yes,no,no,no,no
+FUN,24a0f7579654e736,MONITORING_TAG_ADDED,0.0012950208644417276,yes,yes,yes,yes,no,no,yes
+GENIUS,7bc8d529097b0cc2,SEED_TAG_ADDED,0.6251,yes,yes,yes,yes,no,no,no
+GFT,5edb3573d0fb2768,SPOT_TOKEN_DELISTING_ANNOUNCED,0.013996997060218388,yes,yes,no,no,no,no,no
+GHST,fc33d59d02e3d720,MONITORING_TAG_ADDED,0.2318929101667833,yes,yes,yes,no,no,no,yes
+GIGGLE,18e11f948d6d38ba,SEED_TAG_ADDED,233.65,yes,yes,no,no,no,no,no
+GLMR,061eabe6e05d8422,SPOT_PAIR_REMOVED,0.2051292521675344,yes,yes,yes,yes,no,no,no

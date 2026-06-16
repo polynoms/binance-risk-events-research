@@ -1,0 +1,16 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+STMX,c7d11f997d396961,MONITORING_TAG_ADDED,0.0060293798128014595,yes,yes,yes,yes,no,no,no
+STORJ,f63547e56df03876,MONITORING_TAG_ADDED,0.11607956353355517,yes,no,no,no,no,no,no
+STPT,34739c73dc72f1d0,MONITORING_TAG_ADDED,0.10551681654220028,no,no,no,no,yes,no,no
+STRK,ee491f16745f5644,SEED_TAG_ADDED,1.9650000000000003,yes,yes,yes,yes,no,no,no
+SUN,d40e87ef3d1ebf58,MONITORING_TAG_ADDED,0.011453765740752861,yes,yes,yes,yes,no,no,no
+SWELL,6239afdfdc20916f,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.002638246049239441,yes,yes,yes,no,no,no,no
+SXP,cf537e599c97af65,MONITORING_TAG_ADDED,0.06619331901820753,yes,yes,yes,yes,no,no,yes
+SYN,f0150e75bcb7b849,MONITORING_TAG_ADDED,0.04765079987532615,yes,yes,yes,no,no,no,no
+SYRUP,08ca507142ef3def,SEED_TAG_ADDED,0.2195,yes,yes,yes,yes,no,no,no
+SYS,3635c4847266eeb7,MONITORING_TAG_ADDED,0.01007940431626064,yes,yes,yes,yes,no,no,yes
+TANSSI,fc086caa855619ff,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.01111145282730403,yes,yes,yes,yes,no,no,no
+TAO,5ce1a94888ae34b9,SEED_TAG_ADDED,623.4,yes,yes,no,no,no,no,no
+THE,f91b83bdad5c6fb8,SPOT_PAIR_REMOVED,0.35834886063430615,yes,yes,yes,yes,no,no,no
+TIA,d384591313982a21,,,,,,,unknown,yes,
+TLM,53093ab4bf09fee7,MONITORING_TAG_ADDED,0.0016319860395661995,yes,no,no,no,no,no,no

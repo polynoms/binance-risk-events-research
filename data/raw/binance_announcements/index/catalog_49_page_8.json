@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 244002,
+            "code": "a71a49b7342046598a2f95454e59803e",
+            "title": "Binance Earn Yield Arena: Enjoy an Additional 10% Discount on Crypto Purchases and up to 29.9% APR With This Week’s New Limited-Time Offers! (2025-08-06)",
+            "type": 1,
+            "releaseDate": 1754463601697
+          },
+          {
+            "id": 243922,
+            "code": "1a18e5b805a84a2cb0383ef7fe20e42e",
+            "title": "Introducing Binance VIP Convert Recurring Rebate Program",
+            "type": 1,
+            "releaseDate": 1754456424901
+          },
+          {
+            "id": 243626,
+            "code": "37aa8a4d3d07406d8cdac48255f392f1",
+            "title": "Introducing Binance Wallet (Web): A Faster, Smarter Trading Experience Right on Your Desktop",
+            "type": 1,
+            "releaseDate": 1754307001363
+          },
+          {
+            "id": 243599,
+            "code": "4daff3626f6f453db5b0b4afd5bdf987",
+            "title": "Binance Earn Upgrades Dual Investment With Expanded Settlement Day and New Auto-Compound Plan",
+            "type": 1,
+            "releaseDate": 1754303402798
+          },
+          {
+            "id": 243527,
+            "code": "e80dd709384244719e653c1e9d1541c2",
+            "title": "Binance Opens BTC Options Writing Access to All Users",
+            "type": 1,
+            "releaseDate": 1754294412334
+          },
+          {
+            "id": 243507,
+            "code": "cb5a63686f63408d994aaf3443e4850e",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin",
+            "type": 1,
+            "releaseDate": 1754282751629
+          },
+          {
+            "id": 243504,
+            "code": "19c4884d0f1e479182d0f4b7aed5a741",
+            "title": "Introducing SIGN (SIGN) on BNSOL Super Stake: HOLD BNSOL & DeFi BNSOL Assets to Get SIGN APR Boost Airdrop Rewards",
+            "type": 1,
+            "releaseDate": 1754280005077
+          },
+          {
+            "id": 243433,
+            "code": "f278cab7ef7942c5a3c915b68b1ef374",
+            "title": "Binance Soft Staking Activation via Spot Account Now Available",
+            "type": 1,
+            "releaseDate": 1754040622368
+          },
+          {
+            "id": 243407,
+            "code": "8ca05b7043ed4409aeaf09a8cf266492",
+            "title": "Binance Adds TREE, A2Z, KERNEL, and SPK as New Loanable and Collateral Assets on Binance Loans - 2025-08-01",
+            "type": 1,
+            "releaseDate": 1754024441672
+          },
+          {
+            "id": 243388,
+            "code": "9ae525699b9f41ceac480d24f0c7e8e6",
+            "title": "Binance Futures Will Postpone the Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2025-08-04)",
+            "type": 1,
+            "releaseDate": 1754021101211
+          },
+          {
+            "id": 243174,
+            "code": "a9396c852e5544489d1cab086ffb63cb",
+            "title": "Binance Convert Enhances Trading With Alpha Token Support",
+            "type": 1,
+            "releaseDate": 1753963214184
+          },
+          {
+            "id": 243206,
+            "code": "56cef51a6acb4b0db88e326612ee4350",
+            "title": "Binance Upgrades VIP Investor Program to Include RWUSD and Discount Buy",
+            "type": 1,
+            "releaseDate": 1753950602685
+          },
+          {
+            "id": 243203,
+            "code": "bec831262e4b4a49b021e6f4030921be",
+            "title": "Binance Futures Updates Taker Program (2025-08-12)",
+            "type": 1,
+            "releaseDate": 1753945218725
+          },
+          {
+            "id": 243035,
+            "code": "5618324097904d5bb6290fda9ee70640",
+            "title": "Binance Wallet Launches the DEX Pro Mode Powered by Secure Auto Sign",
+            "type": 1,
+            "releaseDate": 1753876802349
+          },
+          {
+            "id": 243029,
+            "code": "67e0b4bf4bcf493db72c135f30c84469",
+            "title": "Binance Earn Yield Arena: Enjoy Up to 33.65% APR With This Week’s New Limited-Time Offers! (2025-07-30)",
+            "type": 1,
+            "releaseDate": 1753858804384
+          },
+          {
+            "id": 242846,
+            "code": "b94f177219bc4087b3d3ea9b7de1237f",
+            "title": "Binance Earn Introduces Discount Buy",
+            "type": 1,
+            "releaseDate": 1753776006592
+          },
+          {
+            "id": 241713,
+            "code": "b7b32965fc1e4c94a8bd290e5db56a82",
+            "title": "Introducing RWUSD: Earn Up to 4.2% APR Rewards Supported With RWAs Such as Tokenized US Treasury Bills",
+            "type": 1,
+            "releaseDate": 1753693202480
+          },
+          {
+            "id": 242585,
+            "code": "cf3f3712e01843cf8616551013341612",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2025-08-01)",
+            "type": 1,
+            "releaseDate": 1753604443339
+          },
+          {
+            "id": 242582,
+            "code": "4ec6be211b904da3b46fdc030a86a837",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin",
+            "type": 1,
+            "releaseDate": 1753595079338
+          },
+          {
+            "id": 242528,
+            "code": "2be379d1fe084e97b865b7b0bb407cbe",
+            "title": "Binance NFT: Important Update on APE NFT Staking Products",
+            "type": 1,
+            "releaseDate": 1753426803677
+          },
+          {
+            "id": 242479,
+            "code": "4107094f14024afbbf5145591b66a07b",
+            "title": "Binance Now Supports Tokenized RWAs as Off-Exchange Collateral",
+            "type": 1,
+            "releaseDate": 1753360201290
+          },
+          {
+            "id": 242458,
+            "code": "06f67008a3ea4caebecc0cb266c26401",
+            "title": "Binance Futures Launches New Listings Fee Promotion: Enjoy 0 Maker Fee and Enhanced Maker Rebates",
+            "type": 1,
+            "releaseDate": 1753351201667
+          },
+          {
+            "id": 242450,
+            "code": "2266217dabcc43faa238dceb169d8536",
+            "title": "Binance Futures Launches VIP Starter Pack: Zero Maker Fees and Liquidity Provider Trial Perks for New Futures Traders",
+            "type": 1,
+            "releaseDate": 1753340403242
+          },
+          {
+            "id": 242357,
+            "code": "3ace2c16d56c4177b121fa1e51ee7f9d",
+            "title": "Binance Earn Yield Arena: Enjoy Up to 13.3% APR With This Week’s New Limited-Time Offers! (2025-07-23)",
+            "type": 1,
+            "releaseDate": 1753254012664
+          },
+          {
+            "id": 242315,
+            "code": "3b8213350c6d4d7eb8a07da4ee141c7b",
+            "title": "Binance Adds KAIA, LA, C, and ERA as New Loanable Assets and EURI as New Collateral Asset on VIP Loan - 2025-07-23",
+            "type": 1,
+            "releaseDate": 1753243203043
+          },
+          {
+            "id": 242194,
+            "code": "996d3a06ab3d48eea3ff70b5b395fe5d",
+            "title": "Funding Rate Settlement Frequency of Multiple USDⓈ-M Perpetual Contracts Will Be Resumed (2025-07-22)",
+            "type": 1,
+            "releaseDate": 1753173911055
+          },
+          {
+            "id": 242160,
+            "code": "cd17b963330c47e189e374cf8d845102",
+            "title": "Major Updates on Binance Referral Pro: Earn Up to 50% Sustained Commission",
+            "type": 1,
+            "releaseDate": 1753099201944
+          },
+          {
+            "id": 242036,
+            "code": "5d96278f80374c02aebbd3d488315661",
+            "title": "Binance Will Remove the Seed Tag for BONK, EIGEN, ETHFI, PENGU & PEPE on 2025-07-21",
+            "type": 1,
+            "releaseDate": 1753064996612
+          },
+          {
+            "id": 242002,
+            "code": "810e7de52311466790f295a4f7abd766",
+            "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts",
+            "type": 1,
+            "releaseDate": 1752849005070
+          },
+          {
+            "id": 241963,
+            "code": "9d275ab9716f4366a38f3ec41deacdd0",
+            "title": "Funding Rate Settlement Frequency of Multiple USDⓈ-M Perpetual Contracts Will Be Resumed (2025-07-18)",
+            "type": 1,
+            "releaseDate": 1752844512985
+          },
+          {
+            "id": 241846,
+            "code": "29197847d3764d6f9c09efeb6df96581",
+            "title": "Binance Margin Will Update the Collateral Ratio of Multiple Cross Margin Assets (2025-07-18)",
+            "type": 1,
+            "releaseDate": 1752818401543
+          },
+          {
+            "id": 241728,
+            "code": "e33dc4b0b6a44812b990823bba57ec80",
+            "title": "Binance Banking Triparty: Zero-Fee Until End of 2025",
+            "type": 1,
+            "releaseDate": 1752757203003
+          },
+          {
+            "id": 241616,
+            "code": "2783843e4242441b8489c99997437305",
+            "title": "Binance Earn Yield Arena: Enjoy Up to 33.65% APR With This Week’s New Limited-Time Offers! (2025-07-16)",
+            "type": 1,
+            "releaseDate": 1752649214280
+          },
+          {
+            "id": 241556,
+            "code": "ffd7587d890546bcbdbeefa61f7812ad",
+            "title": "Important Risk Warning and User Safety Education Regarding Binance Alpha",
+            "type": 1,
+            "releaseDate": 1752577206963
+          },
+          {
+            "id": 241480,
+            "code": "4d57d097fec14c03abf157380d48720d",
+            "title": "Binance Updates Institutional Loans: Increased Capital Flexibility",
+            "type": 1,
+            "releaseDate": 1752562802049
+          },
+          {
+            "id": 241405,
+            "code": "e220b78bdf4848e3a61eb9fce99e2580",
+            "title": "Binance Futures Will Convert USDⓈ-Margined PUMPUSDT Perpetual Contract Pre-Market Trading to Standard Perpetual Futures Contract (2025-07-14)",
+            "type": 1,
+            "releaseDate": 1752513437122
+          },
+          {
+            "id": 241379,
+            "code": "b4b707e1b38740a3a9094f84285750b4",
+            "title": "Binance Launches 8YA: Road to Abu Dhabi Giveaway in Collaboration With BWT Alpine F1",
+            "type": 1,
+            "releaseDate": 1752498015879
+          },
+          {
+            "id": 241343,
+            "code": "29d8942bfcd0472890c00d30d6b2676c",
+            "title": "Introducing the Exclusive Bonding Curve-Based Token Generation Event (TGE) on Binance Wallet, in Collaboration With Four.Meme",
+            "type": 1,
+            "releaseDate": 1752487213443
+          },
+          {
+            "id": 241298,
+            "code": "a32a2a0e5132427ba568feb2b1a5c7ec",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin",
+            "type": 1,
+            "releaseDate": 1752462021508
+          },
+          {
+            "id": 240789,
+            "code": "60d4f5891ebe4e3590a5c14f0f07ca29",
+            "title": "Introducing Sharia Earn: Simplified Halal Crypto Growth on BNB Locked Products, and ETH & SOL Staking",
+            "type": 1,
+            "releaseDate": 1752150611433
+          },
+          {
+            "id": 240995,
+            "code": "a1296aeebe634f6c9ae3caa55dea7e6c",
+            "title": "Lagrange (LA) Listing Will Be Postponed",
+            "type": 1,
+            "releaseDate": 1752070914079
+          },
+          {
+            "id": 240919,
+            "code": "9656bbc91a7740de919606c50b8aa07b",
+            "title": "Binance Earn Yield Arena: Enjoy Up to 33.65% APR With This Week’s New Limited-Time Offers! (2025-07-09)",
+            "type": 1,
+            "releaseDate": 1752044426991
+          },
+          {
+            "id": 240865,
+            "code": "ef3a6026b58a4479a813b1234f9b6665",
+            "title": "Binance Updates Fiat Liquidity Provider Program (2025-07-14)",
+            "type": 1,
+            "releaseDate": 1752030014648
+          },
+          {
+            "id": 240714,
+            "code": "c2536e8b6ed44c7ba4f62c249dbde9bb",
+            "title": "Binance Will Remove the Monitoring Tag for ZEC and the Seed Tag for ENA, PYTH, TAO & W on 2025-07-09",
+            "type": 1,
+            "releaseDate": 1752026396407
+          },
+          {
+            "id": 240675,
+            "code": "568fe6d4bcaf4fcea744075e230644bf",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin",
+            "type": 1,
+            "releaseDate": 1751862189074
+          },
+          {
+            "id": 240548,
+            "code": "d542f33541414ba5b1289b8812d452de",
+            "title": "Binance Will Extend the Monitoring Tag to Include BAKE, IDEX & SLF on 2025-07-07",
+            "type": 1,
+            "releaseDate": 1751858997414
+          },
+          {
+            "id": 240578,
+            "code": "fda377d0061f44f983ab82520fcba05c",
+            "title": "Introducing PIXEL (PIXEL) on BNSOL Super Stake: HODL BNSOL & DeFi BNSOL Assets to Get PIXEL APR Boost Airdrop Rewards",
+            "type": 1,
+            "releaseDate": 1751601631763
+          },
+          {
+            "id": 240409,
+            "code": "a738e2edc5b34c50bd634dd22382b39b",
+            "title": "Binance Launches Institutional Loans",
+            "type": 1,
+            "releaseDate": 1751545820242
+          },
+          {
+            "id": 240552,
+            "code": "56f3d81ab17a49528f48058906a25ec8",
+            "title": "Binance Pay Expands Sending Options to Simplify Crypto Transfers",
+            "type": 1,
+            "releaseDate": 1751544003009
+          },
+          {
+            "id": 240486,
+            "code": "3c8534c796ba44cab8e04b2d8f0bd0b9",
+            "title": "Notice on Binance Spot API Upgrade (2025-07-08)",
+            "type": 1,
+            "releaseDate": 1751511621838
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

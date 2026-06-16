@@ -1,0 +1,169 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Monitoring Tag Conservative Paper Alert",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "alert_id",
+    "created_at_utc",
+    "strategy_name",
+    "mode",
+    "event",
+    "signal",
+    "eligibility",
+    "shortability",
+    "liquidity",
+    "risk",
+    "decision"
+  ],
+  "properties": {
+    "alert_id": {
+      "type": "string"
+    },
+    "created_at_utc": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "strategy_name": {
+      "type": "string",
+      "const": "monitoring_tag_conservative_short_v1"
+    },
+    "mode": {
+      "type": "string",
+      "enum": ["paper"]
+    },
+    "event": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "event_id",
+        "event_type",
+        "announcement_title",
+        "announcement_url",
+        "publication_datetime_utc",
+        "token_symbol",
+        "source"
+      ],
+      "properties": {
+        "event_id": { "type": "string" },
+        "event_type": { "type": "string", "const": "MONITORING_TAG_ADDED" },
+        "announcement_title": { "type": "string" },
+        "announcement_url": { "type": "string" },
+        "publication_datetime_utc": { "type": "string", "format": "date-time" },
+        "token_symbol": { "type": "string" },
+        "source": { "type": "string", "const": "binance_official_announcement" },
+        "manual_review_required": { "type": "boolean" }
+      }
+    },
+    "signal": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "confirmation_time_utc",
+        "entry_reference_price",
+        "confirmation_close",
+        "one_hour_return",
+        "negative_one_hour_confirmation"
+      ],
+      "properties": {
+        "confirmation_time_utc": { "type": "string", "format": "date-time" },
+        "entry_reference_price": { "type": "number" },
+        "confirmation_close": { "type": "number" },
+        "one_hour_return": { "type": "number" },
+        "negative_one_hour_confirmation": { "type": "boolean" }
+      }
+    },
+    "eligibility": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "eligible",
+        "feasibility_tier",
+        "low_liquidity_flag",
+        "abnormal_candle_gap",
+        "extreme_first_hour_wick_gap",
+        "exclusion_reason"
+      ],
+      "properties": {
+        "eligible": { "type": "boolean" },
+        "feasibility_tier": { "type": "string", "enum": ["high", "medium", "low", "unknown"] },
+        "low_liquidity_flag": { "type": "boolean" },
+        "abnormal_candle_gap": { "type": "boolean" },
+        "extreme_first_hour_wick_gap": { "type": "boolean" },
+        "pair_removal_only": { "type": "boolean" },
+        "unknown_manual_review": { "type": "boolean" },
+        "exclusion_reason": { "type": "string" }
+      }
+    },
+    "shortability": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "confirmed_or_inferred_binance_perp",
+        "futures_symbol",
+        "funding_available",
+        "open_interest_available"
+      ],
+      "properties": {
+        "confirmed_or_inferred_binance_perp": { "type": "boolean" },
+        "futures_symbol": { "type": "string" },
+        "funding_available": { "type": "boolean" },
+        "open_interest_available": { "type": "boolean" },
+        "shortability_status": { "type": "string" },
+        "borrow_availability_known": { "type": "boolean" }
+      }
+    },
+    "liquidity": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "quote_volume_24h",
+        "median_1h_quote_volume_before_entry",
+        "median_1h_quote_volume_after_entry",
+        "spread_bps_at_entry"
+      ],
+      "properties": {
+        "quote_volume_24h": { "type": ["number", "null"] },
+        "median_1h_quote_volume_before_entry": { "type": ["number", "null"] },
+        "median_1h_quote_volume_after_entry": { "type": ["number", "null"] },
+        "spread_bps_at_entry": { "type": ["number", "null"] }
+      }
+    },
+    "risk": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "risk_fraction",
+        "stop_loss_pct",
+        "take_profit_pct",
+        "max_holding_days",
+        "same_candle_rule"
+      ],
+      "properties": {
+        "risk_fraction": { "type": "number" },
+        "stop_loss_pct": { "type": "number", "const": 0.15 },
+        "take_profit_pct": { "type": "number", "const": 0.30 },
+        "max_holding_days": { "type": "integer", "const": 30 },
+        "same_candle_rule": { "type": "string", "const": "stop_before_take_profit" },
+        "paper_account_equity": { "type": ["number", "null"] },
+        "position_notional": { "type": ["number", "null"] },
+        "stop_price": { "type": ["number", "null"] },
+        "take_profit_price": { "type": ["number", "null"] }
+      }
+    },
+    "decision": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "paper_trade_action",
+        "decision_reason"
+      ],
+      "properties": {
+        "paper_trade_action": { "type": "string", "enum": ["paper_enter", "paper_skip", "manual_review"] },
+        "decision_reason": { "type": "string" },
+        "manual_override_flag": { "type": "boolean" },
+        "manual_override_reason": { "type": "string" }
+      }
+    }
+  }
+}

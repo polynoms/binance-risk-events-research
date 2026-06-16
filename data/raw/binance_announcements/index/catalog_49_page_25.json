@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 183888,
+            "code": "61ea14d6d9e347b8b5c90f9194d9aba2",
+            "title": "Binance Has Completed the Chiliz (CHZ) 2.0 Mainnet Integration and Swap",
+            "type": 1,
+            "releaseDate": 1700733012283
+          },
+          {
+            "id": 183441,
+            "code": "c9d95aa135254f728e45c22b10d907e9",
+            "title": "Binance Fan Token Launches Fan Arena: Join Match Prediction Challenges to Earn Star Points & Unlock Exclusive Rewards at Binance Fan Club!",
+            "type": 1,
+            "releaseDate": 1700474403825
+          },
+          {
+            "id": 183443,
+            "code": "2147b4adb67d44cf9c3226cb65bcb453",
+            "title": "Binance Upgrades VIP Holder Program (2023-11-27)",
+            "type": 1,
+            "releaseDate": 1700469023836
+          },
+          {
+            "id": 183359,
+            "code": "99340d9833e54d9e8a36193dca5cd280",
+            "title": "Notice Regarding the Removal of Selected Liquidity Pools on Binance Liquid Swap (2023-11-24)",
+            "type": 1,
+            "releaseDate": 1700196050813
+          },
+          {
+            "id": 183331,
+            "code": "1493a2222fa549ce93f7101abe0941bf",
+            "title": "Binance Will Support the Virtua (TVK) Token Swap and Rebranding to Vanar (VANRY)",
+            "type": 1,
+            "releaseDate": 1700191803293
+          },
+          {
+            "id": 183087,
+            "code": "47fcf9ed148e485c8f467f9c867c0a35",
+            "title": "Updates on Minimum Notional Value for LINKUSDT, BCHUSDT, ETCUSDT and LTCUSDT Perpetual Contracts (2023-11-22)",
+            "type": 1,
+            "releaseDate": 1700043002990
+          },
+          {
+            "id": 182991,
+            "code": "5047ed3fe65d47579d12e19d3842d901",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-11-15)",
+            "type": 1,
+            "releaseDate": 1700024403513
+          },
+          {
+            "id": 182917,
+            "code": "c8705b752c7c47fc814a373a0f1856ee",
+            "title": "Binance Has Completed the Merit Circle (MC) Token Swap, Redenomination and Rebranding to Beam (BEAMX)",
+            "type": 1,
+            "releaseDate": 1699950011748
+          },
+          {
+            "id": 182897,
+            "code": "a82981d0b445483d80023af6882fa6e8",
+            "title": "New Dual Investment Products Launched (2023-11-14)",
+            "type": 1,
+            "releaseDate": 1699944304217
+          },
+          {
+            "id": 182703,
+            "code": "4abc5968ae0e45cda064cfa1bebc41c2",
+            "title": "Updates on Russian Ruble (RUB) Deposits",
+            "type": 1,
+            "releaseDate": 1699606810210
+          },
+          {
+            "id": 182675,
+            "code": "e83f472aa1344323aad8c945d7bf23a3",
+            "title": "“ACH Simple Earn Products” Activity Has Now Concluded",
+            "type": 1,
+            "releaseDate": 1699597721725
+          },
+          {
+            "id": 182647,
+            "code": "4a84223a400b4b9b86e8018e59eb45df",
+            "title": "Removal of Selected Spot Trading Pairs Will Be Postponed (2023-11-10)",
+            "type": 1,
+            "releaseDate": 1699593810928
+          },
+          {
+            "id": 182613,
+            "code": "27904304ed8843fcbbc68e59c5d70226",
+            "title": "Locked Products Update: Enjoy Up to 10.9% APR with SOL & NEAR!",
+            "type": 1,
+            "releaseDate": 1699512296022
+          },
+          {
+            "id": 182585,
+            "code": "b1aebabb714c4217816d382448e5f42e",
+            "title": "Binance Opens Deposits, Withdrawals and Conversions of USD Coin Bridged (USDC.e) on Arbitrum Network",
+            "type": 1,
+            "releaseDate": 1699507174579
+          },
+          {
+            "id": 182527,
+            "code": "71ee9dd25b7f47c89158ac0c638d984e",
+            "title": "Binance Pool Launches Presale of Cloud Mining Product (2023-11-09)",
+            "type": 1,
+            "releaseDate": 1699495667291
+          },
+          {
+            "id": 182480,
+            "code": "777567e6d96c40a7928c93404a4bb1ec",
+            "title": "Binance Completes Integration of BNB, FDUSD and USDT on opBNB Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1699441525842
+          },
+          {
+            "id": 182436,
+            "code": "6ce225379e184752a973279848bea3c0",
+            "title": "Binance Futures Copy Trading Launches Elite Trader Program for Lead Traders",
+            "type": 1,
+            "releaseDate": 1699434009381
+          },
+          {
+            "id": 182395,
+            "code": "888b567370b64ad5b9e6e31d3f9decd9",
+            "title": "Binance Launches Binance Web3 Wallet",
+            "type": 1,
+            "releaseDate": 1699428653061
+          },
+          {
+            "id": 182335,
+            "code": "a495956e4f714b8e8a1e510f8e89b7a5",
+            "title": "Binance Has Completed the Enjin Coin (ENJ) Mainnet Swap",
+            "type": 1,
+            "releaseDate": 1699414454929
+          },
+          {
+            "id": 182287,
+            "code": "a4e1ce23468343f4a86834f3f96a1281",
+            "title": "Binance Convert Adds ORDI",
+            "type": 1,
+            "releaseDate": 1699361708523
+          },
+          {
+            "id": 182234,
+            "code": "2078410f1b3749e081d0999feed12709",
+            "title": "Ordinals (ORDI) Listing Will Be Postponed",
+            "type": 1,
+            "releaseDate": 1699349447110
+          },
+          {
+            "id": 182144,
+            "code": "7923ebd52c544a5d92f4f767a7af733d",
+            "title": "Binance Simple Earn Launches TIA and DAI Locked Products",
+            "type": 1,
+            "releaseDate": 1699337106153
+          },
+          {
+            "id": 182125,
+            "code": "f1981a8ba0b341c0ae45be8ea2929a0c",
+            "title": "New Dual Investment Products Launched (2023-11-07)",
+            "type": 1,
+            "releaseDate": 1699332617981
+          },
+          {
+            "id": 182046,
+            "code": "034eee2293964e26b915b1ec5c42972a",
+            "title": "Binance Will Support the TomoChain (TOMO) Rebranding to Viction (VIC)",
+            "type": 1,
+            "releaseDate": 1699263014259
+          },
+          {
+            "id": 181970,
+            "code": "9c88b57603534ad68444e209ea9d9c28",
+            "title": "Binance Futures Will Update the Leverage, Margin Tiers and Capped Funding Rate of Multiple USDⓈ-M Perpetual Contracts (2023-11-06)",
+            "type": 1,
+            "releaseDate": 1699014158706
+          },
+          {
+            "id": 181908,
+            "code": "4a728a2a6753448db4fe29711a779bb5",
+            "title": "Binance Convert Adds MEME",
+            "type": 1,
+            "releaseDate": 1699001405107
+          },
+          {
+            "id": 181857,
+            "code": "74b63de97d064123904581628c43be0e",
+            "title": "Notice Regarding the Removal of Selected Liquidity Pools on Binance Liquid Swap (2023-11-10)",
+            "type": 1,
+            "releaseDate": 1698984303311
+          },
+          {
+            "id": 181675,
+            "code": "949300052c3f4247bd5c1d6d9f89e925",
+            "title": "Earn Wednesday: Enjoy Up to 21.9% APR in Exclusive Offers for USDT, FDUSD, DOT & More! (2023-11-01)",
+            "type": 1,
+            "releaseDate": 1698822005513
+          },
+          {
+            "id": 181582,
+            "code": "d35039b3e4e04059920b364f97d01840",
+            "title": "Binance Convert Adds TIA",
+            "type": 1,
+            "releaseDate": 1698804006820
+          },
+          {
+            "id": 181505,
+            "code": "9db61c1076314fb3a73398d8c20da533",
+            "title": "New Dual Investment Products Launched (2023-10-31)",
+            "type": 1,
+            "releaseDate": 1698744921960
+          },
+          {
+            "id": 181285,
+            "code": "e4384cba297a4bd2a154be644d5d76f9",
+            "title": "Updates on Minimum Notional Value for BTCUSDT and ETHUSDT Perpetual Contracts (2023-11-02)",
+            "type": 1,
+            "releaseDate": 1698410424319
+          },
+          {
+            "id": 181232,
+            "code": "dca39d64cdd04541837dff0923f2ed85",
+            "title": "Binance Adds Credit/Debit Cards as Payment Option on Auto-Invest",
+            "type": 1,
+            "releaseDate": 1698372305602
+          },
+          {
+            "id": 181184,
+            "code": "1f6f0a5cb947408f9db5485a5467b116",
+            "title": "Binance Completes Integration of Native USD Coin (USDC) on Polygon Network, Opens Deposits",
+            "type": 1,
+            "releaseDate": 1698315903006
+          },
+          {
+            "id": 181165,
+            "code": "54b216c990da45889d4d99986bbfedd7",
+            "title": "Binance Launches VIP Volume Contribution Program",
+            "type": 1,
+            "releaseDate": 1698301503483
+          },
+          {
+            "id": 181126,
+            "code": "0cccc793a53c440aa063509f6a6de0a9",
+            "title": "Binance Futures Will Update the Leverage, Margin Tiers and Capped Funding Rate of Multiple USDⓈ-M Perpetual Contracts (2023-10-30)",
+            "type": 1,
+            "releaseDate": 1698230857267
+          },
+          {
+            "id": 181100,
+            "code": "093f959cf2ae4c38a93a150ba2a2f1dd",
+            "title": "Binance Opens Deposits, Withdrawals and Conversions of USD Coin Bridged (USDC.e) on Optimism Network",
+            "type": 1,
+            "releaseDate": 1698224130525
+          },
+          {
+            "id": 181082,
+            "code": "ed3a47b762084f0f98243243519ceb50",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-10-25)",
+            "type": 1,
+            "releaseDate": 1698221403691
+          },
+          {
+            "id": 181025,
+            "code": "0b171519f1824ee288af7343ec91ce33",
+            "title": "Binance Will Support the Merit Circle (MC) Token Swap, Redenomination and Rebranding to Beam (BEAMX)",
+            "type": 1,
+            "releaseDate": 1698210303314
+          },
+          {
+            "id": 180999,
+            "code": "af49699024764492b7089b957183a5c5",
+            "title": "Binance Completes Integration of Maverick Protocol (MAV) on Base Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1698207309371
+          },
+          {
+            "id": 180945,
+            "code": "b8ab7712e2934774a1c7e0928380667d",
+            "title": "Binance Has Completed the Beefy (BIFI) Contract Swap",
+            "type": 1,
+            "releaseDate": 1698201910755
+          },
+          {
+            "id": 180887,
+            "code": "67f0c2f550d2416a83df0273657bd485",
+            "title": "New Dual Investment Products Launched (2023-10-24)",
+            "type": 1,
+            "releaseDate": 1698149412800
+          },
+          {
+            "id": 180678,
+            "code": "187a6f299a4944ab95440c0106a7a8d7",
+            "title": "Binance Will Support the Native USD Coin (USDC) on Polygon Network",
+            "type": 1,
+            "releaseDate": 1698034804634
+          },
+          {
+            "id": 180435,
+            "code": "935d49b8f18e4a41a602ba6ea0132a5e",
+            "title": "Updates on the Chiliz (CHZ) 2.0 Mainnet Integration and Swap",
+            "type": 1,
+            "releaseDate": 1697785204754
+          },
+          {
+            "id": 180280,
+            "code": "a7381fe86f3f430585ae5adf673aa4c1",
+            "title": "DOT Slot Auction Update: DOT Redemption Will Open Soon!",
+            "type": 1,
+            "releaseDate": 1697778006313
+          },
+          {
+            "id": 180361,
+            "code": "eae22e293d7a430e93daee63423b13e6",
+            "title": "Notice Regarding the Removal of Selected Liquidity Pools on Binance Liquid Swap (2023-10-27)",
+            "type": 1,
+            "releaseDate": 1697774403422
+          },
+          {
+            "id": 180215,
+            "code": "76c655a7ef164ce6babfdd40b270ad90",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-10-18)",
+            "type": 1,
+            "releaseDate": 1697616605200
+          },
+          {
+            "id": 180109,
+            "code": "143cee3a83944c4da2b1a53f302f45f0",
+            "title": "Binance Futures Upgrades Taker Program (2023-10-31)",
+            "type": 1,
+            "releaseDate": 1697601634643
+          },
+          {
+            "id": 180077,
+            "code": "28be84f8bdb14158a4f23187db073e69",
+            "title": "Binance Futures Will Update the Leverage, Margin Tiers and Capped Funding Rate of Multiple USDⓈ-M Perpetual Contracts (2023-10-18)",
+            "type": 1,
+            "releaseDate": 1697535033253
+          },
+          {
+            "id": 180031,
+            "code": "c9e163d768b84ef49c0a372d563d4b3e",
+            "title": "New Dual Investment Products Launched (2023-10-17)",
+            "type": 1,
+            "releaseDate": 1697511345106
+          },
+          {
+            "id": 179980,
+            "code": "11e9ae53ee4345eca629cd30daf7a72c",
+            "title": "The 25th Quarterly BNB Burn Completed via BNB Auto-Burn",
+            "type": 1,
+            "releaseDate": 1697439403289
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

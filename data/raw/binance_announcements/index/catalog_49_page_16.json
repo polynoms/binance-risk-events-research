@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 216716,
+            "code": "2c473e4efef140e8b58b950987bcc577",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-11-07)",
+            "type": 1,
+            "releaseDate": 1730970006274
+          },
+          {
+            "id": 216713,
+            "code": "37941f8572a9484b98879b785f5c30df",
+            "title": "Binance Options Will Launch SOLUSDT Options",
+            "type": 1,
+            "releaseDate": 1730962800000
+          },
+          {
+            "id": 216659,
+            "code": "fb4f0c8aa71d42689d740b4348a9ab54",
+            "title": "Introducing BNSOL Super Stake: HODL BNSOL to Get APR Boost Airdrop Rewards",
+            "type": 1,
+            "releaseDate": 1730944803703
+          },
+          {
+            "id": 216476,
+            "code": "1076e35bc7fd400ea23fe40579bdba13",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-11-06)",
+            "type": 1,
+            "releaseDate": 1730869219478
+          },
+          {
+            "id": 216389,
+            "code": "4bcabddf0e81423ebca242e185bf157d",
+            "title": "Updates on Binance Futures Settlement Price Calculation",
+            "type": 1,
+            "releaseDate": 1730710801176
+          },
+          {
+            "id": 216311,
+            "code": "f9baa987cd944e75b3e06c297bca05f7",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2024-11-04)",
+            "type": 1,
+            "releaseDate": 1730430001585
+          },
+          {
+            "id": 216211,
+            "code": "ee0bc107cf7046e0a97b2b159f513637",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-10-31)",
+            "type": 1,
+            "releaseDate": 1730365210185
+          },
+          {
+            "id": 216155,
+            "code": "efb7b020fccb40abadc50abcf1b7ebe6",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin (2024-11-01)",
+            "type": 1,
+            "releaseDate": 1730340003587
+          },
+          {
+            "id": 216035,
+            "code": "f37b9dd3d1ec4ffc8dbf71b95e5e8af9",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) and VIP Loan - 2024-10-30",
+            "type": 1,
+            "releaseDate": 1730260809071
+          },
+          {
+            "id": 216009,
+            "code": "362b287a31774025beb73bd18d53c566",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-10-30)",
+            "type": 1,
+            "releaseDate": 1730257206329
+          },
+          {
+            "id": 215956,
+            "code": "43f3d78ce700417297ba7234bddb1f3b",
+            "title": "Binance Launches Pioneering Crypto Exchange Solution for Wealth Managers",
+            "type": 1,
+            "releaseDate": 1730210738794
+          },
+          {
+            "id": 215939,
+            "code": "27622211a596475390b18f7c8fd52c1e",
+            "title": "Binance Will Cease Support for Deposits and Withdrawals on BNB Beacon Chain (BEP2)",
+            "type": 1,
+            "releaseDate": 1730185208353
+          },
+          {
+            "id": 215859,
+            "code": "548dd91b4b1140cc9738fb1231210141",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-10-28)",
+            "type": 1,
+            "releaseDate": 1730106003024
+          },
+          {
+            "id": 215737,
+            "code": "8e69e1eb4a5c4633934700362b8f851c",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-10-25)",
+            "type": 1,
+            "releaseDate": 1729846803120
+          },
+          {
+            "id": 215647,
+            "code": "4229e1af8d4348b097351057ec0f2bb5",
+            "title": "BNSOL APR Boost Campaign Extension: Stake SOL to Receive BNSOL & Enjoy Boosted APR up to 10%",
+            "type": 1,
+            "releaseDate": 1729764009221
+          },
+          {
+            "id": 215642,
+            "code": "f0937a0f55874970920515b678df3568",
+            "title": "Binance Introduces ‘Sell Crypto to Credit/Debit Card’ Feature in Partnership with Paymonade",
+            "type": 1,
+            "releaseDate": 1729758616674
+          },
+          {
+            "id": 215569,
+            "code": "0542cb09b0b841dc8fde2ce5fe3dbd4c",
+            "title": "Notice on the Redemption of ETH for ANT Holders",
+            "type": 1,
+            "releaseDate": 1729753210596
+          },
+          {
+            "id": 215598,
+            "code": "f17cce5d17c346cca354e82c9c388d6d",
+            "title": "Binance Completes Integration of Worldcoin (WLD) Mainnet",
+            "type": 1,
+            "releaseDate": 1729749607172
+          },
+          {
+            "id": 215570,
+            "code": "e54c0b97f8c445058f419874d7d605d3",
+            "title": "Updates on Tick Size for Spot Trading Pairs (2024-11-04)",
+            "type": 1,
+            "releaseDate": 1729746003911
+          },
+          {
+            "id": 215517,
+            "code": "ac783c3d6b2a41d6b426361eb3adf6cd",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-10-23)",
+            "type": 1,
+            "releaseDate": 1729674014777
+          },
+          {
+            "id": 215514,
+            "code": "82e3f6645b554322bd3ffd75f57309b7",
+            "title": "Binance Removes the Minimum Wallet Balance Requirement for Portfolio Margin (2024-10-23)",
+            "type": 1,
+            "releaseDate": 1729670402491
+          },
+          {
+            "id": 215410,
+            "code": "5b568e2bf3704d149f71d187d0334da1",
+            "title": "Update on the Binance Referral Program for Users in Türkiye",
+            "type": 1,
+            "releaseDate": 1729666800000
+          },
+          {
+            "id": 215437,
+            "code": "bedb7517e310459aaf8a011ca947b742",
+            "title": "Blockchain Week Dubai 2024 Ticket Prices Are Now $600 (Excluding VAT)",
+            "type": 1,
+            "releaseDate": 1729663208512
+          },
+          {
+            "id": 215409,
+            "code": "63720958aa9249c3b0e102abf05c48eb",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-10-23)",
+            "type": 1,
+            "releaseDate": 1729659612676
+          },
+          {
+            "id": 215381,
+            "code": "4d5f23c18eee46c09bfbfdb6f6b67d90",
+            "title": "Binance Completes Integration of USDC (USDC) on zkSync Era Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1729652407156
+          },
+          {
+            "id": 215316,
+            "code": "c4cd40f6ecc446dcb37e65b07bdcc3b0",
+            "title": "FDUSD Locked Products Limited Offer: Complete Subscription to Enjoy 16.2% Fixed APR!",
+            "type": 1,
+            "releaseDate": 1729645217681
+          },
+          {
+            "id": 215229,
+            "code": "3fc34fcc2223452bbae21978db6ab002",
+            "title": "Scroll (SCR) Listing Will Be Postponed",
+            "type": 1,
+            "releaseDate": 1729583249860
+          },
+          {
+            "id": 215210,
+            "code": "0342dcd0f85044a59bd545bfe6508092",
+            "title": "Binance Futures Updates Taker Program (2024-10-29)",
+            "type": 1,
+            "releaseDate": 1729558801734
+          },
+          {
+            "id": 215145,
+            "code": "a1205d2078df4688820b32fd146a6514",
+            "title": "Binance Has Completed the Conversion of Selected Token Balances to USDC (2024-10-21)",
+            "type": 1,
+            "releaseDate": 1729494002940
+          },
+          {
+            "id": 215120,
+            "code": "84bbac6ea4fd4d268de4816e137b0fa1",
+            "title": "Binance Adds LUMIA on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1729490416065
+          },
+          {
+            "id": 215010,
+            "code": "4a5eb0d64bc941b2b6be88908f961ac3",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-10-18)",
+            "type": 1,
+            "releaseDate": 1729249203710
+          },
+          {
+            "id": 214724,
+            "code": "4929eb99d61f47ebab7c39ca6dca8197",
+            "title": "Updates on Leverage, Margin Tiers, and Funding Rate Settlement Frequency of USDⓈ-M REEFUSDT Perpetual Contract (2024-10-16)",
+            "type": 1,
+            "releaseDate": 1729054802166
+          },
+          {
+            "id": 214697,
+            "code": "9601dab5df684fc0bbd4948471c9c9cd",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) and VIP Loan - 2024-10-16",
+            "type": 1,
+            "releaseDate": 1729051212387
+          },
+          {
+            "id": 214670,
+            "code": "1ba3316382424c949b803bf271e6bfc5",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-10-16)",
+            "type": 1,
+            "releaseDate": 1729047619416
+          },
+          {
+            "id": 214636,
+            "code": "a9ea41f6a2224f8c971ac50b9f582e36",
+            "title": "Binance Futures Copy Trading Upgrades the Cooling Period for Lead Trader Portfolios",
+            "type": 1,
+            "releaseDate": 1729040405023
+          },
+          {
+            "id": 214576,
+            "code": "0fcaedd59b124b8cb8066711efee09fd",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-10-15)",
+            "type": 1,
+            "releaseDate": 1728982823593
+          },
+          {
+            "id": 214545,
+            "code": "69b8201e3f6444129511d00c83f86bef",
+            "title": "Binance P2P Will Update Maker Fees for INR Market",
+            "type": 1,
+            "releaseDate": 1728964822979
+          },
+          {
+            "id": 214501,
+            "code": "ba72f87805de474e8883966c7a2585c7",
+            "title": "Binance Staked SOL (BNSOL) Listing on Binance Margin Has Been Postponed",
+            "type": 1,
+            "releaseDate": 1728899105608
+          },
+          {
+            "id": 214473,
+            "code": "c2adea5bd44b423081ada6e037e303c8",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-10-14)",
+            "type": 1,
+            "releaseDate": 1728896432383
+          },
+          {
+            "id": 214442,
+            "code": "cca493f9fd914875ae7075893606d915",
+            "title": "Binance Blockchain Week Dubai 2024: Main Stage Agenda Announcement",
+            "type": 1,
+            "releaseDate": 1728892802140
+          },
+          {
+            "id": 214403,
+            "code": "7710376072b94b7b9125ef079d50b052",
+            "title": "Updates on Tick Size for New ETHUSDT Options Contracts",
+            "type": 1,
+            "releaseDate": 1728624831925
+          },
+          {
+            "id": 214238,
+            "code": "b88053b099c244bbac2b8c6c2c54601f",
+            "title": "Binance Will Support the Pepper (1000PEPPER) Airdrop for Chiliz (CHZ) Holders",
+            "type": 1,
+            "releaseDate": 1728455400000
+          },
+          {
+            "id": 214235,
+            "code": "f74818a2da43420796b3eb82fa253a38",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) and VIP Loan - 2024-10-09",
+            "type": 1,
+            "releaseDate": 1728453604134
+          },
+          {
+            "id": 214178,
+            "code": "eb33d41fd7c744baa30fce0cd5fd6a53",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-10-09)",
+            "type": 1,
+            "releaseDate": 1728442807390
+          },
+          {
+            "id": 214151,
+            "code": "baf2fa681caa49978b246df8ed7250da",
+            "title": "Binance Will Cease Support for Deposits and Withdrawals of Tokens on Selected Networks",
+            "type": 1,
+            "releaseDate": 1728439205734
+          },
+          {
+            "id": 214119,
+            "code": "95fb333ab1594094b07dbcd88fa7397b",
+            "title": "Binance Futures API Updates (2024-10-17)",
+            "type": 1,
+            "releaseDate": 1728381609770
+          },
+          {
+            "id": 214091,
+            "code": "4f03ed5cff314855a4a906ae8614d731",
+            "title": "Proof of Reserves (PoR) Verification System Upgrade: Addition of Asset Collateral Information",
+            "type": 1,
+            "releaseDate": 1728374404774
+          },
+          {
+            "id": 214075,
+            "code": "c48eb2f81a9b489eb22c1b93505d3716",
+            "title": "FDUSD Locked Products Limited Offer: Complete Subscription to Enjoy 15.9% Fixed APR!",
+            "type": 1,
+            "releaseDate": 1728370809160
+          },
+          {
+            "id": 214011,
+            "code": "13140de27d9f4b57bccf18e7c83a7fa2",
+            "title": "Binance Blockchain Week Dubai 2024 Ticket Prices Are Now 300 USD (Excluding VAT)",
+            "type": 1,
+            "releaseDate": 1728367201756
+          },
+          {
+            "id": 214013,
+            "code": "1657c0d30d5449908e8e20d9efa893a2",
+            "title": "Notice on the Withdrawals of Delisted Tokens & Conversion of Selected Tokens to USDC (2024-10-08)",
+            "type": 1,
+            "releaseDate": 1728360012037
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

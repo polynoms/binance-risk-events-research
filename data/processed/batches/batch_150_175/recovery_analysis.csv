@@ -1,0 +1,12 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+DYM,5a5674a2634ca8df,SEED_TAG_ADDED,4.924,yes,yes,yes,yes,no,no,no
+EIGEN,93e4d22736bbc445,,,,,,,unknown,yes,
+ELF,2b488d2b7a3bc9e1,SPOT_TOKEN_DELISTING_ANNOUNCED,0.24048363274722248,yes,yes,yes,yes,no,no,yes
+EPIC,c518920624770484,MONITORING_TAG_ADDED,0.2776664839596006,yes,no,no,no,no,no,no
+EPT,c9a079a4e3d99c90,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.0014759311110795529,yes,yes,yes,yes,no,no,no
+EPX,daa09b139684a4a8,MONITORING_TAG_ADDED,0.0003425252679526459,no,no,no,no,yes,no,no
+ERC20,2554c8bc341c5470,SEED_TAG_ADDED,nan,unknown,unknown,unknown,unknown,unknown,yes,no
+ESP,86bdfec340183470,SEED_TAG_ADDED,0.07233,yes,yes,yes,yes,no,no,no
+ETH,54430c7de3727b0a,FUTURES_CONTRACT_DELISTING_ANNOUNCED,2019.4069588544976,yes,yes,yes,yes,no,no,no
+FARM,22c469b3db8740d8,MONITORING_TAG_ADDED,11.975711790424912,yes,yes,yes,yes,no,no,yes
+FHE,8805f912b380d2e6,SEED_TAG_ADDED,nan,unknown,unknown,unknown,unknown,unknown,yes,no

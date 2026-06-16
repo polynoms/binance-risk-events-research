@@ -1,0 +1,3 @@
+token_entity_id,token_symbol,anchor_event_id,anchor_event_type,drawdown_before_rebound,days_from_event_to_bottom,max_rebound_after_bottom,days_from_bottom_to_rebound,volume_zscore_on_rebound,rebound_sustained,post_rebound_drawdown,fallback_used,suspicious_spike_flag,low_liquidity_flag,epic_similarity_score,manual_review_required,notes
+GHST,GHST,fc33d59d02e3d720,MONITORING_TAG_ADDED,-0.8853884707040791,67.18722222222222,7.0,4.333333333333333,2.6380829063486897,yes,-0.5708333333333333,no,no,no,1.0,no,
+KEY,KEY,0af050f2f61a9816,MONITORING_TAG_ADDED,-0.8188385749589293,67.58327546296296,0.7322222222222223,0.125,0.476986042396347,no,-0.3245670301475305,no,no,no,0.8,no,

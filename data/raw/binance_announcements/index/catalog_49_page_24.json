@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 187523,
+            "code": "826b8cb1b13045098dd42cbeee47e3f9",
+            "title": "Updates on Taker Fees for Turkish Lira (TRY) Spot Trading Pairs (2024-01-03)",
+            "type": 1,
+            "releaseDate": 1703865638298
+          },
+          {
+            "id": 187495,
+            "code": "c86f104ccf204bae9fc80a884de6cfe7",
+            "title": "Notice Regarding the Removal of Selected Liquidity Pools on Binance Liquid Swap (2024-01-05)",
+            "type": 1,
+            "releaseDate": 1703822403598
+          },
+          {
+            "id": 187469,
+            "code": "8d20bf4db660493a87f2f94d41071d67",
+            "title": "Notice Regarding the Removal of Binance DeFi Staking Products (2024-01-09)",
+            "type": 1,
+            "releaseDate": 1703817905214
+          },
+          {
+            "id": 187340,
+            "code": "f5d3200b65104308b8349cee59a2296e",
+            "title": "Binance Upgrades USDⓢ-Margined Futures Liquidity Provider Program (2024-01-03)",
+            "type": 1,
+            "releaseDate": 1703761153138
+          },
+          {
+            "id": 187395,
+            "code": "27b87bd18ef948f582b32eb5d6691bbc",
+            "title": "Binance Margin Launches Isolated Margin Auto-Transfer Mode",
+            "type": 1,
+            "releaseDate": 1703734204045
+          },
+          {
+            "id": 187358,
+            "code": "7c376be9a68d461ab330cd78f2a390fc",
+            "title": "#BinanceWish Christmas Giveaway Has Now Concluded",
+            "type": 1,
+            "releaseDate": 1703686503407
+          },
+          {
+            "id": 187341,
+            "code": "d521c571ea184fffacffae5a83cae103",
+            "title": "Binance Futures Will Postpone the Launch of USDⓈ-M NFP Perpetual Contract",
+            "type": 1,
+            "releaseDate": 1703680539000
+          },
+          {
+            "id": 187314,
+            "code": "ded4306ae2fc4820938d056171ef21af",
+            "title": "Binance Convert Adds NFP",
+            "type": 1,
+            "releaseDate": 1703675703259
+          },
+          {
+            "id": 187190,
+            "code": "be726ce40ff240bd9bfc3e7792951b97",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-12-27)",
+            "type": 1,
+            "releaseDate": 1703646946171
+          },
+          {
+            "id": 186984,
+            "code": "1ade588ceb9845b78ec785f123b986fd",
+            "title": "Binance Completes Integration of USD Coin (USDC) on NEAR Protocol Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1703569805469
+          },
+          {
+            "id": 186959,
+            "code": "d0477957bd7042a8af62d5badcde9532",
+            "title": "Binance Adds SEI on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1703563205354
+          },
+          {
+            "id": 186917,
+            "code": "61fc5386e78e4e45b29d865c412dde92",
+            "title": "New Dual Investment Products Launched (2023-12-26)",
+            "type": 1,
+            "releaseDate": 1703556928720
+          },
+          {
+            "id": 186809,
+            "code": "28072bfcccf844838d9f0b82b1b9496c",
+            "title": "Binance Completes Integration of Radiant Capital (RDNT) on Ethereum Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1703210410652
+          },
+          {
+            "id": 186789,
+            "code": "f629ccbb4bc64fae8037234fadf2708f",
+            "title": "Binance Completes Integration of 19 New dApps on Binance Web3 Wallet (December 2023)",
+            "type": 1,
+            "releaseDate": 1703156706512
+          },
+          {
+            "id": 186763,
+            "code": "7436ae53c26e4b4e8d1386f54bbd5f1b",
+            "title": "Binance Adds SUI on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1703131204923
+          },
+          {
+            "id": 186691,
+            "code": "49a6adfdcbe04ab69c4c976090e1fa71",
+            "title": "Updates on Minimum Order Size for Spot and Margin Trading Pairs (2023-12-22)",
+            "type": 1,
+            "releaseDate": 1703062208725
+          },
+          {
+            "id": 186671,
+            "code": "168cca56912e4e63bc16f5eef5ab6a9d",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-12-20)",
+            "type": 1,
+            "releaseDate": 1703055088185
+          },
+          {
+            "id": 186574,
+            "code": "14cfc9a2f91e43fcbca2e657c35a01ca",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2023-12-19)",
+            "type": 1,
+            "releaseDate": 1702979403324
+          },
+          {
+            "id": 186521,
+            "code": "7b03eaf579b6436fb3beb9faae1837d9",
+            "title": "AVAX Locked Products: Enjoy Up to 8.5% APR in Rewards!",
+            "type": 1,
+            "releaseDate": 1702957503355
+          },
+          {
+            "id": 186504,
+            "code": "45342d7ebde248378ae7e4ba14e03c68",
+            "title": "New Dual Investment Products Launched (2023-12-19)",
+            "type": 1,
+            "releaseDate": 1702953004159
+          },
+          {
+            "id": 186416,
+            "code": "81e67b57c4f849a892c0d77355ed2200",
+            "title": "Binance Convert Adds ACE",
+            "type": 1,
+            "releaseDate": 1702881906062
+          },
+          {
+            "id": 186273,
+            "code": "0281f4bc5c824a25b2b583f8f0c5cf7c",
+            "title": "Binance Convert Adds BONK",
+            "type": 1,
+            "releaseDate": 1702630507484
+          },
+          {
+            "id": 186223,
+            "code": "a2eaf4566af94cf98e0af790cb56d436",
+            "title": "Notice Regarding the Removal of Selected Liquidity Pools on Binance Liquid Swap (2023-12-22)",
+            "type": 1,
+            "releaseDate": 1702610703984
+          },
+          {
+            "id": 186016,
+            "code": "bb49ba4024c241d094a4a1094c1ce978",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-12-13)",
+            "type": 1,
+            "releaseDate": 1702435504043
+          },
+          {
+            "id": 185922,
+            "code": "c068a64d8fa349e7b072780c5872d269",
+            "title": "Binance Convert Adds 1000SATS",
+            "type": 1,
+            "releaseDate": 1702389060755
+          },
+          {
+            "id": 185738,
+            "code": "3016096ace174be381fa22b6636e2c5f",
+            "title": "Notice Regarding the Discontinuation of Russian Ruble (RUB) Support on Binance P2P",
+            "type": 1,
+            "releaseDate": 1702274404232
+          },
+          {
+            "id": 185620,
+            "code": "82fc6c31592041b19fa7c4c31316839e",
+            "title": "Binance Margin Launches Cross Margin Pro",
+            "type": 1,
+            "releaseDate": 1702023024286
+          },
+          {
+            "id": 185574,
+            "code": "a994bc0bc05a4ef18c21c1da43d2046c",
+            "title": "AEUR Spot Trading to Resume",
+            "type": 1,
+            "releaseDate": 1702015261888
+          },
+          {
+            "id": 185563,
+            "code": "0b24c5a0bc394a768d02e8f1863c17db",
+            "title": "“November Copy Trading” Activity Has Now Concluded",
+            "type": 1,
+            "releaseDate": 1702012202700
+          },
+          {
+            "id": 185511,
+            "code": "6153c0a187a1499299fc321c1e16b829",
+            "title": "Binance Convert Adds JTO",
+            "type": 1,
+            "releaseDate": 1702000804411
+          },
+          {
+            "id": 185481,
+            "code": "2e0e5c1a14224e1cb9174ccf35a21fbe",
+            "title": "Jito (JTO) Listing Will Be Postponed",
+            "type": 1,
+            "releaseDate": 1701963414873
+          },
+          {
+            "id": 185429,
+            "code": "1d52292eb00d414b8cbb78adc9b89a53",
+            "title": "Binance Web3 Wallet Completes Integration of Bitcoin, Bitcoin Cash, Litecoin, Dogecoin & Sei Networks",
+            "type": 1,
+            "releaseDate": 1701943204291
+          },
+          {
+            "id": 185403,
+            "code": "d2a7bc151a6e4611aa7ffb05c6bb8e15",
+            "title": "Binance Convert Adds VANRY",
+            "type": 1,
+            "releaseDate": 1701929405397
+          },
+          {
+            "id": 185348,
+            "code": "7a7eef8366b7459494e7b2f7d935dbad",
+            "title": "Updates on AEUR Spot Trading (2023-12-06)",
+            "type": 1,
+            "releaseDate": 1701850814832
+          },
+          {
+            "id": 185303,
+            "code": "5935ad8d32d144f7bf5a479bf0d4ac11",
+            "title": "Binance Adds FDUSD on Dual Investment",
+            "type": 1,
+            "releaseDate": 1701832503210
+          },
+          {
+            "id": 185249,
+            "code": "fbde402883544a1d942e95505a84b122",
+            "title": "AEUR Spot Trading Temporarily Suspended",
+            "type": 1,
+            "releaseDate": 1701802769399
+          },
+          {
+            "id": 185140,
+            "code": "be95aa0596c14bf49fc7533a586c9821",
+            "title": "Binance P2P Will Update Maker Fees for 14 Fiat Markets (2023-12-11)",
+            "type": 1,
+            "releaseDate": 1701748801891
+          },
+          {
+            "id": 185058,
+            "code": "3acc7bfda3c741bcbe3c1a0b8dbd64e9",
+            "title": "Binance Convert Adds AEUR",
+            "type": 1,
+            "releaseDate": 1701696014002
+          },
+          {
+            "id": 184983,
+            "code": "2f28eba0d19d46edbf47df0b87ca3f13",
+            "title": "Binance Extends Launchpool Rewards to Users with BNB Locked Products Positions",
+            "type": 1,
+            "releaseDate": 1701676802840
+          },
+          {
+            "id": 184936,
+            "code": "9972ee7df32144d099c78c7df39011a2",
+            "title": "Notice on the Withdrawals of Delisted Tokens & Conversion of Selected Tokens to USDT",
+            "type": 1,
+            "releaseDate": 1701666604715
+          },
+          {
+            "id": 184747,
+            "code": "4701f3d28a244d1f824aa05f009ddc40",
+            "title": "Binance Has Completed the Virtua (TVK) Token Swap and Rebranding to Vanar (VANRY)",
+            "type": 1,
+            "releaseDate": 1701421817427
+          },
+          {
+            "id": 184721,
+            "code": "da934102deeb4b87a3650636b6aa054c",
+            "title": "Notice Regarding the Removal of BTC & ETH From Binance DeFi Staking (2023-12-05)",
+            "type": 1,
+            "releaseDate": 1701406815962
+          },
+          {
+            "id": 184550,
+            "code": "07b718f561a247afb533c8c7b7fd90a3",
+            "title": "Binance Convert Adds BEAMX and VIC",
+            "type": 1,
+            "releaseDate": 1701318903817
+          },
+          {
+            "id": 184419,
+            "code": "1c98ce7bb464422dbbaeda7066ae445b",
+            "title": "Notice Regarding the Removal of BUSD and Conversion of BUSD to FDUSD",
+            "type": 1,
+            "releaseDate": 1701245603226
+          },
+          {
+            "id": 184393,
+            "code": "b46dfed310b9496fbf23946cfebd0bd3",
+            "title": "Binance Completes the Conversion of New Bitshares (NBS) Token Balances to USDT",
+            "type": 1,
+            "releaseDate": 1701241203413
+          },
+          {
+            "id": 184368,
+            "code": "efbf6e4598ee488eb3fbe887de22671e",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-11-29)",
+            "type": 1,
+            "releaseDate": 1701237603931
+          },
+          {
+            "id": 184294,
+            "code": "e7206c6f1e1c4c7b943c81fad4a73495",
+            "title": "Notice Regarding the Removal of Selected Liquidity Pools on Binance Liquid Swap (2023-12-06)",
+            "type": 1,
+            "releaseDate": 1701226813684
+          },
+          {
+            "id": 184155,
+            "code": "63e38e761f954727bf17d339e08cc03a",
+            "title": "Binance Launches OTC VIP Program",
+            "type": 1,
+            "releaseDate": 1701070202689
+          },
+          {
+            "id": 184003,
+            "code": "0491a610ab2d4ab3af6d15dce961c5ae",
+            "title": "Binance Has Completed the TomoChain (TOMO) Rebranding to Viction (VIC)",
+            "type": 1,
+            "releaseDate": 1700821802871
+          },
+          {
+            "id": 183976,
+            "code": "57c88525832747dfa6d94c7c886d751e",
+            "title": "Binance Convert Adds BLUR",
+            "type": 1,
+            "releaseDate": 1700819156644
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

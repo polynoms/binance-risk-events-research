@@ -1,0 +1,4 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+1000CHEEMS,9b7bd3558b791b76,SEED_TAG_ADDED,0.0007440000000000001,yes,yes,yes,yes,no,no,no
+1000SATS,a8f1073b97c72c99,SEED_TAG_ADDED,0.0005518,yes,yes,yes,yes,no,no,no
+1000WHY,44395bed70e6b38d,FUTURES_CONTRACT_DELISTING_ANNOUNCED,9.91653176944894e-06,yes,yes,no,no,no,no,no

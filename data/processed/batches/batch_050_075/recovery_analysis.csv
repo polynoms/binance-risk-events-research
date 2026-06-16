@@ -1,0 +1,11 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+ATA,c94c0613623769e6,MONITORING_TAG_ADDED,0.01170270272730118,yes,yes,yes,no,no,no,yes
+AUDIO,b84cf23756774b2e,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.17051513187387737,yes,yes,yes,no,no,no,no
+AVNT,400bdebef0cf9247,SEED_TAG_ADDED,1.2448,yes,yes,yes,yes,no,no,no
+AXL,989889acd0b31a72,SEED_TAG_ADDED,1.9738,yes,yes,yes,yes,no,no,no
+B3,db987c7ce0d4bd19,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.0003244376143511402,yes,no,no,no,no,no,no
+BADGER,05efae81cc940ff4,MONITORING_TAG_ADDED,3.322001364528214,yes,no,yes,no,no,no,yes
+BAKE,5c8137ecc69b6b61,MONITORING_TAG_ADDED,0.0898815801518636,yes,yes,yes,yes,no,no,no
+BAL,f19444577bbd2958,MONITORING_TAG_ADDED,2.7561075219663445,yes,yes,yes,no,no,no,yes
+BANK,09541c7c027b9222,SEED_TAG_ADDED,0.0543,yes,yes,yes,no,no,no,no
+BASE,56930619c799ad56,SEED_TAG_ADDED,nan,unknown,unknown,unknown,unknown,unknown,yes,no

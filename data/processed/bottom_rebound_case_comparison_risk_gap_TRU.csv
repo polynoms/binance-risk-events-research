@@ -1,0 +1,2 @@
+token_symbol,scenario,drawdown_to_bottom,max_rebound_after_bottom,tradable_signal_found,best_signal_type,signal_quality_score,tradeability_tier,stop_failed,max_adverse_excursion,max_favorable_excursion_7d,risk_reward_7d,manual_review_required,main_reason,notes
+TRU,MANUAL_REVIEW_REQUIRED,-0.7549029422452751,nan,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,

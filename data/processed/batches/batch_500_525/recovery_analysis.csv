@@ -1,0 +1,12 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+WTC,368a3d7cdf4b4eeb,MONITORING_TAG_ADDED,0.1631754753469903,yes,yes,yes,yes,no,no,no
+XCN,f465bf87e8b18492,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.005679479083933656,yes,no,no,no,no,no,no
+XEM,a956d4f5da81e55f,MONITORING_TAG_ADDED,0.026315910691478837,yes,yes,yes,yes,no,no,yes
+XMR,841a343b613e39f5,MONITORING_TAG_ADDED,163.49464438785722,yes,yes,yes,yes,no,no,yes
+XRP,8edc23ba75f31f66,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.6093051413446553,yes,yes,yes,yes,no,no,no
+YALA,95e90f22b3fe4b70,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.008263507363886763,yes,yes,yes,yes,no,no,no
+YFII,17d622fb9ec8aa71,SPOT_TOKEN_DELISTING_ANNOUNCED,598.9300084881687,yes,yes,yes,yes,no,no,yes
+ZAMA,bd7de9e709a5966b,SEED_TAG_ADDED,0.03539,yes,yes,no,no,no,no,no
+ZEC,0530e835539c12c2,MONITORING_TAG_ADDED,26.89902175179847,yes,yes,yes,yes,no,no,no
+ZEN,b2f582e4f6f3e84c,MONITORING_TAG_ADDED,8.926766091550448,yes,yes,yes,yes,no,no,no
+ZKJ,ad7b71b213542fa1,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.018436719458304655,yes,yes,yes,no,no,no,no

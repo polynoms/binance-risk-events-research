@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 221241,
+            "code": "7def5df3c1644d3da8a5b5f1700ba142",
+            "title": "Binance Wallet: Optimize Returns with the Revamped Yield+!",
+            "type": 1,
+            "releaseDate": 1734604203140
+          },
+          {
+            "id": 221244,
+            "code": "ac56a7249bcf4723a80b42821a088d33",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-12-19)",
+            "type": 1,
+            "releaseDate": 1734597012271
+          },
+          {
+            "id": 221231,
+            "code": "a373a20da4de43cca7b84a60e481f31b",
+            "title": "Binance Futures to Support BFUSD on Portfolio Margin Accounts",
+            "type": 1,
+            "releaseDate": 1734595216057
+          },
+          {
+            "id": 220907,
+            "code": "671f58fcd2e24ad8b3974130db384308",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) and VIP Loan - 2024-12-18",
+            "type": 1,
+            "releaseDate": 1734505205931
+          },
+          {
+            "id": 220934,
+            "code": "d2942143c5e342dc9490eeeca9b75343",
+            "title": "Updates on Pudgy Penguins (PENGU) Token Information",
+            "type": 1,
+            "releaseDate": 1734496201307
+          },
+          {
+            "id": 220877,
+            "code": "25d5f1d2e7d64afe930479efd202e146",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-12-18)",
+            "type": 1,
+            "releaseDate": 1734490802935
+          },
+          {
+            "id": 220732,
+            "code": "c6499e95c15e408ca44ca5f6db975d4d",
+            "title": "Introducing Binance Alpha: Discover Emerging Crypto Projects",
+            "type": 1,
+            "releaseDate": 1734433201582
+          },
+          {
+            "id": 220765,
+            "code": "6b72121be6784033adf66af0a0e94ac4",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-12-17)",
+            "type": 1,
+            "releaseDate": 1734429603506
+          },
+          {
+            "id": 220728,
+            "code": "33f987f6c2f8462f8c9117380780d71c",
+            "title": "Binance Futures Updates BFUSD Maximum Holding Limits - 2024-12-17",
+            "type": 1,
+            "releaseDate": 1734418805986
+          },
+          {
+            "id": 220618,
+            "code": "92f1b2bc5caf461f81a95fe6ebe9045f",
+            "title": "Vana (VANA) Listing Will Be Postponed",
+            "type": 1,
+            "releaseDate": 1734342315261
+          },
+          {
+            "id": 220563,
+            "code": "df3bce847c8345b4b8f0030106f61327",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin (2024-12-17)",
+            "type": 1,
+            "releaseDate": 1734336017287
+          },
+          {
+            "id": 220195,
+            "code": "ec6e90659e9b4637bdcb72279f70b318",
+            "title": "Binance Margin: Important Updates on Cross Margin Pro",
+            "type": 1,
+            "releaseDate": 1734076800000
+          },
+          {
+            "id": 220113,
+            "code": "6995f8a0de1b4945a36e42a580eb652c",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-12-12)",
+            "type": 1,
+            "releaseDate": 1733995804368
+          },
+          {
+            "id": 220022,
+            "code": "bcedf4a5b9b84cffb98b04b462d4ef8e",
+            "title": "Introducing WOO (WOO) on BNSOL Super Stake: HODL BNSOL to Get WOO APR Boost Airdrop Rewards",
+            "type": 1,
+            "releaseDate": 1733972401993
+          },
+          {
+            "id": 219924,
+            "code": "76800beea6d6459d902e9f5dcc486c01",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-12-11)",
+            "type": 1,
+            "releaseDate": 1733908504328
+          },
+          {
+            "id": 219894,
+            "code": "9b497d68c8af486c813528ff7319bdfc",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) and VIP Loan - 2024-12-11",
+            "type": 1,
+            "releaseDate": 1733893218389
+          },
+          {
+            "id": 219869,
+            "code": "ff48d090d69e462d86f27050625f4f5e",
+            "title": "Babylon BTC Staking Round II: Stake BTC and Earn an Additional 12% Points Boost",
+            "type": 1,
+            "releaseDate": 1733889607515
+          },
+          {
+            "id": 219841,
+            "code": "2c3571539e824a08ab883870674d0a60",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-12-11)",
+            "type": 1,
+            "releaseDate": 1733886005251
+          },
+          {
+            "id": 219449,
+            "code": "ced2f229911c445b8541e01fe169653b",
+            "title": "Launching the $5M Airdrop Carnival: Experience the Revamped Binance Wallet via the Largest Airdrop Platform",
+            "type": 1,
+            "releaseDate": 1733817600000
+          },
+          {
+            "id": 219593,
+            "code": "41bd87af5772450f948181eb4b9504fb",
+            "title": "Binance Pool Supports Luckycoin (LKY) Merged Mining with Zero Fees",
+            "type": 1,
+            "releaseDate": 1733810401571
+          },
+          {
+            "id": 219596,
+            "code": "4ee88af1c2ab4cec9b5f66d0a57a6147",
+            "title": "Binance Upgrades Binance Loans (Flexible Rate) (2024-12-10)",
+            "type": 1,
+            "releaseDate": 1733799602853
+          },
+          {
+            "id": 219569,
+            "code": "064513c6458f42bcb99b2779cc031284",
+            "title": "Binance x CR7 'ForeverSkills' Digital Collectibles Are Now Available",
+            "type": 1,
+            "releaseDate": 1733792401775
+          },
+          {
+            "id": 219279,
+            "code": "4cdde0518d1644c898df0d40080497a2",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M and COIN-M Perpetual Contracts (2024-12-06)",
+            "type": 1,
+            "releaseDate": 1733475608997
+          },
+          {
+            "id": 219268,
+            "code": "0bb68382f3404f8195b9e3cfc96683c9",
+            "title": "Binance P2P Launches Merchant Program Upgrade",
+            "type": 1,
+            "releaseDate": 1733468703352
+          },
+          {
+            "id": 219153,
+            "code": "589b18e844dc48538c7340353186d939",
+            "title": "Binance Earn Introduces On-chain Yields with the Launch of Babylon BTC Staking",
+            "type": 1,
+            "releaseDate": 1733392802465
+          },
+          {
+            "id": 219149,
+            "code": "4576fbdd044d4622abffa646dd5ccddf",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-12-05)",
+            "type": 1,
+            "releaseDate": 1733389204331
+          },
+          {
+            "id": 218984,
+            "code": "5d01d150a01a44518724954f3a2bc087",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-12-04)",
+            "type": 1,
+            "releaseDate": 1733281201554
+          },
+          {
+            "id": 218918,
+            "code": "fcee25ef75d64e98973ced3b94d07883",
+            "title": "Binance Futures Updates BFUSD Maximum Holding Limits",
+            "type": 1,
+            "releaseDate": 1733209211937
+          },
+          {
+            "id": 218823,
+            "code": "05fa530cef83458b8bbaca686b6b2bf5",
+            "title": "Binance Launches 'ForeverSkills' Digital Collectibles with Cristiano Ronaldo",
+            "type": 1,
+            "releaseDate": 1733133628774
+          },
+          {
+            "id": 218699,
+            "code": "e49c75e3256b466ab4dba95884013c3e",
+            "title": "Notice on the New Adjustments for P2P Merchants in the TWD Market",
+            "type": 1,
+            "releaseDate": 1732877165902
+          },
+          {
+            "id": 218674,
+            "code": "0d330d9e556e44c68dacbc902306c907",
+            "title": "Updates on Tick Size for 1000WHYUSDT and 1000CHEEMSUSDT USDⓈ-M Perpetual Futures Contracts (2024-11-29)",
+            "type": 1,
+            "releaseDate": 1732856401367
+          },
+          {
+            "id": 218576,
+            "code": "99e2b338aa4d4d74b6398e7eca073420",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-11-28)",
+            "type": 1,
+            "releaseDate": 1732784403575
+          },
+          {
+            "id": 218521,
+            "code": "354dedf8735e44609aae2908fdc1750b",
+            "title": "Introducing Pyth Network (PYTH) on BNSOL Super Stake: HODL BNSOL to Get PYTH APR Boost Airdrop Rewards",
+            "type": 1,
+            "releaseDate": 1732779004520
+          },
+          {
+            "id": 218495,
+            "code": "51bb9a7a59d2472cbd0c2b3ff38fe9bd",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin (2024-11-29)",
+            "type": 1,
+            "releaseDate": 1732762801185
+          },
+          {
+            "id": 218373,
+            "code": "1084deb9173648cf81763e70099d2039",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-11-27)",
+            "type": 1,
+            "releaseDate": 1732680016474
+          },
+          {
+            "id": 218349,
+            "code": "8a4a0a76026a472b841162860d10d8cd",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2024-11-28)",
+            "type": 1,
+            "releaseDate": 1732672802839
+          },
+          {
+            "id": 218251,
+            "code": "ae1cf52d7acb44fd8d01ba73bc6a01fc",
+            "title": "Binance Introduces BFUSD: Enjoy Zero-Fee at Purchase and Share 100,000 USDT in Bonus APY and Token Vouchers!",
+            "type": 1,
+            "releaseDate": 1732606203440
+          },
+          {
+            "id": 218185,
+            "code": "7803d494fa654f749fbc0a22a17372e3",
+            "title": "Binance to Extend the Self-Trade Prevention (STP) Function to All Binance Futures Users (2024-12-10)",
+            "type": 1,
+            "releaseDate": 1732525201422
+          },
+          {
+            "id": 218137,
+            "code": "3cd97eee62f24187a5c4aee497b3424a",
+            "title": "Binance Completes Integration of Cyber (CYBER) Mainnet",
+            "type": 1,
+            "releaseDate": 1732507237384
+          },
+          {
+            "id": 218010,
+            "code": "1d095230f1ec462fbb6a73b77e6afd7a",
+            "title": "Binance Launches Official Binance Channel on WhatsApp, Verified by Meta",
+            "type": 1,
+            "releaseDate": 1732194003267
+          },
+          {
+            "id": 217942,
+            "code": "c6607745eae64eecb685944cc526d4b1",
+            "title": "Binance Adds WOO on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1732168802133
+          },
+          {
+            "id": 217807,
+            "code": "510e7ec515cc40b3a3bc4136e5e70165",
+            "title": "New Loanable Asset Available on Binance Loans (Flexible Rate) and VIP Loan - 2024-11-20",
+            "type": 1,
+            "releaseDate": 1732082443038
+          },
+          {
+            "id": 217780,
+            "code": "b8a3c3420f6d485683c6be63d8498ba0",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-11-20)",
+            "type": 1,
+            "releaseDate": 1732075202054
+          },
+          {
+            "id": 217681,
+            "code": "2766181be07e49748736810996554c47",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-11-19)",
+            "type": 1,
+            "releaseDate": 1732003203182
+          },
+          {
+            "id": 217599,
+            "code": "7ee990308bbe4017ae406fd0e7f90d72",
+            "title": "Binance Pool Supports New Merged Mining: Mine BTC and Earn Rewards in Fractal Bitcoin (FB)",
+            "type": 1,
+            "releaseDate": 1731913201453
+          },
+          {
+            "id": 217233,
+            "code": "0dc37e5073504db2968a5c3e9b2655fa",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-11-13)",
+            "type": 1,
+            "releaseDate": 1731488437844
+          },
+          {
+            "id": 217205,
+            "code": "88f8ce25ed094dbbac00b8c7481b18e8",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-11-13)",
+            "type": 1,
+            "releaseDate": 1731468606329
+          },
+          {
+            "id": 217038,
+            "code": "c178899ac5614333bf50d35cf5ff8b81",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-11-11)",
+            "type": 1,
+            "releaseDate": 1731315620315
+          },
+          {
+            "id": 217005,
+            "code": "80dbb53c209a494989fe59ff2b3ef4a9",
+            "title": "Binance Dual Investment Supports WBETH, BNSOL, and SUI",
+            "type": 1,
+            "releaseDate": 1731308435200
+          },
+          {
+            "id": 216997,
+            "code": "313c4f68727e4efab2a2751e3791c68e",
+            "title": "Binance Futures Copy Trading Adjust the Cooling Period for Lead Trader Portfolios",
+            "type": 1,
+            "releaseDate": 1731304829460
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

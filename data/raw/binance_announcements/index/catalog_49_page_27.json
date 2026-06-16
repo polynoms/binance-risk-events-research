@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 176692,
+            "code": "7ded5e3be3544a4f8438a5771aa38811",
+            "title": "New Dual Investment Products Launched (2023-09-12)",
+            "type": 1,
+            "releaseDate": 1694489706403
+          },
+          {
+            "id": 176603,
+            "code": "f0dcb5d06d3a48aaa6f40d04b1a090a4",
+            "title": "Binance Futures Will Update the Leverage, Margin Tiers and Capped Funding Rate Multiplier of USDⓈ-M PERPUSDT Perpetual Contract",
+            "type": 1,
+            "releaseDate": 1694316732440
+          },
+          {
+            "id": 176512,
+            "code": "23b580ab0b224347ae50e68bf76647f7",
+            "title": "Binance Upgrades Options Market Maker Program (2023-09-08)",
+            "type": 1,
+            "releaseDate": 1694167242488
+          },
+          {
+            "id": 176481,
+            "code": "accd8386f2b64a27a880894437c76089",
+            "title": "Binance NFT: Important Updates on The Sandbox NFT Staking Program and Polygon Network Support",
+            "type": 1,
+            "releaseDate": 1694163605242
+          },
+          {
+            "id": 176441,
+            "code": "019f394b8ad34fafaf33d1afe2de5bef",
+            "title": "Binance Futures Will Update the Leverage, Margin Tiers and Capped Funding Rate Multiplier of USDⓈ-M UNFIUSDT and TRBUSDT Perpetual Contracts",
+            "type": 1,
+            "releaseDate": 1694151603474
+          },
+          {
+            "id": 176391,
+            "code": "3b2317d533e848958499ba0043653364",
+            "title": "Notice Regarding CYBER Simple Earn Flexible Products",
+            "type": 1,
+            "releaseDate": 1694089658664
+          },
+          {
+            "id": 176355,
+            "code": "ee1c87b20f2248618446bf21d72556ed",
+            "title": "Binance Completes Integration of Ethereum (ETH) on zkSync Era Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1694076313926
+          },
+          {
+            "id": 176358,
+            "code": "e5ae884b7d1e413fb5fcf5f851b1a30d",
+            "title": "Binance Opens XIRTAM Refund Claims for Victims",
+            "type": 1,
+            "releaseDate": 1694056802011
+          },
+          {
+            "id": 176324,
+            "code": "11de1dd96b694f7b904ed99fa1fa1ec6",
+            "title": "Binance Completes Integration of USD Coin (USDC) on Optimism Network, Opens Deposits",
+            "type": 1,
+            "releaseDate": 1693998003630
+          },
+          {
+            "id": 176306,
+            "code": "162aa1b09e1646ab93ebe3dd005d6797",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-09-06)",
+            "type": 1,
+            "releaseDate": 1693980911141
+          },
+          {
+            "id": 176206,
+            "code": "78c2d897e2eb41a48d7a8c7484fe6876",
+            "title": "Updates on the Funding Rate Settlement Frequency of USDⓈ-M BLZUSDT Perpetual Contract (2023-09-05)",
+            "type": 1,
+            "releaseDate": 1693936896106
+          },
+          {
+            "id": 176187,
+            "code": "9541c2046a5a4876bebfe2a18bb60422",
+            "title": "Updates on Leverage, Margin Tiers, Funding Rate Settlement Frequency and Capped Funding Rate Multiplier of USDⓈ-M FLMUSDT Perpetual Contract (2023-09-05)",
+            "type": 1,
+            "releaseDate": 1693935003342
+          },
+          {
+            "id": 176119,
+            "code": "1ff41041422a47dcae1f495563aa6113",
+            "title": "Binance Has Completed the Travala.com (AVA) Contract Swap and Rebranding Plan to AVA (AVA)",
+            "type": 1,
+            "releaseDate": 1693886412659
+          },
+          {
+            "id": 176097,
+            "code": "12cdb9f41c6948d98e969d10e78d7909",
+            "title": "New Dual Investment Products Launched (2023-09-05)",
+            "type": 1,
+            "releaseDate": 1693880434928
+          },
+          {
+            "id": 176036,
+            "code": "f098594277374b699db6d70846f48af9",
+            "title": "Binance Completes Integration of Maverick Protocol (MAV) on BNB Smart Chain, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1693800603043
+          },
+          {
+            "id": 175998,
+            "code": "9bd5ad1119a047f4bd2f6a5e2ffede74",
+            "title": "Updates on Leverage, Margin Tiers, Funding Rate Settlement Frequency and Capped Funding Rate Multiplier of USDⓈ-M NMRUSDT Perpetual Contract (2023-09-02)",
+            "type": 1,
+            "releaseDate": 1693661935789
+          },
+          {
+            "id": 175981,
+            "code": "a8d06b87a6b940d2b684d0faa34c7b67",
+            "title": "Updates on Leverage, Margin Tiers, Funding Rate Settlement Frequency and Capped Funding Rate Multiplier of USDⓈ-M CYBERUSDT Perpetual Contract (2023-09-02)",
+            "type": 1,
+            "releaseDate": 1693644337616
+          },
+          {
+            "id": 175937,
+            "code": "4d8f21c1cd58497280935e309644c6fe",
+            "title": "FDUSD Flexible Products: Enjoy 6% Bonus Tiered APR in Rewards Now!",
+            "type": 1,
+            "releaseDate": 1693555209776
+          },
+          {
+            "id": 175889,
+            "code": "86073b843fac43f8a1df58936a8ab9ae",
+            "title": "Binance Pool Launches Ordinals Inscription Service",
+            "type": 1,
+            "releaseDate": 1693475719432
+          },
+          {
+            "id": 172143,
+            "code": "d392843e81fd4bc3a5f7e219aa01f34d",
+            "title": "Binance Encourages Users to Convert BUSD to Other Stablecoins Prior to February 2024",
+            "type": 1,
+            "releaseDate": 1693468801622
+          },
+          {
+            "id": 175838,
+            "code": "84e6d7df84b04d6180a267385d0a0862",
+            "title": "Important Updates on BETH and WBETH",
+            "type": 1,
+            "releaseDate": 1693458003423
+          },
+          {
+            "id": 175802,
+            "code": "b2e97fb3415f4f51a7175782242165d8",
+            "title": "Updates on Leverage, Margin Tiers, Funding Rate Settlement Frequency and Capped Funding Rate Multiplier of USDⓈ-M CYBERUSDT Perpetual Contract (2023-08-31)",
+            "type": 1,
+            "releaseDate": 1693450913012
+          },
+          {
+            "id": 175523,
+            "code": "7c7d09a5a4d84f1fb2abef1909c74af4",
+            "title": "Limited-Time Offer: Enjoy Lower Requirements for the Binance P2P Merchant Program!",
+            "type": 1,
+            "releaseDate": 1693396105302
+          },
+          {
+            "id": 175501,
+            "code": "71231fa8ac8f4bab8d8d5308aec9174e",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-08-30)",
+            "type": 1,
+            "releaseDate": 1693387206693
+          },
+          {
+            "id": 175410,
+            "code": "f92cfbf3dca54f36af85b740ea73f137",
+            "title": "Binance Will Support the Chiliz (CHZ) 2.0 Mainnet Integration and Swap",
+            "type": 1,
+            "releaseDate": 1693367405752
+          },
+          {
+            "id": 175326,
+            "code": "46de0e67782644cfa7ab21c8b98c7214",
+            "title": "New Dual Investment Products Launched (2023-08-29)",
+            "type": 1,
+            "releaseDate": 1693277135132
+          },
+          {
+            "id": 175308,
+            "code": "e13e47ef114d4a6ba18c6fcaf7a2afbb",
+            "title": "Binance Will Open the Portfolio Margin Program to VIP 1-9 Users (2023-08-30)",
+            "type": 1,
+            "releaseDate": 1693221902684
+          },
+          {
+            "id": 175237,
+            "code": "8b8e3721bc804c618c563e40cbe1ee2e",
+            "title": "Notice Regarding the Removal of Selected Liquidity Pools on Binance Liquid Swap (2023-09-01)",
+            "type": 1,
+            "releaseDate": 1693195203098
+          },
+          {
+            "id": 175220,
+            "code": "b41f816705da4f70b104c7cb9b755102",
+            "title": "Binance Futures Will Update the Leverage, Margin Tiers and Capped Funding Rate Multiplier of USDⓈ-M AMBUSDT Perpetual Contract",
+            "type": 1,
+            "releaseDate": 1693192203272
+          },
+          {
+            "id": 175160,
+            "code": "27971d78ed084de09ecc941e63751190",
+            "title": "New Loanable Assets Available on Flexible Loan & VIP Loan (2023-08-25)",
+            "type": 1,
+            "releaseDate": 1692933366924
+          },
+          {
+            "id": 175079,
+            "code": "6cfee1cce4774abb80d517e1ec2c646b",
+            "title": "Notice on the Removal of Trading Bots Services from Selected Spot Trading Pairs - 2023-08-31",
+            "type": 1,
+            "releaseDate": 1692854416193
+          },
+          {
+            "id": 175051,
+            "code": "9f438c4249ff45deb34cb9f727f99f83",
+            "title": "Updates on Zero-Fee Bitcoin Trading (2023-09-07)",
+            "type": 1,
+            "releaseDate": 1692849648993
+          },
+          {
+            "id": 175025,
+            "code": "f2abc33b6b2c4b1489173a077f883277",
+            "title": "Binance Will Support the Travala.com (AVA) Contract Swap and Rebranding Plan to AVA (AVA)",
+            "type": 1,
+            "releaseDate": 1692846310311
+          },
+          {
+            "id": 174997,
+            "code": "c4706c73b805423a8d36be948e297603",
+            "title": "Updates on Minimum Order Size for Spot and Margin Trading Pairs (2023-08-31)",
+            "type": 1,
+            "releaseDate": 1692842703623
+          },
+          {
+            "id": 174978,
+            "code": "c95f486d6d444d5399049cfd24e08bb4",
+            "title": "Call for F1 Enthusiasts: Design Pierre Gasly's Helmet for Abu Dhabi Grand Prix 2023!",
+            "type": 1,
+            "releaseDate": 1692799205019
+          },
+          {
+            "id": 174932,
+            "code": "8764f0d84e6b4c7abc97f036bb6f9ebc",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2023-08-29)",
+            "type": 1,
+            "releaseDate": 1692788106849
+          },
+          {
+            "id": 174879,
+            "code": "3d615328df424fa3a8f83829f7ee0454",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-08-23)",
+            "type": 1,
+            "releaseDate": 1692772503090
+          },
+          {
+            "id": 174861,
+            "code": "c91d782f8dcc4232b00104ab1b523880",
+            "title": "VIP Loan Launches Online Application for Flexible Rate and Open Term Loans",
+            "type": 1,
+            "releaseDate": 1692759934187
+          },
+          {
+            "id": 174763,
+            "code": "577b832fd2a441069920fa7385abf19b",
+            "title": "New Dual Investment Products Launched (2023-08-22)",
+            "type": 1,
+            "releaseDate": 1692673528973
+          },
+          {
+            "id": 174707,
+            "code": "1c44d50fad1e48f7b6ceadd86a941355",
+            "title": "Binance Options Trading Resumed",
+            "type": 1,
+            "releaseDate": 1692630165893
+          },
+          {
+            "id": 174661,
+            "code": "b16de75b7f594c1e92faf2ed092b23c7",
+            "title": "Notice on Binance Options Temporary System Maintenance",
+            "type": 1,
+            "releaseDate": 1692622967331
+          },
+          {
+            "id": 174629,
+            "code": "3d28208d0325483f875e59c8ad988f52",
+            "title": "Notice Regarding the Ongoing Conversion of Old Tokens (2023-08-21)",
+            "type": 1,
+            "releaseDate": 1692592802138
+          },
+          {
+            "id": 174602,
+            "code": "4061da077e0d4bbabddfff9c69c0d8cc",
+            "title": "Binance Completes Integrations of PancakeSwap (CAKE) on Ethereum Network and Kyber Network (KNC) on Polygon Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1692586802680
+          },
+          {
+            "id": 174534,
+            "code": "af63cc697f464426a9cd3abd18f22391",
+            "title": "Notice on Converting New Bitshares (NBS) Token Balances to USDT",
+            "type": 1,
+            "releaseDate": 1692335102918
+          },
+          {
+            "id": 174318,
+            "code": "7a9c41a1dc664eb9aef7e3ddd296267d",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-08-16)",
+            "type": 1,
+            "releaseDate": 1692178205392
+          },
+          {
+            "id": 174254,
+            "code": "d363343ee91b44d19ffef8c23b769251",
+            "title": "New Dual Investment Products Launched (2023-08-16)",
+            "type": 1,
+            "releaseDate": 1692159002810
+          },
+          {
+            "id": 174214,
+            "code": "36995f0dd925451b999879eef52ed1e7",
+            "title": "New Loanable Assets and Collateral Assets Available on Flexible Loan & VIP Loan (2023-08-16)",
+            "type": 1,
+            "releaseDate": 1692151863206
+          },
+          {
+            "id": 174187,
+            "code": "b3c4596a066b44ea9968d866c93b8ed7",
+            "title": "Binance Convert Adds SEI and CYBER",
+            "type": 1,
+            "releaseDate": 1692103802521
+          },
+          {
+            "id": 174132,
+            "code": "1807a72dd8fb42dbaf199f7326bba1b9",
+            "title": "Binance P2P Adds Support for FDUSD",
+            "type": 1,
+            "releaseDate": 1692072331182
+          },
+          {
+            "id": 174022,
+            "code": "ec448dc132844b40babcb87414f6d233",
+            "title": "Updates on Leverage, Margin Tiers and Funding Rate Settlement Frequency of USDⓈ-M BLZUSDT Perpetual Contract (2023-08-14)",
+            "type": 1,
+            "releaseDate": 1692005736967
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

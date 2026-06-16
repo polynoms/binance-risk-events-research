@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 210147,
+            "code": "7109225c68ab4097a588e03891b8f67a",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) and VIP Loan - 2024-09-04",
+            "type": 1,
+            "releaseDate": 1725426023514
+          },
+          {
+            "id": 210121,
+            "code": "72d588aecee444529333cf9f45b2515f",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-09-04)",
+            "type": 1,
+            "releaseDate": 1725418807024
+          },
+          {
+            "id": 209952,
+            "code": "e7f46d8da36e4598bfc22b36219627d6",
+            "title": "Binance Adds TON on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1725336005075
+          },
+          {
+            "id": 209896,
+            "code": "c75f318e03614425a5749c914ed9444a",
+            "title": "Binance Continues to Serve South African Derivative Users",
+            "type": 1,
+            "releaseDate": 1725270065851
+          },
+          {
+            "id": 209870,
+            "code": "b9fad723c9c64240801d0e11dd77faa8",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin (2024-09-03)",
+            "type": 1,
+            "releaseDate": 1725265801995
+          },
+          {
+            "id": 209790,
+            "code": "ab9d973234b340bfbb330231364da868",
+            "title": "Binance Completes Integration of Coin98 (C98) on Viction Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1725247803249
+          },
+          {
+            "id": 209741,
+            "code": "44a4e7c3fac741a49ea88dbc339ab137",
+            "title": "Word of the Day: Test Your Knowledge on “Know Your Scam” to Earn Binance Points and More!",
+            "type": 1,
+            "releaseDate": 1725243101454
+          },
+          {
+            "id": 209739,
+            "code": "ce5e2349c5014f31a8c994aca0e15235",
+            "title": "Binance P2P Launches Merchant Ambassador Program",
+            "type": 1,
+            "releaseDate": 1725238800000
+          },
+          {
+            "id": 209710,
+            "code": "65f69bc68ca64182b6df3d958f14f38e",
+            "title": "Binance Has Completed the Frontier (FRONT) Token Swap and Rebranding to Self Chain (SLF)",
+            "type": 1,
+            "releaseDate": 1725012003261
+          },
+          {
+            "id": 209653,
+            "code": "97163cc5d03648948a2aaf8e9e9347ad",
+            "title": "FDUSD Locked Products Limited Offer: Complete Subscription to Enjoy 15.9% Fixed APR!",
+            "type": 1,
+            "releaseDate": 1724994001594
+          },
+          {
+            "id": 209596,
+            "code": "7050603ab615402e8b2e6239b35bc197",
+            "title": "EURI Simple Earn Products: Complete Subscription to Enjoy Up to 7% APR!",
+            "type": 1,
+            "releaseDate": 1724986804820
+          },
+          {
+            "id": 209421,
+            "code": "909f18e513f848d2aa5152eb620ce0a9",
+            "title": "Binance Adds Eurite (EURI) on Convert and “Buy Crypto”",
+            "type": 1,
+            "releaseDate": 1724842802379
+          },
+          {
+            "id": 209393,
+            "code": "6a6de383727f4659a3050f7982e1620f",
+            "title": "Binance Will Support the Polygon (MATIC) Token Swap to Polygon (POL)",
+            "type": 1,
+            "releaseDate": 1724835607402
+          },
+          {
+            "id": 209311,
+            "code": "0ca7613f87cf4ebb82c30a747c22f740",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) and VIP Loan - 2024-08-28",
+            "type": 1,
+            "releaseDate": 1724821201317
+          },
+          {
+            "id": 209285,
+            "code": "995ccfa758c047598ef2aa9a85efbf3b",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-08-28)",
+            "type": 1,
+            "releaseDate": 1724817601865
+          },
+          {
+            "id": 209172,
+            "code": "1b55bb0360064c41b24c64e38fc8eb95",
+            "title": "Binance Margin Trading System Upgrade Notice (2024-08-28)",
+            "type": 1,
+            "releaseDate": 1724749203917
+          },
+          {
+            "id": 209169,
+            "code": "194e244a94e9416cb400318dbed2f4b9",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-08-27)",
+            "type": 1,
+            "releaseDate": 1724747404962
+          },
+          {
+            "id": 209111,
+            "code": "eb09a0d5617143f982cf3901ad3bdcc3",
+            "title": "Binance Adds G on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1724734803710
+          },
+          {
+            "id": 209084,
+            "code": "fa79d2c5158345f090d6efba1ad19486",
+            "title": "Binance Completes Integration of Yield Guild Games (YGG) on Ronin Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1724727602550
+          },
+          {
+            "id": 209013,
+            "code": "6311b67d26804bf48c5d62f5beb91202",
+            "title": "Binance Updates Spot Liquidity Provider Program (2024-09-09)",
+            "type": 1,
+            "releaseDate": 1724662812833
+          },
+          {
+            "id": 208902,
+            "code": "9baa3ddb869e44b3baa1dee2e37751de",
+            "title": "Binance Square Will Extend “Write to Earn”: Post Content on Binance Square to Earn Up to 30% Trading Fee Commissions!",
+            "type": 1,
+            "releaseDate": 1724652006922
+          },
+          {
+            "id": 208903,
+            "code": "b194372fc7e0452cab14902e1fdb3dd6",
+            "title": "Updates on Binance Loans Stable Rate Services (2024-09-02)",
+            "type": 1,
+            "releaseDate": 1724648409400
+          },
+          {
+            "id": 208742,
+            "code": "572598a13c384de6aa3c4d4dc1be5f81",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-08-22)",
+            "type": 1,
+            "releaseDate": 1724320813751
+          },
+          {
+            "id": 208689,
+            "code": "82b442b8fae64170adef783b5fb29f53",
+            "title": "Binance Adds NOT on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1724302809364
+          },
+          {
+            "id": 208567,
+            "code": "fb7109175ca144c49ff569dca7e147c5",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-08-21)",
+            "type": 1,
+            "releaseDate": 1724209203275
+          },
+          {
+            "id": 208395,
+            "code": "1b7fb158df5c4b37b987e0d38e32d208",
+            "title": "Binance Will Support the Cosmos (ATOM) and Kadena (KDA) Network Upgrades & Hard Forks",
+            "type": 1,
+            "releaseDate": 1724119203081
+          },
+          {
+            "id": 208241,
+            "code": "3ab5488a00e04d4fb338c77ea28326a8",
+            "title": "Binance Will Support the Frontier (FRONT) Token Swap and Rebranding to Self Chain (SLF)",
+            "type": 1,
+            "releaseDate": 1724065220299
+          },
+          {
+            "id": 207936,
+            "code": "7858ad40a8ab43db8d1cc5f966e65d88",
+            "title": "Toncoin (TON) Super Earn: Subscribe to TON Locked Products to Earn Special APR (Limited-Time Only)",
+            "type": 1,
+            "releaseDate": 1723703402605
+          },
+          {
+            "id": 207813,
+            "code": "a9f15258090045c49f62d5a8aca5ab38",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-08-14)",
+            "type": 1,
+            "releaseDate": 1723604402350
+          },
+          {
+            "id": 207646,
+            "code": "703a10233c0740c89a13ce32b1ae0a4f",
+            "title": "Binance Spot and Margin Trading System Upgrade Notice (2024-08-14)",
+            "type": 1,
+            "releaseDate": 1723449603528
+          },
+          {
+            "id": 207595,
+            "code": "9ec5cabbc8974a1c8890e1c9d87a98a7",
+            "title": "Notice on the Withdrawals of Delisted Tokens & Conversion of Selected Tokens to USDC (2024-08-12)",
+            "type": 1,
+            "releaseDate": 1723442400000
+          },
+          {
+            "id": 207582,
+            "code": "e978605d5d1e428d9f4c406c06bf3542",
+            "title": "FDUSD Locked Products Limited Offer: Complete Subscription to Enjoy 19.9% Fixed APR!",
+            "type": 1,
+            "releaseDate": 1723435204511
+          },
+          {
+            "id": 207557,
+            "code": "d6929b4653af41caacd4e7e572ff4052",
+            "title": "Binance Has Completed the Sei (SEI) EVM Integration",
+            "type": 1,
+            "releaseDate": 1723431608758
+          },
+          {
+            "id": 207322,
+            "code": "df98cddd3b8742afa11daeed58a6d124",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-08-07)",
+            "type": 1,
+            "releaseDate": 1723003208746
+          },
+          {
+            "id": 207263,
+            "code": "19d4e3cd0758426584dd9686eb56ec64",
+            "title": "Notice on Upcoming Binance API Update (2024-09-03)",
+            "type": 1,
+            "releaseDate": 1722927604168
+          },
+          {
+            "id": 207219,
+            "code": "2c161ebe662a41edbd1233f76fcc7c08",
+            "title": "Binance Introduces Limited-Time Zero Maker Fee for VIP 6 to VIP 8 on USDⓢ-Margined Futures (2024-08-07)",
+            "type": 1,
+            "releaseDate": 1722853903117
+          },
+          {
+            "id": 207227,
+            "code": "e6ba732915584ef494a735d66f1eacd5",
+            "title": "Binance Spot and Margin to Postpone Trading System Upgrade (2024-08-06)",
+            "type": 1,
+            "releaseDate": 1722852003342
+          },
+          {
+            "id": 207224,
+            "code": "50dbbb5dc90f486c8ced3ba1a2400632",
+            "title": "Binance P2P Adds Support for New Trading Pairs in Selected Fiat Zones Across Africa",
+            "type": 1,
+            "releaseDate": 1722846994118
+          },
+          {
+            "id": 207174,
+            "code": "30b04a8d8c7b4d51a974c6ba094f2f92",
+            "title": "Binance Pay to Move Away from Pay ID Gradually",
+            "type": 1,
+            "releaseDate": 1722826802703
+          },
+          {
+            "id": 207150,
+            "code": "97a3657b609a4376b1ac2cea4ea3d799",
+            "title": "Binance Pool Launches KASPA (KAS) Mining Pool: Enjoy Zero Pool Fees With KAS Mining!",
+            "type": 1,
+            "releaseDate": 1722823201388
+          },
+          {
+            "id": 207057,
+            "code": "365375ab9cda445aa025c51bbaeea88e",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-08-02)",
+            "type": 1,
+            "releaseDate": 1722582002492
+          },
+          {
+            "id": 207034,
+            "code": "be7fc4800bd54aac8f77501300aeb728",
+            "title": "Important Updates to Binance Margin Liquidation Fees (2024-08-12)",
+            "type": 1,
+            "releaseDate": 1722564017729
+          },
+          {
+            "id": 206983,
+            "code": "69e1b950222f4f8d930590d1ad50da6c",
+            "title": "Binance Spot and Margin Trading System Upgrade Notice (2024-08-06)",
+            "type": 1,
+            "releaseDate": 1722517206931
+          },
+          {
+            "id": 206808,
+            "code": "68c0920a55cc4221942d363435a96385",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) and VIP Loan - 2024-07-31",
+            "type": 1,
+            "releaseDate": 1722402004015
+          },
+          {
+            "id": 206792,
+            "code": "a11d963e096d42618621ae44c757dfa3",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-07-31)",
+            "type": 1,
+            "releaseDate": 1722394803771
+          },
+          {
+            "id": 206729,
+            "code": "7e645f7eb329442f9ce6bb03711f0fcd",
+            "title": "Binance Launchpool Supports DeFi BNB Assets in Binance Web3 Wallet",
+            "type": 1,
+            "releaseDate": 1722334421122
+          },
+          {
+            "id": 206694,
+            "code": "3f0978bcf69643aeb29424d45c9b810c",
+            "title": "Binance Will Update The Collateral Ratio of Multiple Assets Under Portfolio Margin (2024-07-30)",
+            "type": 1,
+            "releaseDate": 1722222001693
+          },
+          {
+            "id": 206669,
+            "code": "a02816b4a68b42eb977f9b91df6a7b52",
+            "title": "Binance 7YA Product Guides Study Week Has Now Concluded",
+            "type": 1,
+            "releaseDate": 1721988005345
+          },
+          {
+            "id": 206607,
+            "code": "7aa2bb48ab194bb9aebbc3f72b5819ed",
+            "title": "Binance Has Completed the Render (RNDR) Token Swap and Rebranding to Render (RENDER)",
+            "type": 1,
+            "releaseDate": 1721984401324
+          },
+          {
+            "id": 206575,
+            "code": "d3c4a6ba91b247799bb0a57ad9749633",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-07-25)",
+            "type": 1,
+            "releaseDate": 1721899806378
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

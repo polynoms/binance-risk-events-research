@@ -1,0 +1,23 @@
+token_symbol,scenario,drawdown_to_bottom,max_rebound_after_bottom,tradable_signal_found,best_signal_type,signal_quality_score,tradeability_tier,stop_failed,max_adverse_excursion,max_favorable_excursion_7d,risk_reward_7d,manual_review_required,main_reason,notes
+UFT,MANUAL_REVIEW_REQUIRED,-0.9429430686369751,0.2558139534883721,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.226,Manual Review,yes,-0.262381454162276,0.12961011591148575,0.9481961147086022,yes,false_breakout;low_liquidity_at_signal,causal_signal_after_confirmation;no_future_low_used
+UNFI,EPIC_LIKE_REBOUND,-0.6632667041055829,1.3496614894464356,yes,CAPITULATION_RECLAIM,0.874,B,no,-0.021880341880341714,0.3999999999999999,2.520356727413727,no,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+VAI,MANUAL_REVIEW_REQUIRED,nan,nan,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,missing_bottom_or_path
+VELODROME,MANUAL_REVIEW_REQUIRED,-0.05669879378405862,0.3709902370990237,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,
+VGX,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.7465709951378705,0.4881889763779528,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.682,C,yes,-0.47736625514403297,0.020576131687242816,0.1502403846153847,no,false_breakout;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+VIB,DELISTING_DEATH_SPIRAL,-0.9543023133829718,nan,no,,,,,,,,no,no_capitulation_reclaim,
+VIC,MANUAL_REVIEW_REQUIRED,-0.2089043140675949,1.0913461538461537,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+VIDT,DELISTING_DEATH_SPIRAL,-0.9420769652792085,nan,no,,,,,,,,no,no_capitulation_reclaim,
+VITE,MANUAL_REVIEW_REQUIRED,-0.55767830279491,1.1316326530612244,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.681,B,yes,-0.18388934092758336,0.15866558177379964,1.8757214313197361,yes,false_breakout,causal_signal_after_confirmation;no_future_low_used
+VOXEL,MANUAL_REVIEW_REQUIRED,-0.6581818599766351,7.865671641791044,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.07,Manual Review,yes,-0.25555555555555554,5.6,106.32911392405069,yes,low_liquidity_at_signal;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+WAN,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.38246929961115717,0.6316666666666668,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+WAVES,DELISTING_DEATH_SPIRAL,-0.7558262782623386,0.13774973711882232,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.727,C,yes,-0.19810576164167315,0.07616416732438824,0.8963403306706296,no,false_breakout,causal_signal_after_confirmation;no_future_low_used
+WIF,DEAD_CAT_BOUNCE,-0.20258576229608127,0.7391304347826089,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+WING,DELISTING_DEATH_SPIRAL,-0.9092256010341342,nan,no,,,,,,,,no,no_capitulation_reclaim,
+WNXM,MANUAL_REVIEW_REQUIRED,-0.20165431666257616,0.501838557170373,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+WRX,MANUAL_REVIEW_REQUIRED,-0.9462253588577924,nan,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,
+WTC,DELISTING_DEATH_SPIRAL,-0.9438569524379332,nan,no,,,,,,,,no,no_capitulation_reclaim,
+XEM,MANUAL_REVIEW_REQUIRED,-0.11500844636803531,0.8641259320629657,yes,HIGHER_LOW_BREAKOUT,0.078,Manual Review,no,-0.0015302218821728886,0.12815608263198164,2.705540300436111,yes,signal_exists_but_manual_review_required,causal_signal_after_confirmation;no_future_low_used
+XMR,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.3951479470481035,0.344621513944223,no,,,,,,,,no,no_capitulation_reclaim,
+YFII,MANUAL_REVIEW_REQUIRED,-0.35617475536859833,0.04580152671755733,no,,,,,,,,yes,bottom_manual_review;weak_rebound_below_20pct;no_capitulation_reclaim,
+ZEC,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.34218093262174243,0.9270270270270269,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+ZEN,SLOW_BLEED_THEN_SQUEEZE,-0.2998378152377187,1.798192771084337,yes,HIGHER_LOW_BREAKOUT,0.558,C,yes,-0.13822115384615385,0.03245192307692313,0.43745949449125116,no,false_breakout,causal_signal_after_confirmation;no_future_low_used

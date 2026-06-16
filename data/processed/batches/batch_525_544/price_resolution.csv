@@ -1,0 +1,5 @@
+token_symbol,final_outcome,spot_pair,spot_missing,futures_pair,futures_missing,exact_futures_contract,futures_class,fallback_required,fallback_provider,fallback_market
+ZKP,seed_tag_only,ZKPUSDT,no,ZKPUSDT,no,,,no,,
+ZRC,futures_only_delisting,,yes,ZRCUSDT,no,,,no,,
+ZRO,seed_tag_only,ZROUSDT,no,ZROUSDT,no,,,no,,
+ZRX,spot_pair_removed_only,ZRXUSDT,no,ZRXUSDT,no,,,no,,

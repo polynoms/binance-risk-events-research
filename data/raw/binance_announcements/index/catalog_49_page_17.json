@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 213938,
+            "code": "b79e048dca4e4ea786fd857f36c61c96",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-10-07)",
+            "type": 1,
+            "releaseDate": 1728293407079
+          },
+          {
+            "id": 213908,
+            "code": "024a848244a84511a70e6e6f60ba4c85",
+            "title": "Binance Updates VIP Program for Spot and Margin Trading Fees for VIP 3 to 9 Users",
+            "type": 1,
+            "releaseDate": 1728291602597
+          },
+          {
+            "id": 213860,
+            "code": "ef5d6881c9074e41a670761cba2f4cb4",
+            "title": "Updates on Futures NEXT “Picks” and Rewards Structure (2024-10-04)",
+            "type": 1,
+            "releaseDate": 1728032402410
+          },
+          {
+            "id": 213156,
+            "code": "2178333b0324406088737cf07436ba43",
+            "title": "Binance Will Extend the Monitoring Tag to Include BLZ, CLV, KEY, PROS & VITE and Remove the Seed Tag for PENDLE & SEI on 2024-10-03",
+            "type": 1,
+            "releaseDate": 1727938805269
+          },
+          {
+            "id": 213613,
+            "code": "6e0a47fa4651498797c9be3e4e35eabe",
+            "title": "Binance System Upgrade Notice (2024-10-08)",
+            "type": 1,
+            "releaseDate": 1727928001303
+          },
+          {
+            "id": 213605,
+            "code": "aa66804379c34265bec4d6b7538cbd2f",
+            "title": "Celebrating New Payment Method for Romanian Lei (RON): Buy USDC with Cash via Tradesilvania to Share Token Voucher Rewards!",
+            "type": 1,
+            "releaseDate": 1727920804274
+          },
+          {
+            "id": 213523,
+            "code": "3d57f29812ee4c12a7e153e81d93a239",
+            "title": "Web3 Wallet Earn Update: Enhancing Simple Yield with 13 New Protocols and Binance SOL Staking!",
+            "type": 1,
+            "releaseDate": 1727856001826
+          },
+          {
+            "id": 213468,
+            "code": "46c4df1054f846fcbaf13f99e1c5ef62",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin (2024-10-03)",
+            "type": 1,
+            "releaseDate": 1727848802938
+          },
+          {
+            "id": 213465,
+            "code": "078ac341c1324309b9944ad93aa15d08",
+            "title": "Binance Auto-Invest System Maintenance Notice (2024-10-04)",
+            "type": 1,
+            "releaseDate": 1727845206304
+          },
+          {
+            "id": 213439,
+            "code": "8992d93a168e4380962659cdc7b46a02",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-10-02)",
+            "type": 1,
+            "releaseDate": 1727838013420
+          },
+          {
+            "id": 213404,
+            "code": "fc3b6e0ac0b644138cd35969663775b2",
+            "title": "Introducing Risk Warnings for Tokens with Significant Tokenomics Changes",
+            "type": 1,
+            "releaseDate": 1727784116428
+          },
+          {
+            "id": 213353,
+            "code": "af014897c9b44f299401b35da1f6ba17",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-10-01)",
+            "type": 1,
+            "releaseDate": 1727773222697
+          },
+          {
+            "id": 213301,
+            "code": "8bfe2e9b86734cd08f3cbcdb82b79f51",
+            "title": "Updates on Tick Size for SOL USDⓈ-M and COIN-M Futures Contracts (2024-10-14)",
+            "type": 1,
+            "releaseDate": 1727758811886
+          },
+          {
+            "id": 213186,
+            "code": "6e37b6d39b8d438db4aa0a56795f94ca",
+            "title": "Binance Dual Investment Supports Toncoin (TON), Notcoin (NOT), and Dogs (DOGS)",
+            "type": 1,
+            "releaseDate": 1727695801379
+          },
+          {
+            "id": 213201,
+            "code": "a62b443b2c304249989c50368acbc1f3",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-09-30)",
+            "type": 1,
+            "releaseDate": 1727686811189
+          },
+          {
+            "id": 213108,
+            "code": "6fb9530cc13a46e98ceb0eba95c52b0f",
+            "title": "Binance Pool Supports New Merged Mining: Mine LTC and Earn Rewards in LTC, DOGE & Bellscoin (BEL)",
+            "type": 1,
+            "releaseDate": 1727658000000
+          },
+          {
+            "id": 212748,
+            "code": "c6f86973924d47e4bf314289d8469de5",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-09-26)",
+            "type": 1,
+            "releaseDate": 1727334003562
+          },
+          {
+            "id": 212717,
+            "code": "4200c12c62484a0796accfd012402af9",
+            "title": "Reminder on Changes to Binance’s Language Options in Türkiye",
+            "type": 1,
+            "releaseDate": 1727287200000
+          },
+          {
+            "id": 212673,
+            "code": "e6db38d921e4416384546dcf94cbf06a",
+            "title": "Binance Launches Pre-Market: Exclusive Offering for Users to Acquire Tokens Before Official Spot Listing",
+            "type": 1,
+            "releaseDate": 1727269202587
+          },
+          {
+            "id": 212642,
+            "code": "b3a53767908741f8afb3a49dd43ee960",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-09-25)",
+            "type": 1,
+            "releaseDate": 1727251217117
+          },
+          {
+            "id": 212586,
+            "code": "c36dd3c4ab24451fa35b42fa4638da03",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) and VIP Loan - 2024-09-25",
+            "type": 1,
+            "releaseDate": 1727240404290
+          },
+          {
+            "id": 212560,
+            "code": "d146ea81680f4dcca29663c2b80f9521",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-09-25)",
+            "type": 1,
+            "releaseDate": 1727236808525
+          },
+          {
+            "id": 212555,
+            "code": "02770782bab34359b710fa267f8fe45e",
+            "title": "Binance Will Support Gas-Free Carnival Campaign by BNB Chain",
+            "type": 1,
+            "releaseDate": 1727175612689
+          },
+          {
+            "id": 212465,
+            "code": "4e9fb62baf5343b795e065249b272073",
+            "title": "FDUSD Locked Products Limited Offer: Complete Subscription to Enjoy 15.9% Fixed APR!",
+            "type": 1,
+            "releaseDate": 1727157617255
+          },
+          {
+            "id": 212448,
+            "code": "bd460f39675f430897d80ad24b81a7f7",
+            "title": "South Asia Exclusive: Limited-Time Binance P2P Merchant Program Promotion",
+            "type": 1,
+            "releaseDate": 1727136000000
+          },
+          {
+            "id": 212398,
+            "code": "16a8df51a44847048f040e5629adf566",
+            "title": "Hamster Kombat (HMSTR) Super Earn: Subscribe to HMSTR Locked Products to Earn Special APR (Limited Time & Quota)",
+            "type": 1,
+            "releaseDate": 1727082002065
+          },
+          {
+            "id": 212369,
+            "code": "a5c2e540463d4eafbe2bdcccfa6db6ae",
+            "title": "Notice on Binance Account Service Upgrade (2024-09-25)",
+            "type": 1,
+            "releaseDate": 1727074802016
+          },
+          {
+            "id": 212173,
+            "code": "e57b53976081456f98fb7d545d95f0f6",
+            "title": "Catizen (CATI) Listing Will Be Postponed",
+            "type": 1,
+            "releaseDate": 1726826225755
+          },
+          {
+            "id": 211884,
+            "code": "a0568c6fef5f416b84eac738e5089dfc",
+            "title": "Binance Blockchain Week Dubai 2024 Ticket Prices Are Now 150 USD (Excluding VAT)",
+            "type": 1,
+            "releaseDate": 1726725603403
+          },
+          {
+            "id": 211853,
+            "code": "fa192e78242d4d96be9562ab7d76a10a",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2024-09-20)",
+            "type": 1,
+            "releaseDate": 1726711212953
+          },
+          {
+            "id": 211787,
+            "code": "dc02c1b008df4b94973c62318e68d7dd",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-09-18)",
+            "type": 1,
+            "releaseDate": 1726650010472
+          },
+          {
+            "id": 211779,
+            "code": "f1536b03cf2d4c00995fd0caaa475dcb",
+            "title": "Introducing Bespoke Dual Investment: Subscribe and Enjoy Extra 10% on APR",
+            "type": 1,
+            "releaseDate": 1726646404420
+          },
+          {
+            "id": 211727,
+            "code": "411ef56c03b64e9e94585737135828b5",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) and VIP Loan - 2024-09-18",
+            "type": 1,
+            "releaseDate": 1726635624937
+          },
+          {
+            "id": 211673,
+            "code": "214a76d8178448b9aa628e8614cff0b2",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-09-18)",
+            "type": 1,
+            "releaseDate": 1726628401824
+          },
+          {
+            "id": 211582,
+            "code": "a05ae5aad6e44f6c848bde0a4c94ad4b",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-09-17)",
+            "type": 1,
+            "releaseDate": 1726560002778
+          },
+          {
+            "id": 211530,
+            "code": "2e11b3d512fa4027b221b7b518fafe74",
+            "title": "Updates on Tick Size for Spot Trading Pairs (2024-09-24)",
+            "type": 1,
+            "releaseDate": 1726542007337
+          },
+          {
+            "id": 211380,
+            "code": "8b407d82560040b9bff71751ff349760",
+            "title": "SLF Simple Earn Products: Complete Subscription to Enjoy Up to 18.9% APR and Win 50 SLF!",
+            "type": 1,
+            "releaseDate": 1726466402955
+          },
+          {
+            "id": 211181,
+            "code": "6679dea855c540928ef80e90d712e4e7",
+            "title": "Binance Isolated Margin Trading System Upgrade Notice (2024-09-16)",
+            "type": 1,
+            "releaseDate": 1726192815901
+          },
+          {
+            "id": 211024,
+            "code": "de5969a9c20f42088fcf039101370e15",
+            "title": "Binance Introduces BNSOL: Earn SOL Staking Rewards and Unlock Liquidity on Solana",
+            "type": 1,
+            "releaseDate": 1726131602074
+          },
+          {
+            "id": 210986,
+            "code": "cbc207aeb6a64387a60a8a9b259f70e1",
+            "title": "Binance Spot and Margin Trading System Upgrade Notice (2024-09-19)",
+            "type": 1,
+            "releaseDate": 1726055192122
+          },
+          {
+            "id": 210961,
+            "code": "1d37707c47794fc9bb2236325c435642",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-09-11)",
+            "type": 1,
+            "releaseDate": 1726041615297
+          },
+          {
+            "id": 210907,
+            "code": "1319ace3b84e48a7b7909d1b5ec09efe",
+            "title": "Binance Completes Integration of Radiant Capital (RDNT) on Base Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1726030800000
+          },
+          {
+            "id": 210866,
+            "code": "e588d4f0e3704d5db22f4047303abf61",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-09-11)",
+            "type": 1,
+            "releaseDate": 1726023626276
+          },
+          {
+            "id": 210839,
+            "code": "b3e2930f0a614323be968e66eca7605a",
+            "title": "Updates on Binance BNB Vault Services (2024-09-12)",
+            "type": 1,
+            "releaseDate": 1726020014931
+          },
+          {
+            "id": 210788,
+            "code": "bbee2ba7d5e94ff1b14acfdfb3d5fe72",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-09-10)",
+            "type": 1,
+            "releaseDate": 1725955213463
+          },
+          {
+            "id": 210770,
+            "code": "5563091ba0384fc69cad2abf04da33a2",
+            "title": "Binance Launches Zero Fee Promotion on EUR/USDC and EUR/USDT Trading Pairs for VIP 2 - 9 users and Qualified Spot and Fiat Liquidity Providers",
+            "type": 1,
+            "releaseDate": 1725940801330
+          },
+          {
+            "id": 210729,
+            "code": "7ff4583e24b4468cbec1d3f4a55615a0",
+            "title": "Binance Launches Zero Fee to Buy EURI with EUR via SEPA Bank Transfer",
+            "type": 1,
+            "releaseDate": 1725876000000
+          },
+          {
+            "id": 210615,
+            "code": "385c5682e1b04b4baf0281101e1931c5",
+            "title": "Binance to Airdrop USDC to FRONT and SLF Holders",
+            "type": 1,
+            "releaseDate": 1725629405077
+          },
+          {
+            "id": 210322,
+            "code": "cd3b2bdc6e8f4b0fa74d8dc73d83e2ea",
+            "title": "Binance Loans Introduces Fixed Rate Loans",
+            "type": 1,
+            "releaseDate": 1725519606449
+          },
+          {
+            "id": 210174,
+            "code": "d69b2a25cc80446b8225135e1b16c4a3",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-09-04)",
+            "type": 1,
+            "releaseDate": 1725436804741
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

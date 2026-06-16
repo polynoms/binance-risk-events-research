@@ -1,0 +1,26 @@
+token_symbol,scenario,drawdown_to_bottom,max_rebound_after_bottom,tradable_signal_found,best_signal_type,signal_quality_score,tradeability_tier,stop_failed,max_adverse_excursion,max_favorable_excursion_7d,risk_reward_7d,manual_review_required,main_reason,notes
+FUN,MANUAL_REVIEW_REQUIRED,-0.7757503872727844,0.16666666666666674,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.013,Manual Review,no,-0.08840579710144925,0.05724637681159428,0.5515219212510486,yes,signal_exists_but_manual_review_required,causal_signal_after_confirmation;no_future_low_used
+GFT,MANUAL_REVIEW_REQUIRED,-0.8862807228337174,nan,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,
+GHST,EPIC_LIKE_REBOUND,-0.8853884707040791,7.0,yes,CAPITULATION_RECLAIM,0.452,Manual Review,no,-0.02898550724637683,2.478260869565217,4.3181818181818175,no,signal_exists_but_manual_review_required,causal_signal_after_confirmation;no_future_low_used
+GPS,MANUAL_REVIEW_REQUIRED,-0.7824148416159113,1.5496688741721854,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.832,B,yes,-0.1737891737891737,0.2678062678062678,2.6523702031602707,yes,stop_hit_after_signal,causal_signal_after_confirmation;no_future_low_used
+GTC,MANUAL_REVIEW_REQUIRED,-0.3501194295333018,2.0281690140845074,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+HARD,SLOW_BLEED_THEN_SQUEEZE,-0.4712201724543231,2.134328358208955,yes,HIGHER_LOW_BREAKOUT,0.85,B,no,-0.18289585097375105,0.5571549534292972,1.7852298008573442,no,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+HEI,MANUAL_REVIEW_REQUIRED,-0.26166816914263724,2.6288848263254114,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+HFT,MANUAL_REVIEW_REQUIRED,-0.19938327656459065,0.01834862385321112,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;weak_rebound_below_20pct;no_capitulation_reclaim,
+HIFI,MANUAL_REVIEW_REQUIRED,-0.7521172494398481,1.431924882629108,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.707,C,yes,-0.2550637659414854,0.03525881470367609,0.5628742514970091,yes,false_breakout;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+HIGH,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.16084417006921436,4.5046728971962615,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+HOOK,MANUAL_REVIEW_REQUIRED,-0.7899251105118592,1.2916666666666665,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.0,Manual Review,yes,-0.5467289719626167,0.16355140186915884,1.596715328467153,yes,false_breakout;low_liquidity_at_signal;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+IDEX,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.1384168889030385,1.8666666666666671,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+IDRT,MANUAL_REVIEW_REQUIRED,nan,nan,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,missing_bottom_or_path
+IRIS,MANUAL_REVIEW_REQUIRED,-0.4147821703139246,1.165361183637946,yes,HIGHER_LOW_BREAKOUT,0.577,C,yes,-0.4241545893719807,0.20193236714975837,0.5411143330571664,yes,next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+KDA,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.9283943250902109,0.3333333333333335,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.402,Manual Review,yes,-0.8756476683937824,0.22797927461139889,0.9773434029320298,no,next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+KEY,EPIC_LIKE_REBOUND,-0.8188385749589293,0.7322222222222223,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.459,Manual Review,yes,-0.2620804570340395,0.10188050464175213,0.5984842128813949,no,false_breakout,causal_signal_after_confirmation;no_future_low_used
+KMD,MANUAL_REVIEW_REQUIRED,-0.8763663154028916,0.443661971830986,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.488,C,yes,-0.5865865865865866,0.0010010010010010895,0.012853470437019123,yes,false_breakout;next_3_candles_failed_confirmation,causal_signal_after_confirmation;no_future_low_used
+KP3R,DEAD_CAT_BOUNCE,-0.39057194027290587,0.984247197818843,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+LEVER,DELISTING_DEATH_SPIRAL,-0.7428497413101276,nan,no,,,,,,,,no,no_capitulation_reclaim,
+LINA,MANUAL_REVIEW_REQUIRED,-0.8377744446559139,0.2058823529411764,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,
+LOOM,MANUAL_REVIEW_REQUIRED,-0.08599676902375786,0.1334801762114537,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;weak_rebound_below_20pct;no_capitulation_reclaim,
+LRC,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.4252702938885681,nan,no,,,,,,,,no,no_capitulation_reclaim,
+LTO,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.7801614361526059,0.2596153846153848,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.732,B,yes,-0.1923076923076924,0.35664335664335667,4.366438356164384,no,stop_hit_after_signal,causal_signal_after_confirmation;no_future_low_used
+MBL,SLOW_BLEED_THEN_SQUEEZE,-0.405121621826785,1.0847058823529414,yes,HIGHER_LOW_BREAKOUT,0.0,Manual Review,no,-0.00782608695652165,0.12478260869565205,0.7232133857474037,no,signal_exists_but_manual_review_required,causal_signal_after_confirmation;no_future_low_used
+MBOX,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.459189177771269,0.392156862745098,no,,,,,,,,no,no_capitulation_reclaim,

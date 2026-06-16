@@ -1,0 +1,15 @@
+token_symbol,scenario,drawdown_to_bottom,max_rebound_after_bottom,tradable_signal_found,best_signal_type,signal_quality_score,tradeability_tier,stop_failed,max_adverse_excursion,max_favorable_excursion_7d,risk_reward_7d,manual_review_required,main_reason,notes
+EPIC,MANUAL_REVIEW_REQUIRED,-0.3603402143526486,3.31413612565445,yes,HIGHER_LOW_BREAKOUT,0.872,B,no,-0.0577617328519856,1.974729241877256,10.4031951312286,yes,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+HEI,MANUAL_REVIEW_REQUIRED,-0.26166816914263724,2.6288848263254114,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+ALCX,MANUAL_REVIEW_REQUIRED,-0.3518258677554703,0.07621951219512191,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;weak_rebound_below_20pct;no_capitulation_reclaim,
+COOKIE,MANUAL_REVIEW_REQUIRED,-0.5017272932232737,0.11111111111111116,yes,SLOW_BLEED_SQUEEZE_BREAKOUT,0.089,Manual Review,yes,-0.23728813559322037,0.1694915254237288,3.1847133757961754,yes,false_breakout;low_liquidity_at_signal,causal_signal_after_confirmation;no_future_low_used
+TLM,MANUAL_REVIEW_REQUIRED,-0.44789926225151844,0.08099999999999996,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;weak_rebound_below_20pct;no_capitulation_reclaim,
+AERGO,MANUAL_REVIEW_REQUIRED,-0.2949034019987582,0.6649395509499136,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+BADGER,MANUAL_REVIEW_REQUIRED,-0.7836423931589813,nan,no,,,,,,,,yes,bottom_manual_review;low_liquidity_at_bottom;no_capitulation_reclaim,
+COS,MANUAL_REVIEW_REQUIRED,-0.3012530418025706,2.2442563482466746,yes,HIGHER_LOW_BREAKOUT,0.703,C,no,-0.23550945698596704,0.6369737644905431,1.4705053805848216,yes,causal_signal_found,causal_signal_after_confirmation;no_future_low_used
+HIGH,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.16084417006921436,4.5046728971962615,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+MBOX,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.459189177771269,0.392156862745098,no,,,,,,,,no,no_capitulation_reclaim,
+CVX,DEAD_CAT_BOUNCE,-0.43575409309862034,3.528888888888888,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+ZEC,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.34218093262174243,0.9270270270270269,no,,,,,,,,no,strong_rebound_without_causal_confirmation;no_capitulation_reclaim,
+AKRO,MANUAL_REVIEW_REQUIRED,-0.7927823886002305,nan,no,,,,,,,,yes,bottom_manual_review;no_capitulation_reclaim,
+0G,NO_CLEAR_BOTTOM_REBOUND_PATTERN,-0.48648705565163564,1.0045045045045047,yes,HIGHER_LOW_BREAKOUT,0.794,B,no,-0.07692307692307698,0.3343799058084771,1.5093537414965978,no,control_only_pair_removal_excluded_from_token_risk,control_only_not_token_risk

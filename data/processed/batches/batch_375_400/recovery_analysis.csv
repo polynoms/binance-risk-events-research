@@ -1,0 +1,11 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+RED,e23cffcec7d1820c,SEED_TAG_ADDED,0.872610554487872,yes,yes,no,no,no,no,no
+REEF,459073a914558055,MONITORING_TAG_ADDED,0.001963185170057088,yes,yes,yes,yes,no,no,yes
+REI,95453d2e61ce0ed3,MONITORING_TAG_ADDED,0.018879461362249415,yes,yes,yes,yes,no,no,no
+REMOVE,310b380d3d71ed42,MONITORING_TAG_ADDED,nan,unknown,unknown,unknown,unknown,unknown,yes,no
+REN,55c6f3a56b85b5ee,SPOT_TOKEN_DELISTING_ANNOUNCED,0.04541441052291683,yes,yes,yes,yes,no,no,yes
+RESOLV,b3172c363e7bc7a7,MONITORING_TAG_ADDED,0.038600107992428974,yes,no,no,no,no,no,no
+RLS,5b1c7a1a174bc50f,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.0027490384946009306,yes,yes,yes,yes,no,no,no
+ROBO,da64b115690799fa,SEED_TAG_ADDED,0.04177000000000001,yes,yes,yes,yes,no,no,no
+RONIN,82e8157b383cbc4c,SEED_TAG_ADDED,2.714,yes,yes,yes,yes,no,no,no
+RVV,6e07dd7c9f7cc3bf,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.00267081418090801,no,no,no,no,yes,no,no

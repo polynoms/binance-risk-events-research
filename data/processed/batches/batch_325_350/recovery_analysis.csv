@@ -1,0 +1,15 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+OMG,2b516f723278de6a,SPOT_TOKEN_DELISTING_ANNOUNCED,0.5504446003571277,yes,no,no,no,no,no,yes
+OOKI,6e6a33f0d9f83771,SPOT_TOKEN_DELISTING_ANNOUNCED,0.0009257072525897448,yes,yes,no,no,no,no,no
+OPG,4e3d60671d4e0d29,SEED_TAG_ADDED,0.218,yes,yes,yes,no,no,no,no
+ORBS,4b8c3834f55076ce,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.03480544994200449,yes,yes,yes,yes,no,no,no
+ORCA,ed4d839107301745,SEED_TAG_ADDED,6.995,yes,yes,no,no,no,no,no
+ORDI,d68ee5872a62fb71,SEED_TAG_ADDED,13.602,yes,yes,yes,yes,no,no,no
+OXT,f3b4f1d87991a6c5,MONITORING_TAG_ADDED,0.017127511760152373,yes,yes,yes,yes,no,no,yes
+PDA,0cc30ba0df8ec322,MONITORING_TAG_ADDED,0.014352509504741994,yes,yes,no,no,no,no,no
+PERL,8660726da9a31951,SPOT_TOKEN_DELISTING_ANNOUNCED,0.009242808484265074,yes,yes,yes,yes,no,no,no
+PERP,9793cd97d25ee40f,MONITORING_TAG_ADDED,0.2673180476047642,yes,yes,yes,yes,no,no,yes
+PHB,166f11821f80f970,MONITORING_TAG_ADDED,0.14263942507310387,yes,yes,yes,no,no,no,yes
+PNT,31a48282d85a2000,SPOT_TOKEN_DELISTING_ANNOUNCED,0.12131196348225098,yes,yes,no,no,no,no,no
+PNUT,0c57f5528ade8801,SEED_TAG_ADDED,0.3908,yes,yes,yes,yes,no,no,no
+POLS,167819d9a56f2560,MONITORING_TAG_ADDED,0.5356287666082349,yes,no,no,no,no,no,yes

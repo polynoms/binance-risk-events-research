@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 179584,
+            "code": "cde0acfc1f4d46f397fb6a5b94d3f69d",
+            "title": "Introducing CR7 ForeverZone Collection: Claim Free ForeverZone Boxes and More Rewards with Cristiano Ronaldo’s Latest NFT Collection Exclusively at Binance!",
+            "type": 1,
+            "releaseDate": 1697033057180
+          },
+          {
+            "id": 179472,
+            "code": "93712f4b7c114f45b165fd070cb26765",
+            "title": "Binance to Extend the Self-Trade Prevention (STP) Function to All Binance Spot and Margin Users",
+            "type": 1,
+            "releaseDate": 1697008532383
+          },
+          {
+            "id": 179408,
+            "code": "cadfd820a0014e8cb79adcfc649ab3c7",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-10-11)",
+            "type": 1,
+            "releaseDate": 1696999829239
+          },
+          {
+            "id": 179177,
+            "code": "fda8b0f0648546c9a916ec4ac4657cb7",
+            "title": "Binance Convert Adds NTRN",
+            "type": 1,
+            "releaseDate": 1696941602818
+          },
+          {
+            "id": 179077,
+            "code": "a07e11c09b564b529e2a3f2aa18bb5a3",
+            "title": "Notice Regarding the Removal of Selected Liquidity Pools on Binance Liquid Swap (2023-10-17)",
+            "type": 1,
+            "releaseDate": 1696910703604
+          },
+          {
+            "id": 179059,
+            "code": "220b659f88e34106b79371decfef5f96",
+            "title": "New Dual Investment Products Launched (2023-10-10)",
+            "type": 1,
+            "releaseDate": 1696907150876
+          },
+          {
+            "id": 179033,
+            "code": "4a31364b1007426ba6c6be1ed1a728d5",
+            "title": "Updates on Minimum Order Size for Spot and Margin Trading Pairs (2023-10-13)",
+            "type": 1,
+            "releaseDate": 1696904134992
+          },
+          {
+            "id": 179021,
+            "code": "56d1f3b8fe8c4f8e9ca219f1e906cf3e",
+            "title": "Binance Futures Launches Copy Trading",
+            "type": 1,
+            "releaseDate": 1696856402798
+          },
+          {
+            "id": 178979,
+            "code": "891da3b2fb6842fb875e40d1f4463fc5",
+            "title": "Binance Upgrades USDⓢ-Margined Futures Liquidity Provider Program (2023-10-23)",
+            "type": 1,
+            "releaseDate": 1696836604231
+          },
+          {
+            "id": 178922,
+            "code": "2ffa9131f81d4855b64752db068605a3",
+            "title": "Binance Futures Will Update the Leverage and Margin Tiers of Multiple USDⓈ-M Perpetual Contracts",
+            "type": 1,
+            "releaseDate": 1696504577006
+          },
+          {
+            "id": 178887,
+            "code": "a621f30d706b4a84b0fe89cd04537f5a",
+            "title": "Updates on Tick Size for Spot Trading Pairs (2023-10-12)",
+            "type": 1,
+            "releaseDate": 1696472134998
+          },
+          {
+            "id": 178710,
+            "code": "1eb7ee7c825d480f98b85b56a13b4c29",
+            "title": "Binance Will Extend the Monitoring Tag to Include BETA, BOND, WTC and XEM on 2023-10-04",
+            "type": 1,
+            "releaseDate": 1696399216946
+          },
+          {
+            "id": 178814,
+            "code": "cfb540a1fee8418fb1fecec5c63e9ba3",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-10-04)",
+            "type": 1,
+            "releaseDate": 1696395710572
+          },
+          {
+            "id": 178662,
+            "code": "72fcdbcb02b94b239633e0c3a60889f1",
+            "title": "New Dual Investment Products Launched (2023-10-03)",
+            "type": 1,
+            "releaseDate": 1696302069445
+          },
+          {
+            "id": 178136,
+            "code": "1d7b456160b349ecbb389b121996d00b",
+            "title": "Binance Loans (Flexible Rate) Will Close All BUSD Loan and Collateral Positions at 2023-10-25",
+            "type": 1,
+            "releaseDate": 1696298400861
+          },
+          {
+            "id": 178573,
+            "code": "f9f5e43bfc434097bd54568fce72cd5a",
+            "title": "Updates on Capped Funding Rate of USDⓈ-M OGNUSDT Perpetual Contract (2023-10-01)",
+            "type": 1,
+            "releaseDate": 1696166888902
+          },
+          {
+            "id": 178506,
+            "code": "98d6b24d3e5c4f84a8ed04087997d8d0",
+            "title": "Important Updates on Funding Rates of USDⓈ-M Perpetual Contracts",
+            "type": 1,
+            "releaseDate": 1695892226892
+          },
+          {
+            "id": 178438,
+            "code": "7dc31be6889b4fc8ab21292856f38e0f",
+            "title": "Important Updates for Paysafe Users",
+            "type": 1,
+            "releaseDate": 1695868610962
+          },
+          {
+            "id": 178215,
+            "code": "23b9d38c76804aa7bf3786e0188c5c44",
+            "title": "Binance Options Expands Options Writing Access Eligibility",
+            "type": 1,
+            "releaseDate": 1695812111266
+          },
+          {
+            "id": 178188,
+            "code": "3ce3f190263e493d9ab376d8646bfc71",
+            "title": "Binance Completes Integration of Ethereum (ETH) on Base Network, Opens Deposits",
+            "type": 1,
+            "releaseDate": 1695805505061
+          },
+          {
+            "id": 178165,
+            "code": "8ed9b8c65a8a465ca4635f92a00b228a",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-09-27)",
+            "type": 1,
+            "releaseDate": 1695792304147
+          },
+          {
+            "id": 178061,
+            "code": "c30118f692ca4805a6aba93059c570f7",
+            "title": "Updates on Binance Services in Belgium",
+            "type": 1,
+            "releaseDate": 1695719749799
+          },
+          {
+            "id": 178016,
+            "code": "c1c7edd0cefc40a9aa806ed3dafa352f",
+            "title": "New Dual Investment Products Launched (2023-09-26)",
+            "type": 1,
+            "releaseDate": 1695700803607
+          },
+          {
+            "id": 177990,
+            "code": "44d181b1e70f4f3bb4a04bf9a0a54497",
+            "title": "Binance Completes Integration of Maverick Protocol (MAV) on zkSync Era Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1695697509797
+          },
+          {
+            "id": 177900,
+            "code": "cb2e0f8b48ea4858ac735940eda6d14d",
+            "title": "Binance P2P Will Update Maker Fees for 24 Fiat Markets",
+            "type": 1,
+            "releaseDate": 1695636003534
+          },
+          {
+            "id": 177859,
+            "code": "fceb823a6b1146279bf98b2a8fffeddb",
+            "title": "Binance Adds “Trailing Up” Function for Spot Grid Trading Bots",
+            "type": 1,
+            "releaseDate": 1695622228376
+          },
+          {
+            "id": 177838,
+            "code": "5d3bcf573ea242669b3775ccc169b952",
+            "title": "Notice Regarding the Removal of Selected Liquidity Pools on Binance Liquid Swap (2023-09-29)",
+            "type": 1,
+            "releaseDate": 1695619203596
+          },
+          {
+            "id": 177770,
+            "code": "1bd08abbf48b4faab44ac3992c9554eb",
+            "title": "Notice on the Removal of Spot Trading Bots Services from Selected Trading Pairs - 2023-09-29",
+            "type": 1,
+            "releaseDate": 1695353712109
+          },
+          {
+            "id": 177718,
+            "code": "e60acd0ff254420c82f9f82782f867b3",
+            "title": "Binance Will Open Spot Trading Bots Services for BTC/FDUSD & USDT/TRY Trading Pairs",
+            "type": 1,
+            "releaseDate": 1695291029808
+          },
+          {
+            "id": 177603,
+            "code": "527708a88c54414398746b906072d4ce",
+            "title": "Binance Futures Will Update the Leverage, Margin Tiers and Capped Funding Rate Multiplier of USDⓈ-M IMXUSDT Perpetual Contract",
+            "type": 1,
+            "releaseDate": 1695265394309
+          },
+          {
+            "id": 177506,
+            "code": "20b1e632926b4fbf85ba70ec990e1b4c",
+            "title": "Updates on New Binance Loans (Stable Rate) Applications",
+            "type": 1,
+            "releaseDate": 1695186002941
+          },
+          {
+            "id": 177461,
+            "code": "a8a272b1175b46ddb100aa732770ce15",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-09-20)",
+            "type": 1,
+            "releaseDate": 1695178815256
+          },
+          {
+            "id": 177300,
+            "code": "ea90f632465c495c9f3cf00d8bb76ab7",
+            "title": "New Dual Investment Products Launched (2023-09-19)",
+            "type": 1,
+            "releaseDate": 1695093623197
+          },
+          {
+            "id": 177255,
+            "code": "200b596c55934d099e6cced791fb6b5c",
+            "title": "Binance Updates Coin-Margined Futures Liquidity Provider Program (2023-09-26)",
+            "type": 1,
+            "releaseDate": 1695027955217
+          },
+          {
+            "id": 177239,
+            "code": "f4433fc2964b4c92998132f433edff7c",
+            "title": "Binance Futures Updates Trading Fees for COIN-M Futures Contracts (2023-09-26)",
+            "type": 1,
+            "releaseDate": 1695024003751
+          },
+          {
+            "id": 177212,
+            "code": "ff5da4fcc1814e05b4f2b76050659212",
+            "title": "Binance Earn System Upgrade Notice (2023-09-20)",
+            "type": 1,
+            "releaseDate": 1695009604766
+          },
+          {
+            "id": 177174,
+            "code": "f8b03e976eee492cbaa922c9ab48167e",
+            "title": "Binance Futures Will Update the Settlement Frequency of USDⓈ-M HIFIUSDT Perpetual Contract",
+            "type": 1,
+            "releaseDate": 1694921407408
+          },
+          {
+            "id": 177158,
+            "code": "36d64aa905554ea3ad94edf68eb8b543",
+            "title": "Binance Futures Will Update the Leverage, Margin Tiers and Capped Funding Rate Multiplier of USDⓈ-M HIFIUSDT Perpetual Contract",
+            "type": 1,
+            "releaseDate": 1694888862509
+          },
+          {
+            "id": 177126,
+            "code": "cd5b5d50cd2d4864a942848e639b71c3",
+            "title": "Binance Futures Will Update the Leverage, Margin Tiers and Capped Funding Rate Multiplier of USDⓈ-M TRBUSDT Perpetual Contract",
+            "type": 1,
+            "releaseDate": 1694831703199
+          },
+          {
+            "id": 177110,
+            "code": "979eeb8e7de24b5b9d04b696b9125914",
+            "title": "Updates on the Maintenance Margin Ratios of Cross Margin Loanable Assets Supported in the Portfolio Margin Program and Portfolio Margin Pro Program (2023-09-21)",
+            "type": 1,
+            "releaseDate": 1694769385018
+          },
+          {
+            "id": 177090,
+            "code": "bc7a137f8ef04f03a7b02f28858a6239",
+            "title": "Notice Regarding the Removal of Selected Loanable Assets on Binance Loans & VIP Loan (2023-09-15)",
+            "type": 1,
+            "releaseDate": 1694750404743
+          },
+          {
+            "id": 177042,
+            "code": "939b0e0b5b9b4ab8a865d1a26e0fb088",
+            "title": "Binance Updates Fiat Liquidity Provider Program (2023-09-25)",
+            "type": 1,
+            "releaseDate": 1694689819874
+          },
+          {
+            "id": 177033,
+            "code": "73850429513f475297a80e29174503d7",
+            "title": "Anti-Scam Ninja Program: Report Suspicious P2P Activities and Receive 5 USDT per Report",
+            "type": 1,
+            "releaseDate": 1694678408012
+          },
+          {
+            "id": 177019,
+            "code": "16a1e103f7d54d3ba8dc01df55926b0d",
+            "title": "Binance P2P Adds Five Automated Payment Methods for Seamless P2P Trading",
+            "type": 1,
+            "releaseDate": 1694674503219
+          },
+          {
+            "id": 176938,
+            "code": "a14633ae4d8c4be9a2a4277b83e550dd",
+            "title": "Binance Earn Launches One-Click Earn",
+            "type": 1,
+            "releaseDate": 1694602820643
+          },
+          {
+            "id": 176740,
+            "code": "caaab5d06bb748a6b3b6faf1cef40cf7",
+            "title": "Auto-Invest Portfolio Competition: Share Up to $5,000 in DOGE Rewards!",
+            "type": 1,
+            "releaseDate": 1694600044806
+          },
+          {
+            "id": 176920,
+            "code": "0508c94932e74f0a8b0788c085573044",
+            "title": "Binance Futures Launches Signal Trading with Webhook Integration",
+            "type": 1,
+            "releaseDate": 1694599205980
+          },
+          {
+            "id": 176876,
+            "code": "b5292ef50cad4934aec36425b569b513",
+            "title": "Binance P2P Will Apply Taker Fees to Selected Fiat Markets on Binance Lite and P2P Express Zone",
+            "type": 1,
+            "releaseDate": 1694592003521
+          },
+          {
+            "id": 176788,
+            "code": "f8775e63697942d59ddbb21b2b90118b",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2023-09-13)",
+            "type": 1,
+            "releaseDate": 1694578816179
+          },
+          {
+            "id": 176711,
+            "code": "702e4c360ba24181b5f76fa51985785e",
+            "title": "Binance Margin System Upgrade Notice (2023-09-19)",
+            "type": 1,
+            "releaseDate": 1694497803077
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

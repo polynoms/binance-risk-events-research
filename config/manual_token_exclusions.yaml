@@ -1,0 +1,9 @@
+token_exclusions:
+  - token_symbol: CML
+    reason: "parser_artifact_collateral_margin_level"
+    source: "Vote-to-Delist announcement text contained 'Collateral Margin Level', not a token symbol."
+    exclude_from_risk_universe: true
+  - token_symbol: REMOVE
+    reason: "parser_artifact_verb_remove"
+    source: "Announcement parser extracted the verb 'remove' as a token symbol; no reliable Binance spot token identity/path."
+    exclude_from_risk_universe: true

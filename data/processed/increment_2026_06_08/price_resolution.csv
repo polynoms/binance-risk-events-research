@@ -1,0 +1,5 @@
+token_symbol,final_outcome,spot_pair,spot_missing,futures_pair,futures_missing,exact_futures_contract,futures_class,fallback_required,fallback_provider,fallback_market
+COS,delisted_after_tag,COSUSDT,no,COSUSDT,no,,,yes,ccxt_gateio,COS/USDT
+D,delisted_without_known_tag,DUSDT,no,DUSDT,no,,,yes,ccxt_kucoin,D/USDT
+HIGH,delisted_after_tag,HIGHUSDT,no,HIGHUSDT,no,,,yes,ccxt_gateio,HIGH/USDT
+MBOX,delisted_after_tag,MBOXUSDT,no,MBOXUSDT,no,,,yes,ccxt_gateio,MBOX/USDT

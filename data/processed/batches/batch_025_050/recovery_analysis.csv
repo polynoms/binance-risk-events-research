@@ -1,0 +1,13 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+AIGENSYN,985f155bf6212672,SEED_TAG_ADDED,0.03993,yes,yes,no,no,no,no,no
+AIXBT,1ae1cb6585b456f5,SEED_TAG_ADDED,0.5059,yes,yes,yes,yes,no,no,no
+AKRO,2ebc47e2d093dcb6,SPOT_TOKEN_DELISTING_ANNOUNCED,0.0033033665305105195,no,no,no,no,yes,no,no
+ALCX,4a1694681090a940,MONITORING_TAG_ADDED,4.582802978142288,yes,no,yes,no,no,no,no
+ALPACA,064b0dde744232dc,MONITORING_TAG_ADDED,0.09638109511217356,yes,yes,yes,yes,no,no,no
+ALPHA,cdee2c69a544c7e6,MONITORING_TAG_ADDED,0.0341211316530734,yes,yes,yes,no,no,no,no
+AMB,78605f349f17de8a,SPOT_TOKEN_DELISTING_ANNOUNCED,0.0034158658913054332,no,no,no,no,yes,no,no
+ANT,e0c4360ac0bda986,MONITORING_TAG_ADDED,5.784091158702195,yes,yes,yes,yes,no,no,no
+APT,85a23d2b7c759ced,FUTURES_CONTRACT_DELISTING_ANNOUNCED,7.250748447991432,yes,no,yes,no,no,no,no
+ARDR,afca87c30daaf7ba,MONITORING_TAG_ADDED,0.05226608864119658,yes,yes,yes,yes,no,no,no
+AST,c9bba63a0a1d11c1,MONITORING_TAG_ADDED,0.05938688574996675,yes,yes,no,no,no,no,yes
+ASTER,bf371e4022e600c3,SEED_TAG_ADDED,2.063,yes,yes,no,no,no,no,no

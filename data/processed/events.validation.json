@@ -1,0 +1,18 @@
+{
+  "events_csv": "data/processed/events.csv",
+  "rows": 1277,
+  "event_type_counts": {
+    "FUTURES_CONTRACT_DELISTING_ANNOUNCED": 93,
+    "SPOT_TOKEN_DELISTING_ANNOUNCED": 110,
+    "MONITORING_TAG_ADDED": 124,
+    "SEED_TAG_ADDED": 69,
+    "SPOT_PAIR_REMOVED": 824,
+    "SEED_TAG_REMOVED": 23,
+    "MONITORING_TAG_REMOVED": 11,
+    "VOTE_TO_DELIST_STARTED": 8,
+    "VOTE_TO_DELIST_RESULT": 15
+  },
+  "manual_review_events": 12,
+  "errors": [],
+  "warnings": []
+}

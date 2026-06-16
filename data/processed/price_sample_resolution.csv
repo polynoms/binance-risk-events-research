@@ -1,0 +1,12 @@
+token_symbol,final_outcome,spot_pair,spot_missing,futures_pair,futures_missing,exact_futures_contract,futures_class,fallback_required,fallback_provider,fallback_market
+CVX,tag_removed,CVXUSDT,no,CVXUSDT,no,CVXUSDT,risk_relevant_or_contract_specific_review,no,,
+ZEC,tag_removed,ZECUSDT,no,ZECUSDT,no,,,no,,
+AERGO,delisted_after_tag,AERGOUSDT,no,AERGOUSDT,no,,,yes,ccxt_okx,AERGO/USDT
+BADGER,delisted_after_tag,BADGERUSDT,no,BADGERUSDT,no,,,yes,ccxt_mexc,BADGER/USDT
+A2Z,delisted_after_tag,A2ZUSDT,no,A2ZUSDT,no,,,yes,ccxt_gateio,A2Z/USDT
+AKRO,delisted_without_known_tag,AKROUSDT,no,,yes,,no_usdm_pair_in_exchange_info,no,,
+BTS,delisted_without_known_tag,BTSUSDT,no,,yes,,no_usdm_pair_in_exchange_info,yes,ccxt_gateio,BTS/USDT
+ALCX,still_tagged,ALCXUSDT,no,,yes,,no_usdm_pair_in_exchange_info,no,,
+1000CHEEMS,seed_tag_only,1000CHEEMSUSDT,no,1000CHEEMSUSDT,no,,,no,,
+APT,futures_only_delisting,APTUSDT,no,APTUSDT,no,APTBUSD,normal_contract_sunset_or_migration_review,no,,
+0G,spot_pair_removed_only,0GUSDT,no,0GUSDT,no,,,no,,

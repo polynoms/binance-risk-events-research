@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 230964,
+            "code": "864b8bd112a44a8cae14db4dcea159a1",
+            "title": "Binance Futures Will Postpone the Launch of MAVIAUSDT Perpetual Contract",
+            "type": 1,
+            "releaseDate": 1743006090178
+          },
+          {
+            "id": 230856,
+            "code": "27e6323836fa4e87b12205463cbb1517",
+            "title": "Binance Adds FORM, NIL and XUSD as New Loanable Assets and FORM as New Collateral Asset on VIP Loan - 2025-03-26",
+            "type": 1,
+            "releaseDate": 1742968804596
+          },
+          {
+            "id": 230835,
+            "code": "10aa18d725c349f99ee2cf31f69dec91",
+            "title": "Binance Earn Yield Arena: Enjoy Up to 24% APR With This Week’s New Limited-Time Offers! (2025-03-26)",
+            "type": 1,
+            "releaseDate": 1742958001574
+          },
+          {
+            "id": 230644,
+            "code": "773987ba59fb486ca6d08c030009d279",
+            "title": "Binance Earn Introduces EigenLayer WBETH Staking on On-Chain Yields",
+            "type": 1,
+            "releaseDate": 1742896813652
+          },
+          {
+            "id": 230566,
+            "code": "3c577098c0f6481fbed8fa2fcac29d55",
+            "title": "Binance Academy Launches New University-Accredited Course with University of Oulu: Complete the Course and Share Up to 5,000 USDC in Rewards!",
+            "type": 1,
+            "releaseDate": 1742893207228
+          },
+          {
+            "id": 230742,
+            "code": "478515187fab440fa80e56137c148a1b",
+            "title": "Actions Taken on Market Maker Due to Market Irregularities (2025-03-25)",
+            "type": 1,
+            "releaseDate": 1742886002067
+          },
+          {
+            "id": 230598,
+            "code": "aa26fca9dc2d47e5a978e9442aa627a7",
+            "title": "Updates on Tick Size and Minimum Trade Amount for USDⓈ-M LINAUSDT Perpetual Futures Contract (2025-03-25)",
+            "type": 1,
+            "releaseDate": 1742821221221
+          },
+          {
+            "id": 230511,
+            "code": "78bc8706fa4e4d34bf9780e6f836ffe8",
+            "title": "Funding Rate Settlement Frequency of USDⓈ-M ORCAUSDT Perpetual Contract Will Be Resumed (2025-03-24)",
+            "type": 1,
+            "releaseDate": 1742797851896
+          },
+          {
+            "id": 230488,
+            "code": "bd55a51d736a484087cd146f28d082c4",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin (2025-03-28)",
+            "type": 1,
+            "releaseDate": 1742796017726
+          },
+          {
+            "id": 230329,
+            "code": "659d59ec82e54b08833bae32b175ea79",
+            "title": "Updates on Funding Rate Settlement Frequency of USDⓈ-M ORCAUSDT Perpetual Contract (2025-03-21)",
+            "type": 1,
+            "releaseDate": 1742549412655
+          },
+          {
+            "id": 230306,
+            "code": "c808cb25d4b94e57be6f6e9c8e58b778",
+            "title": "Updates on the Leverage & Margin Tiers of ORCAUSDT USDⓈ-M Perpetual Contract (2025-03-21)",
+            "type": 1,
+            "releaseDate": 1742547613239
+          },
+          {
+            "id": 230165,
+            "code": "ed7591c973014ed487b339066292a5ee",
+            "title": "Binance Will Start the First Batch of Vote to Delist on 2025-03-21",
+            "type": 1,
+            "releaseDate": 1742536809937
+          },
+          {
+            "id": 230081,
+            "code": "b207571ebdca4f1d90375aecb64d2499",
+            "title": "Binance Clubhouse Returns to Token2049 Dubai",
+            "type": 1,
+            "releaseDate": 1742457601392
+          },
+          {
+            "id": 230057,
+            "code": "4395931aeb3249fc990d5e9e40d8bdf4",
+            "title": "Binance Updates Fiat Liquidity Provider Program (2025-03-24)",
+            "type": 1,
+            "releaseDate": 1742452202487
+          },
+          {
+            "id": 230054,
+            "code": "09854dd1d61741f98ca5166e6160f501",
+            "title": "Binance Introduces Taker Fee Promotion for EUR Spot and Margin Trading Pairs",
+            "type": 1,
+            "releaseDate": 1742439616255
+          },
+          {
+            "id": 229999,
+            "code": "bc87529069fc43f7b94dde548fe21a74",
+            "title": "Discover Emerging Crypto Projects with Binance Alpha 2.0: Now Available on the Binance Exchange",
+            "type": 1,
+            "releaseDate": 1742391011676
+          },
+          {
+            "id": 229927,
+            "code": "c8621a2443654c1086dd7c062e4bf4ee",
+            "title": "Binance Launches Private Portfolios for Spot Copy Trading",
+            "type": 1,
+            "releaseDate": 1742378402262
+          },
+          {
+            "id": 229880,
+            "code": "b4d9c2fa16354fe1b473135bbac1b4bd",
+            "title": "Binance Margin Introduces the Margin Call Ratio Customization and Margin Call Alert Frequency Adjustment",
+            "type": 1,
+            "releaseDate": 1742364015866
+          },
+          {
+            "id": 229688,
+            "code": "9525ee56661e4c35821ca26a1cc0b85c",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2025-03-18)",
+            "type": 1,
+            "releaseDate": 1742293834655
+          },
+          {
+            "id": 229643,
+            "code": "ffac84f9e8ed4e2294c4ae464bcc42af",
+            "title": "Binance Adds SOLV on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1742274001592
+          },
+          {
+            "id": 229478,
+            "code": "03ec6ecae00c4915849dd522ce19e1b1",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin (2025-03-21)",
+            "type": 1,
+            "releaseDate": 1742191214312
+          },
+          {
+            "id": 229317,
+            "code": "762605679d26494f99ef7891176fdfa0",
+            "title": "Binance Kazakhstan Introduces New Derivatives, Options, and Futures Copy Trading",
+            "type": 1,
+            "releaseDate": 1741961516628
+          },
+          {
+            "id": 229293,
+            "code": "df128b9ebee4430d928edf75ff322163",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2025-03-14)",
+            "type": 1,
+            "releaseDate": 1741948211124
+          },
+          {
+            "id": 229242,
+            "code": "17a8100542304701b271804a3759d0d6",
+            "title": "Binance Wallet Exclusive TGE: Applications Now Open for Early-Stage Projects",
+            "type": 1,
+            "releaseDate": 1741928400000
+          },
+          {
+            "id": 229204,
+            "code": "06e66b694d3a4d0a979c515409646fac",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2025-03-13)",
+            "type": 1,
+            "releaseDate": 1741861818825
+          },
+          {
+            "id": 229104,
+            "code": "bc960ea2ae28492b9242f8bc9964557e",
+            "title": "Binance Adds BB on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1741842007738
+          },
+          {
+            "id": 229011,
+            "code": "23d0a12bf35f42f4a9f7f0cff998ae64",
+            "title": "MGX Backs Binance in Landmark Investment",
+            "type": 1,
+            "releaseDate": 1741791321202
+          },
+          {
+            "id": 229010,
+            "code": "f27a693ec66441828e0215667e7cd2d8",
+            "title": "Important Security Notice Regarding Fake SMS Scam Targeting Bahrain Users",
+            "type": 1,
+            "releaseDate": 1741784401434
+          },
+          {
+            "id": 229003,
+            "code": "b5d596df201a41589445f6667ac58b2a",
+            "title": "Binance Alpha Introduces A Regular Review Mechanism to Remove Unqualified Tokens (2025-03-12)",
+            "type": 1,
+            "releaseDate": 1741780801383
+          },
+          {
+            "id": 228920,
+            "code": "0e03fdcd2d3344eaa436b12ccadf8aa1",
+            "title": "Earn Wednesday: Enjoy Up to 16% APR With New Limited-Time Offers! (2025-03-12)",
+            "type": 1,
+            "releaseDate": 1741748407544
+          },
+          {
+            "id": 228862,
+            "code": "e200477a2dd94a99aed490241b4be04a",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2025-03-11)",
+            "type": 1,
+            "releaseDate": 1741681802170
+          },
+          {
+            "id": 228832,
+            "code": "1e58a4a2bd794a4288f8552f986d2e64",
+            "title": "Binance Adds AI on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1741669201517
+          },
+          {
+            "id": 228605,
+            "code": "b2698a6dee104b008075fbf50350698e",
+            "title": "Binance Will Update the Collateral Ratio of Multiple Assets Under Portfolio Margin (2025-03-14)",
+            "type": 1,
+            "releaseDate": 1741593606124
+          },
+          {
+            "id": 228557,
+            "code": "4a5fa79a6c174db29c43122db732af1e",
+            "title": "Actions Taken on Market Maker for GPS and SHELL Due to Market Irregularities (2025-03-09)",
+            "type": 1,
+            "releaseDate": 1741514410656
+          },
+          {
+            "id": 228530,
+            "code": "36ffe72dc0a84601af3143ad9196571e",
+            "title": "Announcement on Binance's New Community Co-Governance Mechanism for Listing",
+            "type": 1,
+            "releaseDate": 1741359745543
+          },
+          {
+            "id": 228477,
+            "code": "79167fa2f976432eaab191563887ffd1",
+            "title": "Binance Will Extend the Monitoring Tag to GPS on 2025-03-07",
+            "type": 1,
+            "releaseDate": 1741338045829
+          },
+          {
+            "id": 228474,
+            "code": "42fb9e770715490db01ea8bf2c12f9c1",
+            "title": "Binance Will Cease Support for Deposits and Withdrawals of Tokens on Selected Networks - 2025-03-14",
+            "type": 1,
+            "releaseDate": 1741334408735
+          },
+          {
+            "id": 228388,
+            "code": "41dee7fdc3fd478691a4180c3d37d132",
+            "title": "RedStone (RED) Listing Will Be Suspended",
+            "type": 1,
+            "releaseDate": 1741264893434
+          },
+          {
+            "id": 228365,
+            "code": "b6aafa55c60945c5af79c70851dd4bcb",
+            "title": "Important Notice: Updates on Binance Futures COIN-Margined dapi Domains (2025-03-27)",
+            "type": 1,
+            "releaseDate": 1741244419305
+          },
+          {
+            "id": 228339,
+            "code": "4f6adbd028a341a7a5084db27fb01a64",
+            "title": "Trade on Binance Spot and Convert Using Simple Earn Flexible Assets!",
+            "type": 1,
+            "releaseDate": 1741233604385
+          },
+          {
+            "id": 228231,
+            "code": "159a597a62d342fbb5b437aa5c18b1d4",
+            "title": "Binance Spot API to Increase Request Weight (2025-03-10)",
+            "type": 1,
+            "releaseDate": 1741168827465
+          },
+          {
+            "id": 228185,
+            "code": "cec59c7ce78340c4b00d21d1989de220",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2025-03-05)",
+            "type": 1,
+            "releaseDate": 1741163407014
+          },
+          {
+            "id": 228123,
+            "code": "963c4e3d760e4286bd9e5ef559ef2a5a",
+            "title": "Binance Updates Fiat Liquidity Provider Program (2025-03-10)",
+            "type": 1,
+            "releaseDate": 1741158006293
+          },
+          {
+            "id": 228081,
+            "code": "7bad1de4d0bc4921babc95a190671bcf",
+            "title": "Binance Adds SHELL as Loanable Asset on VIP Loan - 2025-03-05",
+            "type": 1,
+            "releaseDate": 1741150814074
+          },
+          {
+            "id": 228078,
+            "code": "bac244e4338b4e729d41738e4d288823",
+            "title": "Earn Wednesday: Enjoy Up to 19% APR With New Limited-Time Offers! (2025-03-05)",
+            "type": 1,
+            "releaseDate": 1741147228823
+          },
+          {
+            "id": 227967,
+            "code": "f5289a23e90545b49cd93785d33708c5",
+            "title": "Binance Upgrades P2P Merchant Program: Unlock New and Exclusive Perks Today!",
+            "type": 1,
+            "releaseDate": 1741078804076
+          },
+          {
+            "id": 227923,
+            "code": "d0a0b3c398264e9eb460f0e64324453c",
+            "title": "Binance Will Change the Monitoring Tag Inclusion Frequency to Monthly and Extend the Monitoring Tag to Include AERGO, ALPACA, AST, BADGER, BURGER, COMBO, NULS, STPT, UFT & VIDT on 2025-03-04",
+            "type": 1,
+            "releaseDate": 1741075282062
+          },
+          {
+            "id": 226898,
+            "code": "bcaa1f68d6a6450099056ff694ad6c46",
+            "title": "Binance Will Delist Non-MiCA Compliant Stablecoin Trading Pairs For EEA Users on 2025-03-31",
+            "type": 1,
+            "releaseDate": 1740992403856
+          },
+          {
+            "id": 227786,
+            "code": "5719cb1642e545c69b2295737491893d",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2025-03-03)",
+            "type": 1,
+            "releaseDate": 1740988803386
+          },
+          {
+            "id": 227747,
+            "code": "8f7491ddcec04b309cb7b5c7d3411e8b",
+            "title": "Binance Launches Zero Fee Promotion on BNB/USDC, ETH/USDC, and SOL/USDC Trading Pairs for VIP 2 - 9 Users, Fiat and Spot Liquidity Provider",
+            "type": 1,
+            "releaseDate": 1740981601712
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

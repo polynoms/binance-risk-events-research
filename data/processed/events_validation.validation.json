@@ -1,0 +1,14 @@
+{
+  "events_csv": "data/processed/events_validation.csv",
+  "rows": 53,
+  "event_type_counts": {
+    "MONITORING_TAG_ADDED": 15,
+    "MONITORING_TAG_REMOVED": 2,
+    "SPOT_TOKEN_DELISTING_ANNOUNCED": 7,
+    "FUTURES_CONTRACT_DELISTING_ANNOUNCED": 6,
+    "SPOT_PAIR_REMOVED": 23
+  },
+  "manual_review_events": 0,
+  "errors": [],
+  "warnings": []
+}

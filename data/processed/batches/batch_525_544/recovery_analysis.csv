@@ -1,0 +1,4 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+ZKP,7e34954d90809678,SEED_TAG_ADDED,0.2134,yes,yes,no,no,no,no,no
+ZRC,4f8e03121fccb1ed,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.003207632740336986,yes,yes,yes,no,no,no,no
+ZRO,ef5d83a3f122c7c9,SEED_TAG_ADDED,3.432,yes,yes,yes,yes,no,no,no

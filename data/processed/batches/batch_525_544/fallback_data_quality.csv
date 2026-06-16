@@ -1,0 +1,5 @@
+token_symbol,fallback_provider_unavailable,true_data_gap,expected_post_delisting_missing,low_liquidity_fallback,suspicious_fallback_spike,fallback_exchange,fallback_pair,fallback_rows_count,fallback_quote_volume,reason,notes
+ZKP,no,yes,no,no,no,,,0,nan,true_data_gap,
+ZRC,no,no,no,no,no,,,0,nan,,
+ZRO,no,yes,no,no,no,,,0,nan,true_data_gap,
+ZRX,no,no,no,no,no,,,0,nan,,

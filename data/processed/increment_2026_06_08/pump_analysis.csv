@@ -1,0 +1,5 @@
+event_id,token_entity_id,token_symbol,anchor_event_type,baseline_price,max_return_1h,max_return_4h,max_return_24h,max_return_3d,max_return_7d,max_return_until_effective_delisting,max_return_price_source,max_return_exchange,volume_zscore,post_pump_drawdown,pump20_flag,pump_and_dump_flag,low_liquidity_pump_flag,fallback_used,manual_review_required
+8f1641d33a4f77c1,COS,COS,SPOT_TOKEN_DELISTING_ANNOUNCED,nan,nan,nan,nan,nan,nan,nan,,binance,nan,nan,no,no,no,no,no
+76c150b865ecafa1,D,D,SPOT_TOKEN_DELISTING_ANNOUNCED,nan,nan,nan,nan,nan,nan,nan,,binance,nan,nan,no,no,no,no,no
+c075b466868179e5,HIGH,HIGH,SPOT_TOKEN_DELISTING_ANNOUNCED,nan,nan,nan,nan,nan,nan,nan,,binance,nan,nan,no,no,no,no,no
+56db4fbdc3e0e58b,MBOX,MBOX,SPOT_TOKEN_DELISTING_ANNOUNCED,nan,nan,nan,nan,nan,nan,nan,,binance,nan,nan,no,no,no,no,no

@@ -1,0 +1,372 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 49,
+        "parentCatalogId": null,
+        "icon": "https://public.bnbstatic.com/image/cms/content/body/202505/1c644f6be4cad5a1c149e7318d85e9ff.png",
+        "catalogName": "Latest Binance News",
+        "description": null,
+        "catalogType": 1,
+        "total": 4274,
+        "articles": [
+          {
+            "id": 206522,
+            "code": "08f043a4f20d4f0290817ece13b3d7f4",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2024-07-25)",
+            "type": 1,
+            "releaseDate": 1721804402210
+          },
+          {
+            "id": 206475,
+            "code": "71ea9923cd46441e88932b07246b7cd0",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) and VIP Loan - 2024-07-24",
+            "type": 1,
+            "releaseDate": 1721797207345
+          },
+          {
+            "id": 206428,
+            "code": "89e0c0a14a174104a250e9edda90b5b7",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-07-24)",
+            "type": 1,
+            "releaseDate": 1721790005183
+          },
+          {
+            "id": 206380,
+            "code": "c4144b3f73e942dcbf38a0b2b469a442",
+            "title": "Binance P2P Adds Support for New WLD Trading Pairs",
+            "type": 1,
+            "releaseDate": 1721646223871
+          },
+          {
+            "id": 206176,
+            "code": "6df074e0264648448c260b1430240e2f",
+            "title": "Binance Has Completed the Galxe (GAL) Token Swap, Redenomination, and Rebranding to Gravity (G)",
+            "type": 1,
+            "releaseDate": 1721383201324
+          },
+          {
+            "id": 205988,
+            "code": "deb2c78ba43f420cab1c52981f875c3d",
+            "title": "Binance Completes Integrations of Maverick Protocol (MAV) and ether.fi (ETHFI) on Arbitrum One Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1721268001314
+          },
+          {
+            "id": 205808,
+            "code": "d6e614e792c449fc93673067f5643d35",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-07-18)",
+            "type": 1,
+            "releaseDate": 1721188802811
+          },
+          {
+            "id": 205783,
+            "code": "3adbeaf4945b41c28d564b33ea32f593",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-07-17)",
+            "type": 1,
+            "releaseDate": 1721185217976
+          },
+          {
+            "id": 205657,
+            "code": "37847fb264204ae08110d1455b375ba8",
+            "title": "PEPE Flexible Products: Complete Subscription to Enjoy Up to 8% Bonus Tiered APR!",
+            "type": 1,
+            "releaseDate": 1721098803625
+          },
+          {
+            "id": 205645,
+            "code": "612bf21438b34bdb825cf56d2c9c7554",
+            "title": "Binance Futures Updates Taker Program (2024-07-30)",
+            "type": 1,
+            "releaseDate": 1721034002669
+          },
+          {
+            "id": 205611,
+            "code": "5b006e97f5b8434f98f86d7e0be4e6c7",
+            "title": "Updates on Binance Futures COIN-Margined WebSocket Domains (2024-07-29)",
+            "type": 1,
+            "releaseDate": 1721030403759
+          },
+          {
+            "id": 205557,
+            "code": "dcd1e0044c944469bbbfe821ea8883e5",
+            "title": "Updates on Tick Size for Spot Trading Pairs (2024-07-22)",
+            "type": 1,
+            "releaseDate": 1721012401290
+          },
+          {
+            "id": 205381,
+            "code": "a679386900154386acb262a66868d2a0",
+            "title": "FET Simple Earn Products: Complete Subscription to Enjoy Up to 10.7% APR!",
+            "type": 1,
+            "releaseDate": 1720753246776
+          },
+          {
+            "id": 205350,
+            "code": "50fe88f02e694434aa3284dd2d95a1f1",
+            "title": "Binance Opens Multi-Validator Withdrawal Verification to All Corporate Accounts",
+            "type": 1,
+            "releaseDate": 1720699201750
+          },
+          {
+            "id": 205310,
+            "code": "da27d4366dfc42baaa72084e65ab98d0",
+            "title": "Binance Updates VIP Program for Spot and Margin Trading Fees for VIP 5 to 8 Users and Trade Volume Requirements of VIP 4 Users",
+            "type": 1,
+            "releaseDate": 1720692002421
+          },
+          {
+            "id": 205205,
+            "code": "9c38da38ef804d63a92d042639f388ee",
+            "title": "Binance Adds ASTR on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1720681202575
+          },
+          {
+            "id": 205229,
+            "code": "c0975433aac14fdd8ad3f37c88c2c5b6",
+            "title": "Binance Completes Integration of Polkadot (DOT) on Asset Hub (Polkadot), Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1720666801177
+          },
+          {
+            "id": 205126,
+            "code": "d1f2ae8d99b24439a7a900caa9bb6b3b",
+            "title": "Binance Will Support the Render (RNDR) Token Swap and Rebranding to Render (RENDER)",
+            "type": 1,
+            "releaseDate": 1720593003071
+          },
+          {
+            "id": 205120,
+            "code": "23d9d95d5e9541c2b94917cdc4cd225a",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) and VIP Loan - 2024-07-10",
+            "type": 1,
+            "releaseDate": 1720587608225
+          },
+          {
+            "id": 205068,
+            "code": "696da2c676474b0a82a3a8a2be124fae",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-07-10)",
+            "type": 1,
+            "releaseDate": 1720580429049
+          },
+          {
+            "id": 205037,
+            "code": "e47b316081a44aeca6e133b3e6c5a897",
+            "title": "Updates on Zero-Fee Trading for TUSD Spot and Margin Trading Pairs",
+            "type": 1,
+            "releaseDate": 1720512015036
+          },
+          {
+            "id": 205025,
+            "code": "8ceea098625141bfa199148b5bba25d3",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-07-10)",
+            "type": 1,
+            "releaseDate": 1720508402135
+          },
+          {
+            "id": 204842,
+            "code": "3dc0eae584cd4accb34cb914dacf670d",
+            "title": "Binance Has Completed the Fetch.ai (FET), Ocean Protocol (OCEAN), and SingularityNET (AGIX) Token Merge",
+            "type": 1,
+            "releaseDate": 1720177203833
+          },
+          {
+            "id": 204718,
+            "code": "a4becf8462724b4d8bb45b5101f80ee9",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-07-05)",
+            "type": 1,
+            "releaseDate": 1720076403227
+          },
+          {
+            "id": 204580,
+            "code": "aa8c9a98d6184cfa9a4f8e761c712311",
+            "title": "New Loanable Assets Available on Binance Loans (Flexible Rate) - 2024-07-03",
+            "type": 1,
+            "releaseDate": 1719979207868
+          },
+          {
+            "id": 204577,
+            "code": "cf530cb4f816433186fbd357caff27cb",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-07-03)",
+            "type": 1,
+            "releaseDate": 1719975601880
+          },
+          {
+            "id": 204550,
+            "code": "b36ac97af85045b9a498d00d0e090530",
+            "title": "Binance Launches Zero Fee Promotion for EEA regulated EUR/USDC Trading Pair",
+            "type": 1,
+            "releaseDate": 1719933196623
+          },
+          {
+            "id": 204462,
+            "code": "653d43c0083047beab4e1f6efcc48b30",
+            "title": "Updates to Binance’s Services in Turkey Under the New Crypto Regulations",
+            "type": 1,
+            "releaseDate": 1719928802668
+          },
+          {
+            "id": 204433,
+            "code": "20fa5a31e5794f2581f4277cca01b031",
+            "title": "USDC Flexible Products Limited Offer: Complete Subscription to Enjoy Up to 7% APR Rewards!",
+            "type": 1,
+            "releaseDate": 1719900011593
+          },
+          {
+            "id": 204377,
+            "code": "bac622c6e0f84f29bb1bddcef66a258e",
+            "title": "Binance Adds LISTA on Simple Earn Locked Products",
+            "type": 1,
+            "releaseDate": 1719885605832
+          },
+          {
+            "id": 204350,
+            "code": "0d4036736bf344259769aa7cc6f080a4",
+            "title": "USDC is Now MiCA-Compliant: Here’s How It Affects Your Binance Account",
+            "type": 1,
+            "releaseDate": 1719846123582
+          },
+          {
+            "id": 204311,
+            "code": "06fbeed8532647b39bab57da2006e380",
+            "title": "Binance Auto-Invest: Changes in Product Entry Points",
+            "type": 1,
+            "releaseDate": 1719820816599
+          },
+          {
+            "id": 204276,
+            "code": "782b121c462b499487dc8f20e0edc6b2",
+            "title": "Binance Will Extend the Monitoring Tag to Include BAL, CTXC, CVP, CVX, DOCK, HARD, IRIS, MBL, POLS, SNT & SUN and Remove the Monitoring Tag for MLN & ZEN on 2024-07-01",
+            "type": 1,
+            "releaseDate": 1719817203584
+          },
+          {
+            "id": 204156,
+            "code": "4e842671311c4ae9814e4da9ef47fcef",
+            "title": "Binance Will Update The Collateral Ratio of Multiple Assets Under Portfolio Margin ( 2024-06-28)",
+            "type": 1,
+            "releaseDate": 1719468001364
+          },
+          {
+            "id": 204129,
+            "code": "9164cce17ddf48cdaa0d5ca8e34c77f3",
+            "title": "Binance Has Completed the Metal DAO (MTL) Mainnet Swap",
+            "type": 1,
+            "releaseDate": 1719457201017
+          },
+          {
+            "id": 204098,
+            "code": "476b16f529d54f9fbb39e4d4ec84837c",
+            "title": "Binance Addresses Account Misuse in Commitment to Uphold Compliance and Market Integrity",
+            "type": 1,
+            "releaseDate": 1719453601409
+          },
+          {
+            "id": 204092,
+            "code": "fcf59dbdbb6d4e068238355889a4804c",
+            "title": "Dubai Resident Account Users to be Transitioned to Binance Dubai (FZE)",
+            "type": 1,
+            "releaseDate": 1719397818549
+          },
+          {
+            "id": 204034,
+            "code": "7425762dc2084ae2807f9575f272107d",
+            "title": "Binance Completes the Conversion of Selected Token Balances to USDT (2024-06-26)",
+            "type": 1,
+            "releaseDate": 1719396005984
+          },
+          {
+            "id": 204007,
+            "code": "a3f50595b143465bbe3201174c89b7da",
+            "title": "Earn Wednesday: New Limited-Time Offers Available Now! (2024-06-26)",
+            "type": 1,
+            "releaseDate": 1719387004277
+          },
+          {
+            "id": 203979,
+            "code": "d40cb640db6c4d62aa00ef98e00f65b3",
+            "title": "Binance Futures Funding Fee Notification To Resume (2024-06-24)",
+            "type": 1,
+            "releaseDate": 1719212409281
+          },
+          {
+            "id": 203950,
+            "code": "384f39499e5f4305a0ba2c9254844d35",
+            "title": "Binance Updates Fiat Liquidity Provider Program (2024-06-25)",
+            "type": 1,
+            "releaseDate": 1719208804649
+          },
+          {
+            "id": 203947,
+            "code": "9726aa0e27304f13b27f244f5880e341",
+            "title": "Updates on Zero-Fee Trading for JPY Spot Trading Pairs",
+            "type": 1,
+            "releaseDate": 1719208803069
+          },
+          {
+            "id": 203814,
+            "code": "f6c4867f5cab47e39864130804eff106",
+            "title": "Binance Completes Integration of Tether (USDT) on Toncoin Network, Opens Deposits and Withdrawals",
+            "type": 1,
+            "releaseDate": 1718949601487
+          },
+          {
+            "id": 203704,
+            "code": "86d3d85e975b4eba802ed65951d69dbd",
+            "title": "LayerZero (ZRO) Listing Will Be Postponed",
+            "type": 1,
+            "releaseDate": 1718884385682
+          },
+          {
+            "id": 203404,
+            "code": "e2493eb674a241db9f16252eb55d8063",
+            "title": "Binance Announces Blockchain Week Dubai 2024 With Early Bird Tickets Now on Sale",
+            "type": 1,
+            "releaseDate": 1718877625115
+          },
+          {
+            "id": 203577,
+            "code": "50df6c9af8f14d09937a01956779d2a3",
+            "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2024-06-20)",
+            "type": 1,
+            "releaseDate": 1718856001813
+          },
+          {
+            "id": 203549,
+            "code": "eb8c059da7ce44ce8a30df7536045b2b",
+            "title": "Updates on Tick Size for Spot Trading Pairs (2024-06-27)",
+            "type": 1,
+            "releaseDate": 1718852403178
+          },
+          {
+            "id": 203450,
+            "code": "59a0a10b835d4c3ab2ffbfca941e7d24",
+            "title": "Binance Launches HODLer Airdrops to BNB Holders!",
+            "type": 1,
+            "releaseDate": 1718793906858
+          },
+          {
+            "id": 203433,
+            "code": "2c9ef930911647ed92bf1e3619b8d1e7",
+            "title": "Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M Perpetual Contracts (2024-06-19)",
+            "type": 1,
+            "releaseDate": 1718787605009
+          },
+          {
+            "id": 203405,
+            "code": "215c30c2dae2483b98b2379dfe73abbe",
+            "title": "Updates on Taker Fee Promotion for Spot and Margin Altcoin Trading Pairs",
+            "type": 1,
+            "releaseDate": 1718784032941
+          }
+        ],
+        "catalogs": []
+      }
+    ]
+  },
+  "success": true
+}

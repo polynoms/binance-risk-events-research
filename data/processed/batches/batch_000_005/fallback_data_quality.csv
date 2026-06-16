@@ -1,0 +1,6 @@
+token_symbol,fallback_provider_unavailable,true_data_gap,expected_post_delisting_missing,low_liquidity_fallback,suspicious_fallback_spike,fallback_exchange,fallback_pair,fallback_rows_count,fallback_quote_volume,reason,notes
+0G,no,no,no,no,no,,,0,nan,,
+1000CAT,no,no,no,no,no,,,0,nan,,
+1000CHEEMS,no,yes,no,no,no,,,0,nan,true_data_gap,
+1000SATS,no,yes,no,no,no,,,0,nan,true_data_gap,
+1000WHY,no,yes,no,no,no,,,0,nan,benchmark_gap;true_data_gap,

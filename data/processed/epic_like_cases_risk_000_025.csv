@@ -1,0 +1,4 @@
+token_entity_id,token_symbol,anchor_event_id,anchor_event_type,drawdown_before_rebound,days_from_event_to_bottom,max_rebound_after_bottom,days_from_bottom_to_rebound,volume_zscore_on_rebound,rebound_sustained,post_rebound_drawdown,fallback_used,suspicious_spike_flag,low_liquidity_flag,epic_similarity_score,manual_review_required,notes
+ALPACA,ALPACA,064b0dde744232dc,MONITORING_TAG_ADDED,-0.7486934281715131,43.74905092592593,44.68345323741008,13.25,2.482920153982655,yes,-0.8389763779527559,no,no,no,1.0,no,
+AST,AST,c9bba63a0a1d11c1,MONITORING_TAG_ADDED,-0.864189171165554,12.040717592592593,5.1976744186046515,7.166666666666667,4.661366239650997,yes,-0.5159474671669794,no,no,no,1.0,no,
+BAKE,BAKE,5c8137ecc69b6b61,MONITORING_TAG_ADDED,-0.6561944745934164,64.31253472222222,5.621212121212121,0.9583333333333334,3.7228135667193953,yes,-0.7913043478260869,no,no,no,1.0,no,

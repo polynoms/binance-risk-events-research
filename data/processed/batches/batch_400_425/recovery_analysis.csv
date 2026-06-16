@@ -1,0 +1,11 @@
+token_symbol,anchor_event_id,anchor_event_type,baseline_price,recovery_90_touch,recovery_100_touch,recovery_90_sustained,recovery_100_sustained,never_recovered,missing_price_flag,fallback_used
+SCR,72c5f412bda829f6,SEED_TAG_ADDED,1.2448309258149124,yes,yes,yes,yes,no,no,no
+SENT,e88d68272990a982,SEED_TAG_ADDED,0.02986,yes,yes,yes,yes,no,no,no
+SKATE,12428423d526719e,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.019940959529158007,no,no,no,no,yes,no,no
+SLERF,cf527d920c40d06b,FUTURES_CONTRACT_DELISTING_ANNOUNCED,0.07174175394275685,yes,yes,yes,no,no,no,no
+SLF,75401db392ee79e3,MONITORING_TAG_ADDED,0.07182966526367938,yes,yes,yes,yes,no,no,yes
+SLP,739addb19a680c63,,,,,,,unknown,yes,
+SNM,8c77ca08a398851d,SPOT_TOKEN_DELISTING_ANNOUNCED,nan,unknown,unknown,unknown,unknown,unknown,yes,no
+SNT,bf72bb1d09062290,MONITORING_TAG_ADDED,0.026132978747628422,yes,yes,yes,no,no,no,yes
+SOL,b52761fdd30b7f8f,FUTURES_CONTRACT_DELISTING_ANNOUNCED,22.101533736676735,yes,no,yes,no,no,no,no
+SRM,0e162a9646208d35,SPOT_TOKEN_DELISTING_ANNOUNCED,nan,unknown,unknown,unknown,unknown,unknown,yes,no
